@@ -1,0 +1,592 @@
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+
+<!--mfunc function_name( 'HTTP_USER_AGENT') -->
+<!--/mfunc-->
+
+
+<meta charset="UTF-8" />
+
+
+
+<title>HTMLGIANT | the internet literature magazine blog of the past</title>
+	
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="stylesheet" type="text/css" media="all" href="http://htmlgiant.com/wp-content/themes/HTMLGIANT3.2/style.css" />
+<link rel="pingback" href="http://htmlgiant.com/xmlrpc.php" />
+<link rel="apple-touch-icon-precomposed" href="/htmlgiant_mobile_icon.png">
+
+
+<!--mfunc function_name( 'HTTP_USER_AGENT') -->
+<!---->
+<script src="https://use.typekit.net/hfi1kad.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<!---->
+<!--/mfunc-->
+
+<!--mfunc function_name( 'iphone') -->
+<!--/mfunc-->
+
+
+<script type="text/javascript" src="http://htmlgiant.com/jquery.js"></script> 
+
+
+<!--[if lt IE 7]>
+<script defer type="text/javascript" src="http://htmlgiant.com/pngfix.js"></script>
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="HTMLGIANT &raquo; Feed" href="http://htmlgiant.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="HTMLGIANT &raquo; Comments Feed" href="http://htmlgiant.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/htmlgiant.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.3"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='sociablecss-css'  href='http://htmlgiant.com/wp-content/plugins/sociable/css/sociable.css?ver=4.5.3' type='text/css' media='all' />
+<script type='text/javascript' src='http://htmlgiant.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='http://htmlgiant.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='http://htmlgiant.com/wp-content/plugins/sociable/js/sociable.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://htmlgiant.com/wp-content/plugins/sociable/js/vuible.js?ver=4.5.3'></script>
+<script type='text/javascript' src='http://htmlgiant.com/wp-content/plugins/sociable/js/addtofavorites.js?ver=4.5.3'></script>
+<link rel='https://api.w.org/' href='http://htmlgiant.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://htmlgiant.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://htmlgiant.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.3" />
+<link rel='shortlink' href='http://wp.me/xMjR' />
+<script type='text/javascript'>var base_url_sociable = 'http://htmlgiant.com/wp-content/plugins/sociable/'</script><script type='text/javascript' src='http://apis.google.com/js/plusone.js'></script>
+
+</head>
+
+<body>
+
+
+
+
+<div id="page">
+<div class="bookads">
+<div class="bookadss">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Header Ad -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8720881437269047"
+     data-ad-slot="1073864419"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+</div>
+
+
+	<div id="headerimg">
+	<div class="clear"></div>
+	<a href="http://htmlgiant.com/"><h1 class="sitetitle">HTMLGIANT</h1><!------<img src="http://htmlgiant.com/wp-content/themes/HTMLGIANT3.2/images/logo.png" height="48px" width="550px" >------></a>
+		</div>
+	<div class="menu"><ul id="menu-main" class="menu"><li id="menu-item-42481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42481"><a href="http://htmlgiant.com/about/">About</a></li>
+<li id="menu-item-123408" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-123408"><a href="http://htmlgiant.com/category/sunday-service/">Sunday Service</a></li>
+<li id="menu-item-123409" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-123409"><a href="http://htmlgiant.com/category/reviews/">Reviews</a></li>
+</ul></div>	<div class="clear"></div>
+
+ 
+
+	<div id="content" class="narrowcolumn">
+	
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+			<div id="post-123390" class="post-short">
+			<div class="shortpost" id="post-123390">
+                <div class="shortentry">
+              		<small class="shortmeta"><a href="http://htmlgiant.com/author/gene/" title="Posts by Gene Morgan" rel="author">Gene Morgan</a>&mdash;</small>
+              		<p>Thank you for your contributions, your magic, and your love.</p>
+              		<div class="shortcomments"><small class="shortmetacomments"><a href="http://htmlgiant.com/snippet/see-you/#comments"><span class="dsq-postid" data-dsqidentifier="123390 http://htmlgiant.com/?p=123390">13</span></a></small></div>	
+				</div><!-- .shortentry -->	
+			</div><!-- .shortpost -->	
+		</div><!-- .post-short -->
+		
+		
+		
+			
+
+
+
+
+
+
+
+
+			<div id="post-123384" class="post-123384 post type-post status-publish format-standard hentry category-contributor-things category-random category-roundup">
+			
+			<div class="entry-utility">
+				<small><a href="http://htmlgiant.com/author/kristeni/" title="Posts by Kristen Iskandrian" rel="author">Kristen Iskandrian</a></small>
+			</div>
+			
+			<h2><a href="http://htmlgiant.com/random/goodnight-nobody-goodnight-mush/" rel="bookmark" title="Permanent Link to Goodnight nobody / Goodnight mush">Goodnight nobody / Goodnight mush</a></h2>
+			
+							<div class="entry">
+					<p><a href="http://iframewidth=560height=315src=//www.youtube.com/embed/qmd3RFcssLEframeborder=0allowfullscreen/iframe"><iframe src="//www.youtube.com/embed/qmd3RFcssLE" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></a><br class="Apple-interchange-newline" /><br />
+I gladly add my voice to the chorus of Goodnight and Thank You to Gene and to Blake. Thank you, for creating this bizarre little hole that grew &amp; grew, a hole I happily fell into time &amp; time again. I didn&#8217;t post often, and haven&#8217;t in ages, but I visited regularly and learned a lot here&#8211;about books I would not necessarily have found otherwise, and presses, and people asking important questions and creating amazing things. Thank you to those of you I haven&#8217;t met in person, but feel I know vibrationally, which can be better than IRL.</p>
+<p>I know there were flare-ups and hurt feelings, but if I&#8217;m going to be honest, I more often than not left this space with more&#8211;not less&#8211;empathy. Behind each voice, behind each screen, is an actual person, and therefore, I think it&#8217;s safe to say, a person in pain. Pain is a good teacher.</p>
+<p>It might sound silly, but one of the things I learned from the past 4-5 years of clicking around here: the internet is the ultimate nobody &amp; the ultimate everybody. HTMLGiant was a very good place for negotiating this weird, constantly askew binary. And I think, at its best, it was an exemplary art forum&#8211;many people here seem to know that the only way to talk about art, really, is to make it. Questions of good or bad, like it or don&#8217;t like it, generally didn&#8217;t resonate for long. People risked ridicule and criticism to talk about things that moved them.</p>
+<p>People risked. I guess I can&#8217;t think of a higher compliment.</p>
+<p>&nbsp;</p>
+									</div><!-- .entry-content -->
+						
+			<div class="entry-utility">
+				<small><a href="http://htmlgiant.com/category/contributor-things/" rel="category tag">Contributor Things</a> &amp; <a href="http://htmlgiant.com/category/random/" rel="category tag">Random</a> &amp; <a href="http://htmlgiant.com/category/roundup/" rel="category tag">Roundup</a> /   <a href="http://htmlgiant.com/random/goodnight-nobody-goodnight-mush/#comments"><span class="dsq-postid" data-dsqidentifier="123384 http://htmlgiant.com/?p=123384">1 Comment</span></a></small><br />
+				<small class="smallmeta">October 24th, 2014 / 9:56 pm</small>
+			</div><!-- .entry-utility -->
+		</div><!-- .post -->
+
+			<div class="clear"></div>
+
+
+
+
+	
+
+
+
+
+
+
+
+
+			<div id="post-123374" class="post-123374 post type-post status-publish format-standard hentry category-random">
+			
+			<div class="entry-utility">
+				<small><a href="http://htmlgiant.com/author/blake/" title="Posts by Blake Butler" rel="author">Blake Butler</a></small>
+			</div>
+			
+			<h2><a href="http://htmlgiant.com/random/peace/" rel="bookmark" title="Permanent Link to Peace">Peace</a></h2>
+			
+							<div class="entry">
+					<p><iframe width="600" height="470" src="//www.youtube.com/embed/JnIfgITYzuY" frameborder="0" allowfullscreen></iframe></p>
+									</div><!-- .entry-content -->
+						
+			<div class="entry-utility">
+				<small><a href="http://htmlgiant.com/category/random/" rel="category tag">Random</a> /   <a href="http://htmlgiant.com/random/peace/#comments"><span class="dsq-postid" data-dsqidentifier="123374 http://htmlgiant.com/?p=123374">11 Comments</span></a></small><br />
+				<small class="smallmeta">October 24th, 2014 / 2:41 pm</small>
+			</div><!-- .entry-utility -->
+		</div><!-- .post -->
+
+			<div class="clear"></div>
+
+
+
+
+	
+
+
+
+
+
+
+
+
+			<div id="post-123348" class="post-123348 post type-post status-publish format-standard hentry category-opinion">
+			
+			<div class="entry-utility">
+				<small><a href="http://htmlgiant.com/author/guest/" title="Posts by André Babyn" rel="author">André Babyn</a></small>
+			</div>
+			
+			<h2><a href="http://htmlgiant.com/opinion/the-strickland-needleman-carousel/" rel="bookmark" title="Permanent Link to The Strickland-Needleman Carousel">The Strickland-Needleman Carousel</a></h2>
+			
+							<div class="entry">
+					<p><img class="aligncenter wp-image-123367 size-large" src="http://htmlgiant.com/wp-content/uploads/2014/10/carousel-500x334.jpg" alt="carousel" width="500" height="334" srcset="http://htmlgiant.com/wp-content/uploads/2014/10/carousel-500x334.jpg 500w, http://htmlgiant.com/wp-content/uploads/2014/10/carousel-200x133.jpg 200w, http://htmlgiant.com/wp-content/uploads/2014/10/carousel-300x200.jpg 300w, http://htmlgiant.com/wp-content/uploads/2014/10/carousel.jpg 900w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p><em>Hey guys, it’s “ZZZIPP,” from the comment section here. I wrote the following essay for HTMLGIANT in December, but never sent it along to anyone. It’s a response to all of the Garrett Strickland misogyny stuff that was happening then, but it is also really personal which maybe explains why instead of ever sending it along I sat on it like a scared dumb bird. </em></p>
+<p><em>HTMLGIANT has meant a lot to me over the last six years (I was lurking at the very beginning), and I want to pay tribute to that somehow. I think in some ways this essay is relevant to certain discussions which have taken place since it was announced that HG was closing (i.e.: the idea that it is “better” for indie literature to have the “HG boys club” shut down) (because fuck that).</em></p>
+<p><em>Thanks again, though, everyone. This was a great community. I really can’t stress enough how important HTMLGIANT was to me, in all kinds of ways, even if I mostly engaged as a “photon.”</em></p>
+<p>***</p>
+<p>I haven’t read Gertrude Stein’s <span style="font-style: italic;">Th</span><span style="font-style: italic;">e Making of Americans</span>, but for a while I think I wished Stein was my grandmother or my encouraging older neighbour, and I bought a lot of her books all at once and took the rest out of the library. They sat on my coffee table and on my couch and I liked to think that their mere presence was making me a better person and a better writer. I read a few of them, but I never made it very far in <span style="font-style: italic;">Americans</span>. One day I hope to. I must have read the first page twenty or thirty times.</p>
+<blockquote><p>Once an angy man dragged his father along the ground through his own orchard. “Stop!” cried the groaning old man at last, “Stop! I did not drag my father beyond this tree.”</p>
+<p>It is hard living down the tempers we are born with. We all begin well, for in our youth there is nothing we are more intolerant of than our own sins writ large in others and we fight them fiercely in ourselves; but we grow old and we see that these our sins are of all sins the really harmless ones to own, nay that they give a charm to any character, and so our struggle with them dies away.</p></blockquote>
+<p>When I told the woman I was seeing at the time that I wished Gertrude Stein was my grandmother or my aunt she told me that she thought everyone did at some point in their life. I felt pretty good about that, because she was five years older than me and because she used to be my teacher, and I thought it meant something that I had said something that had resonated strongly with her.</p>
+<p>Now I can see all of the problems with that.</p>
+<p> <a href="http://htmlgiant.com/opinion/the-strickland-needleman-carousel/#more-123348" class="more-link">READ MORE &gt;</a></p>
+									</div><!-- .entry-content -->
+						
+			<div class="entry-utility">
+				<small><a href="http://htmlgiant.com/category/opinion/" rel="category tag">Opinion</a> /   <a href="http://htmlgiant.com/opinion/the-strickland-needleman-carousel/#comments"><span class="dsq-postid" data-dsqidentifier="123348 http://htmlgiant.com/?p=123348">37 Comments</span></a></small><br />
+				<small class="smallmeta">October 24th, 2014 / 1:41 pm</small>
+			</div><!-- .entry-utility -->
+		</div><!-- .post -->
+
+			<div class="clear"></div>
+
+
+
+
+	
+
+
+
+
+
+
+
+
+			<div id="post-123360" class="post-123360 post type-post status-publish format-standard hentry category-web-hype">
+			
+			<div class="entry-utility">
+				<small><a href="http://htmlgiant.com/author/catherine/" title="Posts by Catherine Lacey" rel="author">Catherine Lacey</a></small>
+			</div>
+			
+			<h2><a href="http://htmlgiant.com/web-hype/bye-past/" rel="bookmark" title="Permanent Link to Bye, past.">Bye, past.</a></h2>
+			
+							<div class="entry">
+					<div id="attachment_123364" style="width: 306px" class="wp-caption alignleft"><a href="http://htmlgiant.com/web-hype/bye-past/attachment/internetcannibal/" rel="attachment wp-att-123364"><img class="wp-image-123364 " src="http://htmlgiant.com/wp-content/uploads/2014/10/internetcannibal-300x229.jpg" alt="internetisacannibal" width="296" height="229" /></a><p class="wp-caption-text">This image was found on the internet in my usual manner, which is that I would just google the first sentence of the post and use the first interesting image that came up.</p></div>
+<p>The internet is a cannibal. Things come out and things get chewed right back in.</p>
+<p>I don&#8217;t know what compelled me to start a blogger account in 2007 or 2008 or whenever it was. Loneliness probably and the sense I had back then that &#8220;one <em>should</em> blog,&#8221; a sense I no longer have but an impulse that ended up teaching me so much.</p>
+<p>Anyway, from this weird ring of blogger accounts of fledgling writers and poets, the giant grew. We wrote things we might regret. We argued. We read so much internet our eyes stung and swole up and we maybe lost real life friends and gained internet friends that became real life friends. It was here I started writing stuff that strangers read, that I learned to defend myself in words. I read a lot, thought a lot, went to school, had this second school of folks here, teaching me the shit they actually do not teach you in school. I hope the writers younger than us have their giants, too. I&#8217;m sure they&#8217;re out there.</p>
+<p><a href="http://htmlgiant.com/web-hype/my-last-blog/">I don&#8217;t blog anymore</a> (though I suppose this is one last exception!) and my internet consumption is way, way down, but it still means a lot to me, that this place was here, that it was what it was for a time. Thanks Blake &amp; Gene &amp; all you little lovely weirdos.</p>
+									</div><!-- .entry-content -->
+						
+			<div class="entry-utility">
+				<small><a href="http://htmlgiant.com/category/web-hype/" rel="category tag">Web Hype</a> /   <a href="http://htmlgiant.com/web-hype/bye-past/#comments"><span class="dsq-postid" data-dsqidentifier="123360 http://htmlgiant.com/?p=123360">2 Comments</span></a></small><br />
+				<small class="smallmeta">October 24th, 2014 / 1:07 pm</small>
+			</div><!-- .entry-utility -->
+		</div><!-- .post -->
+
+			<div class="clear"></div>
+
+
+
+
+	
+
+
+
+
+
+
+
+
+			<div id="post-123347" class="post-123347 post type-post status-publish format-standard hentry category-web-hype">
+			
+			<div class="entry-utility">
+				<small><a href="http://htmlgiant.com/author/roxane/" title="Posts by Roxane Gay" rel="author">Roxane Gay</a></small>
+			</div>
+			
+			<h2><a href="http://htmlgiant.com/web-hype/goodbyetoallthis/" rel="bookmark" title="Permanent Link to Goodbye To All This">Goodbye To All This</a></h2>
+			
+							<div class="entry">
+					<p>Blake Butler invited me to join the rowdy conversation over here in 2009. I was way older and different than most of the other contributors but they all welcomed me and what I had to say.</p>
+<p>I got to start a <a href="http://htmlgiant.com/literary-magazine-club/">Literary Magazine Club</a> and we sure tried to make a go of it. I wrote about my homegirl <a href="http://htmlgiant.com/craft-notes/class-is-in-session-with-professor-edith-wharton/">Edith Wharton</a>, <a href="http://htmlgiant.com/mean/sentimental-narrow-womens-writing-alas-alack-anon/">sentimental women&#8217;s writing</a>, <a href="http://htmlgiant.com/author-spotlight/a-conversation-with-jac-jemc/">interviewed</a> or <a href="http://htmlgiant.com/reviews/48953/">reviewed</a> <a href="http://htmlgiant.com/reviews/silver-sparrow-by-tayari-jones/">talented</a> <a href="http://htmlgiant.com/reviews/the-ordinary-extraordinary-three-gorgeous-books/">writers</a>, gave space other writers write on <a href="http://htmlgiant.com/reviews/on-he-is-talking-to-the-fat-lady-by-xtx-it-will-rip-your-head-off/">talented writers</a>,  <a href="http://htmlgiant.com/craft-notes/novel-writing-cooking-walking-running/">mused</a> on writing a novel, accepted writing as a <a href="http://htmlgiant.com/random/to-write-as-a-woman-is-political/">political act</a>, considered <a href="http://htmlgiant.com/random/a-profound-sense-of-absence/">diversity</a> in the Best American series, and on and on. I have so many opinions and I will forever be grateful that I had this space to share them!</p>
+<p>I wrote a lot here. I learned so much about how to argue, being criticized, developing a thicker skin, becoming a stronger writer, being more open minded, standing my ground. I am still a work in progress, but I&#8217;ve come so far because of HTMLGIANT. I have been exposed to writers, magazines, and presses I would have never known about and that are now part of my canon. I have met most of my closest friends through this place. Y&#8217;all, Mark Cugini, can I just shout him out? Every time I am in D.C. that man is there, the familiar face in the crowd. He, like so many others I have met through here, is tireless and awesome.</p>
+<p>HTMLGIANT has its issues and they have been well-documented, particularly when it comes to sexism and racism. But the world is a difficult place. It would be strange to expect that this community, and it <em>is</em>, a community, would somehow rise above the world&#8217;s imperfections as a utopia. We are readers and writers and we are, perhaps, idealists. We want to be the best versions of ourselves. Wherever this community goes next, we will be better. I hope we will continue to reach for that better place where we act and think compassionately and intelligently about the differences between us.</p>
+<p>I don&#8217;t have anything grand to say other than thank you to Blake and Gene for inviting me to share my voice here. Thank you, readers and commenters for supporting and challenging me and giving a damn about reading and writing. Thank you, all.</p>
+									</div><!-- .entry-content -->
+						
+			<div class="entry-utility">
+				<small><a href="http://htmlgiant.com/category/web-hype/" rel="category tag">Web Hype</a> /   <a href="http://htmlgiant.com/web-hype/goodbyetoallthis/#comments"><span class="dsq-postid" data-dsqidentifier="123347 http://htmlgiant.com/?p=123347">6 Comments</span></a></small><br />
+				<small class="smallmeta">October 24th, 2014 / 10:31 am</small>
+			</div><!-- .entry-utility -->
+		</div><!-- .post -->
+
+			<div class="clear"></div>
+
+
+
+
+	
+
+
+
+
+
+
+
+
+			<div id="post-123354" class="post-123354 post type-post status-publish format-standard hentry category-random">
+			
+			<div class="entry-utility">
+				<small><a href="http://htmlgiant.com/author/amymcd/" title="Posts by Amy McDaniel" rel="author">Amy McDaniel</a></small>
+			</div>
+			
+			<h2><a href="http://htmlgiant.com/random/donna-martin-graduates/" rel="bookmark" title="Permanent Link to Donna Martin Graduates!">Donna Martin Graduates!</a></h2>
+			
+							<div class="entry">
+					<p>And it&#8217;s time for HTMLGiant senior superlatives. Nominate the contributors and commenters who you think should graduate with the honor of Best Hair and Most Likely to Succeed in the comments.</p>
+<p>&nbsp;</p>
+<p><iframe width="600" height="470" src="//www.youtube.com/embed/_OB8tgHqdTo" frameborder="0" allowfullscreen></iframe></p>
+									</div><!-- .entry-content -->
+						
+			<div class="entry-utility">
+				<small><a href="http://htmlgiant.com/category/random/" rel="category tag">Random</a> /   <a href="http://htmlgiant.com/random/donna-martin-graduates/#comments"><span class="dsq-postid" data-dsqidentifier="123354 http://htmlgiant.com/?p=123354">3 Comments</span></a></small><br />
+				<small class="smallmeta">October 24th, 2014 / 10:05 am</small>
+			</div><!-- .entry-utility -->
+		</div><!-- .post -->
+
+			<div class="clear"></div>
+
+
+
+
+	
+
+
+
+
+
+
+
+
+			<div id="post-123258" class="post-short">
+			<div class="shortpost" id="post-123258">
+                <div class="shortentry">
+              		<small class="shortmeta"><a href="http://htmlgiant.com/author/janicelee/" title="Posts by Janice Lee" rel="author">Janice Lee</a>&mdash;</small>
+              		<p><a href="http://htmlgiant.com/wp-content/uploads/2014/10/a_kiss_goodbye-7947.gif"><img class="alignnone size-full wp-image-123259" src="http://htmlgiant.com/wp-content/uploads/2014/10/a_kiss_goodbye-7947.gif" alt="a_kiss_goodbye-7947" width="423" height="250" /></a></p>
+              		<div class="shortcomments"><small class="shortmetacomments"><a href="http://htmlgiant.com/snippet/buh-bye/#respond"><span class="dsq-postid" data-dsqidentifier="123258 http://htmlgiant.com/?p=123258">0</span></a></small></div>	
+				</div><!-- .shortentry -->	
+			</div><!-- .shortpost -->	
+		</div><!-- .post-short -->
+		
+		
+		
+			
+
+
+
+
+
+
+
+
+			<div id="post-123306" class="post-123306 post type-post status-publish format-standard hentry category-massive-people">
+			
+			<div class="entry-utility">
+				<small><a href="http://htmlgiant.com/author/brookss/" title="Posts by Brooks Sterritt" rel="author">Brooks Sterritt</a></small>
+			</div>
+			
+			<h2><a href="http://htmlgiant.com/massive-people/htmlgiant-new-orleans/" rel="bookmark" title="Permanent Link to HTMLGIANT: New Orleans">HTMLGIANT: New Orleans</a></h2>
+			
+							<div class="entry">
+					<p>&nbsp;</p>
+<p><img class="aligncenter size-full wp-image-123311" src="http://htmlgiant.com/wp-content/uploads/2014/10/waiting2-e1414127100692.png" alt="waiting2" width="600" height="143" /></p>
+<p>It&#8217;s been more than an honor to be a part of HTMLGIANT for the past 3+ years, and I know I&#8217;m not alone when I say the site has been a huge part of my education for the past 6+. Believe it or not, I read the whole thing. Much love and respect to the amazing writers and individuals commenting, contributing, editing, and spamming. I hope to see you around very soon.</p>
+<p>I also took some photos in New Orleans. Instead of throwing them on facebook, I thought I&#8217;d post them here. &lt;3</p>
+<p><img class="aligncenter size-full wp-image-123312" src="http://htmlgiant.com/wp-content/uploads/2014/10/IMAG1642-e1414127404996.jpg" alt="IMAG1642" width="600" height="359" /></p>
+<p>&nbsp;</p>
+<p><img class="aligncenter size-full wp-image-123313" src="http://htmlgiant.com/wp-content/uploads/2014/10/IMAG1638-e1414127459820.jpg" alt="IMAG1638" width="600" height="359" /></p>
+<p>&nbsp;</p>
+<p><img class="aligncenter size-full wp-image-123314" src="http://htmlgiant.com/wp-content/uploads/2014/10/IMAG0482-copy-e1414127498750.jpg" alt="IMAG0482 copy" width="600" height="453" /></p>
+<p>&nbsp;</p>
+<p><img class="aligncenter size-full wp-image-123315" src="http://htmlgiant.com/wp-content/uploads/2014/10/IMAG1640-e1414127567684.jpg" alt="IMAG1640" width="600" height="1003" /></p>
+<p>&nbsp;</p>
+<p><img class="aligncenter size-full wp-image-123317" src="http://htmlgiant.com/wp-content/uploads/2014/10/IMAG1644-e1414127668593.jpg" alt="IMAG1644" width="600" height="359" /></p>
+<p> <a href="http://htmlgiant.com/massive-people/htmlgiant-new-orleans/#more-123306" class="more-link">READ MORE &gt;</a></p>
+									</div><!-- .entry-content -->
+						
+			<div class="entry-utility">
+				<small><a href="http://htmlgiant.com/category/massive-people/" rel="category tag">Massive People</a> /   <a href="http://htmlgiant.com/massive-people/htmlgiant-new-orleans/#comments"><span class="dsq-postid" data-dsqidentifier="123306 http://htmlgiant.com/?p=123306">7 Comments</span></a></small><br />
+				<small class="smallmeta">October 24th, 2014 / 1:37 am</small>
+			</div><!-- .entry-utility -->
+		</div><!-- .post -->
+
+			<div class="clear"></div>
+
+
+
+
+	
+
+
+
+
+
+
+
+
+			<div id="post-123301" class="post-123301 post type-post status-publish format-standard hentry category-behind-the-scenes">
+			
+			<div class="entry-utility">
+				<small><a href="http://htmlgiant.com/author/mikemeg/" title="Posts by Mike Meginnis" rel="author">Mike Meginnis</a></small>
+			</div>
+			
+			<h2><a href="http://htmlgiant.com/behind-the-scenes/i-will-miss-you/" rel="bookmark" title="Permanent Link to I will miss you.">I will miss you.</a></h2>
+			
+							<div class="entry">
+					<p>I live in Iowa City, which is a town that is very slightly famous for some of the writers who live, work, and teach there. For the most part, I spend very little time with other writers. Recently I had a book come out. It was my first book. Sometimes I worry that it&#8217;s going to be my last. Probably that won&#8217;t happen. I&#8217;m a worrier. Worrying is what I do.</p>
+<p>I think that writing fiction is often just an advanced form of worrying. You worry about a person or a number of people in an imaginary situation. You worry about what would happen to them if they were real, if their situation were real. You worry about how sad they would be, how much <em>they</em> would worry. You worry about dying. You worry them until they die.</p>
+<p>(I like to watch crime shows. I love <em>The Wire</em>. I enjoyed <em>The Sopranos </em>a lot more than I thought I would. Currently I&#8217;m watching <em>Boardwalk Empire</em>, which is in its last season. Actually this Sunday will be its last episode. The big question people seem to be asking is, &#8220;Will the Steve Buscemi character die?&#8221; That&#8217;s always the question in these shows &#8212; at least the ones that are focused on one particular criminal. It was the question with <em>Breaking Bad</em>, too, which was especially funny, because the first thing that really happens in the show is the character discovers he has a terminal case of lung cancer, so, yes, he&#8217;s definitely going to die, as will probably all of us. People were upset by the way <em>The Sopranos </em>ended because it didn&#8217;t seem to conclusively answer whether Tony Soprano had died or not. Recently, the show&#8217;s creator came out and said definitively that Tony had lived. James Gandolfini has been dead for more than a year. (Does a person get more dead over time, or do they die once and then stay the same amount of dead forever?))</p>
+<p>But so recently I&#8217;ve been spending more time among self-described writers, whom we might also call professional worriers. And I was reminded that most writers choose to express their worries as complaints. For example, they complain bitterly about one-star Amazon reviews. Among these writers, complaining about one-star Amazon reviews (about Amazon in general) is like a handshake. &#8220;It arrived a day late,&#8221; they&#8217;ll say. &#8220;One star.&#8221; Everyone&#8217;s supposed to laugh about this because it&#8217;s such a stupid thing to say, because it&#8217;s not a review of the product in question (the book) at all. <a href="http://htmlgiant.com/behind-the-scenes/i-will-miss-you/#more-123301" class="more-link">READ MORE &gt;</a></p>
+									</div><!-- .entry-content -->
+						
+			<div class="entry-utility">
+				<small><a href="http://htmlgiant.com/category/behind-the-scenes/" rel="category tag">Behind the Scenes</a> /   <a href="http://htmlgiant.com/behind-the-scenes/i-will-miss-you/#comments"><span class="dsq-postid" data-dsqidentifier="123301 http://htmlgiant.com/?p=123301">3 Comments</span></a></small><br />
+				<small class="smallmeta">October 23rd, 2014 / 11:14 pm</small>
+			</div><!-- .entry-utility -->
+		</div><!-- .post -->
+
+			<div class="clear"></div>
+
+
+
+
+	
+
+
+
+
+
+
+
+
+				<div id="navigation">
+					<div class="nav-previous"><a href="http://htmlgiant.com/page/2/" ><span class="meta-nav">&lt;</span> OLDER</a></div>
+					<div class="nav-next"></div>
+				</div><!-- #nav-below -->
+				
+	
+
+	</div>
+	
+
+
+
+
+
+
+
+
+		
+
+
+<div id="sidecontent">
+
+
+
+
+
+<div id="sidebar">
+		<ul>
+
+<li id="search-3" class="widget-container widget_search"><form method="get" id="searchform" action="http://htmlgiant.com/">
+<label class="hidden" for="s">Search for:</label>
+<div><h2><input type="text" value="" name="s" id="s" />
+<input type="submit" id="searchsubmit" value="Search" style="cursor:pointer;" /></h2>
+</div>
+</form>
+</li><li id="text-453540352" class="widget-container widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- sidebar -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:160px;height:600px"
+     data-ad-client="ca-pub-8720881437269047"
+     data-ad-slot="9971179217"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</li>			</ul>
+		</div><!-- #primary .widget-area -->
+		
+
+
+
+
+
+
+
+
+	<div class="clear"></div>
+</div>
+
+
+
+		        <script type="text/javascript">
+        // <![CDATA[
+        var disqus_shortname = 'htmlgiant';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script');
+            s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+        // ]]>
+        </script>
+        <script type='text/javascript' src='http://htmlgiant.com/wp-includes/js/wp-embed.min.js?ver=4.5.3'></script>
+<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201630.js" type="text/javascript"></script>
+<script type="text/javascript">
+st_go({blog:'8050567',v:'ext',post:'0'});
+var load_cmc = function(){linktracker_init(8050567,0,2);};
+if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+else load_cmc();
+</script>
+		
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-3218807-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-21iqrI69F1PEY"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-21iqrI69F1PEY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+</body>
+</html>

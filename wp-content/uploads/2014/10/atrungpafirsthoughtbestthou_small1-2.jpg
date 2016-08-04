@@ -1,0 +1,2103 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+	<title>PunʞLawyer </title>
+
+	
+		<!-- Avada v3.2.0 -->
+
+			
+			
+	
+	
+				<script type="text/javascript">
+	WebFontConfig = {
+		google: { families: [ "PT+Sans:400,400italic,700,700italic:latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese", "Antic+Slab:400,400italic,700,700italic:latin,greek-ext,cyrillic,latin-ext,greek,cyrillic-ext,vietnamese" ] },		custom: { families: ['FontAwesome'], urls: ['http://punklawyer.com/wp-content/themes/Avada/fonts/fontawesome.css'] }
+	};
+	(function() {
+		var wf = document.createElement('script');
+		wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+		  '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+		wf.type = 'text/javascript';
+		wf.async = 'true';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(wf, s);
+	})();
+	</script>
+
+		<!--[if lte IE 8]>
+	<link rel="stylesheet" href="http://punklawyer.com/wp-content/themes/Avada/css/ie8.css" />
+	<![endif]-->
+
+	<!--[if IE]>
+	<link rel="stylesheet" href="http://punklawyer.com/wp-content/themes/Avada/css/ie.css" />
+	<![endif]-->
+
+	
+				<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+						<style type="text/css">
+		@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait){
+			#wrapper .ei-slider{width:100% !important;}
+			body #header.sticky-header,body #header.sticky-header.sticky{display:none !important;}
+		}
+		@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape){
+			#wrapper .ei-slider{width:100% !important;}
+			body #header.sticky-header,body #header.sticky-header.sticky{display:none !important;}
+		}
+		</style>
+			
+			<style type="text/css">
+	.animated { visibility:hidden; !important;}
+	</style>
+		
+	<!--[if lt IE 10]>
+	<style type="text/css">
+	.animated { visibility:visible; !important;}
+	</style>
+	<![endif]-->
+
+	
+	
+	
+	
+	
+	
+	
+	
+	<link rel="alternate" type="application/rss+xml" title="PunʞLawyer &raquo; Feed" href="http://punklawyer.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="PunʞLawyer &raquo; Comments Feed" href="http://punklawyer.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/punklawyer.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.9"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='style-css-css'  href='http://punklawyer.com/wp-content/themes/Avada/style.css?ver=4.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='media-css-css'  href='http://punklawyer.com/wp-content/themes/Avada/css/media.css' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css-css'  href='http://punklawyer.com/wp-content/themes/Avada/css/animate-custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='pnestyles-css'  href='http://punklawyer.com/wp-content/plugins/plugnedit/css/style.css?ver=4.2.9' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider_css-css'  href='http://punklawyer.com/wp-content/themes/Avada/framework/plugins/LayerSlider/css/layerslider.css?ver=4.6.5' type='text/css' media='all' />
+<link rel='stylesheet' id='wooslider-flexslider-css'  href='http://punklawyer.com/wp-content/themes/Avada/framework/plugins/tf-flexslider/assets/css/flexslider.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wooslider-common-css'  href='http://punklawyer.com/wp-content/themes/Avada/framework/plugins/tf-flexslider/assets/css/style.css?ver=1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='lightboxStyle-css'  href='http://punklawyer.com/wp-content/plugins/lightbox-plus/css/grey/colorbox.css?ver=2.7' type='text/css' media='screen' />
+<!--[if lte IE 6]> <style type="text/css">.cantembedplus{display:none;}</style><![endif]--><script type='text/javascript' src='http://punklawyer.com/wp-includes/js/jquery/jquery.js?ver=1.11.2'></script>
+<script type='text/javascript' src='http://punklawyer.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://punklawyer.com/wp-content/themes/Avada/framework/plugins/LayerSlider/js/layerslider.kreaturamedia.jquery.js?ver=4.6.5'></script>
+<script type='text/javascript' src='http://punklawyer.com/wp-content/themes/Avada/framework/plugins/LayerSlider/js/jquery-easing-1.3.js?ver=1.3.0'></script>
+<script type='text/javascript' src='http://punklawyer.com/wp-content/themes/Avada/framework/plugins/LayerSlider/js/jquerytransit.js?ver=0.9.9'></script>
+<script type='text/javascript' src='http://punklawyer.com/wp-content/themes/Avada/framework/plugins/LayerSlider/js/layerslider.transitions.js?ver=4.6.5'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://punklawyer.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://punklawyer.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.2.9" />
+<style type="text/css">
+html, body { 
+    height: 100%;
+}
+#fsi-full-bg {
+    position: fixed; top: 0; left: 0;width:100%; height:100%;
+    z-index:-10;
+    
+}
+#fsi-full-bg img { position: fixed; top: 0; left: 0; z-index:-9; opacity:0}
+
+.fsi-full-bg-full-width { width: 100%; }
+.fsi-full-bg-full-height { height: 100%; }
+#fsi-full-bg-overlay { 
+    position:fixed; 
+    top:0; 
+    left:0;
+    height:100%; 
+    width:100%; 
+    z-index:-9;
+    background:url(http://punklawyer.com/wp-content/plugins/full-screen-page-background-image-slideshow/images/dot_overlay.png) repeat;
+}
+#fsi-full-bg img:first-child{opacity:1}</style>
+
+	
+	<!--[if lte IE 8]>
+	<script type="text/javascript">
+	jQuery(document).ready(function() {
+	var imgs, i, w;
+	var imgs = document.getElementsByTagName( 'img' );
+	for( i = 0; i < imgs.length; i++ ) {
+	    w = imgs[i].getAttribute( 'width' );
+	    imgs[i].removeAttribute( 'width' );
+	    imgs[i].removeAttribute( 'height' );
+	}
+	});
+	</script>
+	<![endif]-->
+	<script type="text/javascript">
+	/*@cc_on
+	  @if (@_jscript_version == 10)
+	    document.write('<style type="text/css">.search input{padding-left:5px;}header .tagline{margin-top:3px !important;}</style>');
+	  @end
+	@*/
+	function insertParam(url, parameterName, parameterValue, atStart){
+	    replaceDuplicates = true;
+	    if(url.indexOf('#') > 0){
+	        var cl = url.indexOf('#');
+	        urlhash = url.substring(url.indexOf('#'),url.length);
+	    } else {
+	        urlhash = '';
+	        cl = url.length;
+	    }
+	    sourceUrl = url.substring(0,cl);
+
+	    var urlParts = sourceUrl.split("?");
+	    var newQueryString = "";
+
+	    if (urlParts.length > 1)
+	    {
+	        var parameters = urlParts[1].split("&");
+	        for (var i=0; (i < parameters.length); i++)
+	        {
+	            var parameterParts = parameters[i].split("=");
+	            if (!(replaceDuplicates && parameterParts[0] == parameterName))
+	            {
+	                if (newQueryString == "")
+	                    newQueryString = "?";
+	                else
+	                    newQueryString += "&";
+	                newQueryString += parameterParts[0] + "=" + (parameterParts[1]?parameterParts[1]:'');
+	            }
+	        }
+	    }
+	    if (newQueryString == "")
+	        newQueryString = "?";
+
+	    if(atStart){
+	        newQueryString = '?'+ parameterName + "=" + parameterValue + (newQueryString.length>1?'&'+newQueryString.substring(1):'');
+	    } else {
+	        if (newQueryString !== "" && newQueryString != '?')
+	            newQueryString += "&";
+	        newQueryString += parameterName + "=" + (parameterValue?parameterValue:'');
+	    }
+	    return urlParts[0] + newQueryString + urlhash;
+	};
+
+	function ytVidId(url) {
+	  var p = /^(?:https?:\/\/)?(?:www\.)?(?:youtu\.be\/|youtube\.com\/(?:embed\/|v\/|watch\?v=|watch\?.+&v=))((\w|-){11})(?:\S+)?$/;
+	  return (url.match(p)) ? RegExp.$1 : false;
+	  //return (url.match(p)) ? true : false;
+	}
+
+	jQuery(document).ready(function() {
+		jQuery('.portfolio-wrapper').hide();
+	});
+	jQuery(window).load(function() {
+		if(jQuery('#sidebar').is(':visible')) {
+			jQuery('.post-content div.portfolio').each(function() {
+				var columns = jQuery(this).data('columns');
+				jQuery(this).addClass('portfolio-'+columns+'-sidebar');
+			});
+		}
+		jQuery('.full-video, .video-shortcode, .wooslider .slide-content').fitVids();
+
+		if(jQuery().isotope) {
+			  // modified Isotope methods for gutters in masonry
+			  jQuery.Isotope.prototype._getMasonryGutterColumns = function() {
+			    var gutter = this.options.masonry && this.options.masonry.gutterWidth || 0;
+			        containerWidth = this.element.width();
+
+			    this.masonry.columnWidth = this.options.masonry && this.options.masonry.columnWidth ||
+			                  // or use the size of the first item
+			                  this.$filteredAtoms.outerWidth(true) ||
+			                  // if there's no items, use size of container
+			                  containerWidth;
+
+			    this.masonry.columnWidth += gutter;
+
+			    this.masonry.cols = Math.floor( ( containerWidth + gutter ) / this.masonry.columnWidth );
+			    this.masonry.cols = Math.max( this.masonry.cols, 1 );
+			  };
+
+			  jQuery.Isotope.prototype._masonryReset = function() {
+			    // layout-specific props
+			    this.masonry = {};
+			    // FIXME shouldn't have to call this again
+			    this._getMasonryGutterColumns();
+			    var i = this.masonry.cols;
+			    this.masonry.colYs = [];
+			    while (i--) {
+			      this.masonry.colYs.push( 0 );
+			    }
+			  };
+
+			  jQuery.Isotope.prototype._masonryResizeChanged = function() {
+			    var prevSegments = this.masonry.cols;
+			    // update cols/rows
+			    this._getMasonryGutterColumns();
+			    // return if updated cols/rows is not equal to previous
+			    return ( this.masonry.cols !== prevSegments );
+			  };
+
+			imagesLoaded(jQuery('.portfolio-one .portfolio-wrapper'), function() {
+				jQuery('.portfolio-wrapper').fadeIn();
+				jQuery('.portfolio-one .portfolio-wrapper').isotope({
+					// options
+					itemSelector: '.portfolio-item',
+					layoutMode: 'straightDown',
+					transformsEnabled: false
+				});
+			});
+
+			imagesLoaded(jQuery('.portfolio-two .portfolio-wrapper, .portfolio-three .portfolio-wrapper, .portfolio-four .portfolio-wrapper'),function() {
+				jQuery('.portfolio-wrapper').fadeIn();
+				jQuery('.portfolio-two .portfolio-wrapper, .portfolio-three .portfolio-wrapper, .portfolio-four .portfolio-wrapper').isotope({
+					// options
+					itemSelector: '.portfolio-item',
+					layoutMode: 'fitRows',
+					transformsEnabled: false
+				});
+			});
+
+			var masonryContainer = jQuery('.portfolio-masonry .portfolio-wrapper');
+			imagesLoaded(masonryContainer, function() {
+				jQuery('.portfolio-wrapper').fadeIn();
+				var gridTwo = masonryContainer.parent().hasClass('portfolio-grid-2');
+				var columns;
+				if(gridTwo) {
+					columns = 2;
+				} else {
+					columns = 3;
+				}
+				masonryContainer.isotope({
+					// options
+					itemSelector: '.portfolio-item',
+					layoutMode: 'masonry',
+					transformsEnabled: false,
+					masonry: { columnWidth: masonryContainer.width() / columns }
+				});
+			});
+		}
+
+		if(jQuery().flexslider) {
+			var WooThumbWidth = 100;
+			if(jQuery('body.woocommerce #sidebar').is(':visible')) {
+				wooThumbWidth = 100;
+			} else {
+				wooThumbWidth = 118;
+			}
+
+			jQuery('.woocommerce .images #carousel').flexslider({
+				animation: 'slide',
+				controlNav: false,
+				directionNav: false,
+				animationLoop: false,
+				slideshow: false,
+				itemWidth: wooThumbWidth,
+				itemMargin: 9,
+				touch: false,
+				useCSS: false,
+				asNavFor: '.woocommerce .images #slider'
+			});
+
+			jQuery('.woocommerce .images #slider').flexslider({
+				animation: 'slide',
+				controlNav: false,
+				animationLoop: false,
+				slideshow: false,
+				smoothHeight: true,
+				touch: true,
+				useCSS: false,
+				sync: '.woocommerce .images #carousel'
+			});
+
+			var iframes = jQuery('iframe');
+			var avada_ytplayer;
+
+			jQuery.each(iframes, function(i, v) {
+				var src = jQuery(this).attr('src');
+				if(src) {
+										if(src.indexOf('vimeo') >= 1) {
+						jQuery(this).attr('id', 'player_'+(i+1));
+						var new_src = insertParam(src, 'api', '1', false);
+						var new_src_2 = insertParam(new_src, 'player_id', 'player_'+(i+1), false);
+
+						jQuery(this).attr('src', new_src_2);
+					}
+															if(ytVidId(src)) {
+						jQuery(this).parent().wrap('<span class="play3" />');
+						window.yt_vid_exists = true;
+					}
+									}
+			});
+
+						if(window.yt_vid_exists == true) {
+				var tag = document.createElement('script');
+				tag.src = "https://www.youtube.com/iframe_api";
+				var firstScriptTag = document.getElementsByTagName('script')[0];
+				firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+				function getFrameID(id){
+				    var elem = document.getElementById(id);
+				    if (elem) {
+				        if(/^iframe$/i.test(elem.tagName)) return id; //Frame, OK
+				        // else: Look for frame
+				        var elems = elem.getElementsByTagName("iframe");
+				        if (!elems.length) return null; //No iframe found, FAILURE
+				        for (var i=0; i<elems.length; i++) {
+				           if (/^https?:\/\/(?:www\.)?youtube(?:-nocookie)?\.com(\/|$)/i.test(elems[i].src)) break;
+				        }
+				        elem = elems[i]; //The only, or the best iFrame
+				        if (elem.id) return elem.id; //Existing ID, return it
+				        // else: Create a new ID
+				        do { //Keep postfixing `-frame` until the ID is unique
+				            id += "-frame";
+				        } while (document.getElementById(id));
+				        elem.id = id;
+				        return id;
+				    }
+				    // If no element, return null.
+				    return null;
+				}
+
+				// Define YT_ready function.
+				var YT_ready = (function() {
+				    var onReady_funcs = [], api_isReady = false;
+				    /* @param func function     Function to execute on ready
+				     * @param func Boolean      If true, all qeued functions are executed
+				     * @param b_before Boolean  If true, the func will added to the first
+				                                 position in the queue*/
+				    return function(func, b_before) {
+				        if (func === true) {
+				            api_isReady = true;
+				            while (onReady_funcs.length) {
+				                // Removes the first func from the array, and execute func
+				                onReady_funcs.shift()();
+				            }
+				        } else if (typeof func == "function") {
+				            if (api_isReady) func();
+				            else onReady_funcs[b_before?"unshift":"push"](func);
+				        }
+				    }
+				})();
+				// This function will be called when the API is fully loaded
+				function onYouTubePlayerAPIReady() {YT_ready(true)}
+			}
+			
+						function ready(player_id) {
+			    var froogaloop = $f(player_id);
+
+			    froogaloop.addEvent('play', function(data) {
+			    	jQuery('#'+player_id).parents('li').parent().parent().flexslider("pause");
+			    });
+
+			    froogaloop.addEvent('pause', function(data) {
+			        jQuery('#'+player_id).parents('li').parent().parent().flexslider("play");
+			    });
+			}
+
+			var vimeoPlayers = jQuery('.flexslider').find('iframe'), player;
+
+			for (var i = 0, length = vimeoPlayers.length; i < length; i++) {
+		        player = vimeoPlayers[i];
+		        $f(player).addEvent('ready', ready);
+			}
+
+			function addEvent(element, eventName, callback) {
+			    if (element.addEventListener) {
+			        element.addEventListener(eventName, callback, false)
+			    } else {
+			        element.attachEvent(eventName, callback, false);
+			    }
+			}
+			
+			jQuery('.tfs-slider').flexslider({
+				animation: "fade",
+				slideshow: true,
+				slideshowSpeed: 7000,
+				animationSpeed: 600,
+				smoothHeight: true,
+				pauseOnHover: false,
+				useCSS: false,
+				video: true,
+				start: function(slider) {
+			        if(typeof(slider.slides) !== 'undefined' && slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			           			           jQuery(slider).find('.flex-control-nav').hide();
+			           			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+									       } else {
+			           			           jQuery(slider).find('.flex-control-nav').show();
+			           			       }
+				},
+			    before: function(slider) {
+			        if(slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			        				           $f( slider.slides.eq(slider.currentSlide).find('iframe').attr('id') ).api('pause');
+			           
+			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+						
+			           /* ------------------  YOUTUBE FOR AUTOSLIDER ------------------ */
+			           playVideoAndPauseOthers(slider);
+			       }
+			    },
+			   	after: function(slider) {
+			        if(slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			           			           jQuery(slider).find('.flex-control-nav').hide();
+			           
+			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+									       } else {
+			           			           jQuery(slider).find('.flex-control-nav').show();
+			           			       }
+			    }
+			});
+
+			            jQuery('.grid-layout .flexslider').flexslider({
+                slideshow: true,
+                slideshowSpeed: 7000,
+                video: true,
+                smoothHeight: false,
+                pauseOnHover: false,
+                useCSS: false,
+                                start: function(slider) {
+                    if (typeof(slider.slides) !== 'undefined' && slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+                                                jQuery(slider).find('.flex-control-nav').hide();
+                        
+                                                YT_ready(function() {
+                            new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+                                events: {
+                                    'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+                                }
+                            });
+                        });
+                                            } else {
+                                                jQuery(slider).find('.flex-control-nav').show();
+                                            }
+                },
+                before: function(slider) {
+                    if (slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+                        $f(slider.slides.eq(slider.currentSlide).find('iframe').attr('id') ).api('pause');                                                YT_ready(function() {
+                            new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+                                events: {
+                                    'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+                                }
+                            });
+                        });
+                        
+                        /* ------------------  YOUTUBE FOR AUTOSLIDER ------------------ */
+                        playVideoAndPauseOthers(slider);
+                    }
+                },
+                after: function(slider) {
+                    if (slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+                                                jQuery(slider).find('.flex-control-nav').hide();
+                                                                        YT_ready(function() {
+                            new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+                                events: {
+                                    'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+                                }
+                            });
+                        });
+                                            } else {
+                                                jQuery(slider).find('.flex-control-nav').show();
+                                            }
+                }
+            });
+			jQuery('.flexslider').flexslider({
+				slideshow: true,
+				slideshowSpeed: 7000,
+				video: true,
+				smoothHeight: false,
+				pauseOnHover: false,
+				useCSS: false,
+								start: function(slider) {
+			        if (typeof(slider.slides) !== 'undefined' && slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			           			           jQuery(slider).find('.flex-control-nav').hide();
+			           
+			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+									       } else {
+			           			           jQuery(slider).find('.flex-control-nav').show();
+			           			       }
+				},
+			    before: function(slider) {
+			        if (slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			           $f(slider.slides.eq(slider.currentSlide).find('iframe').attr('id') ).api('pause');			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+						
+			           /* ------------------  YOUTUBE FOR AUTOSLIDER ------------------ */
+			           playVideoAndPauseOthers(slider);
+			       }
+			    },
+			   	after: function(slider) {
+			        if (slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			           			           jQuery(slider).find('.flex-control-nav').hide();
+			           			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+									       } else {
+			           			           jQuery(slider).find('.flex-control-nav').show();
+			           			       }
+			    }
+			});
+
+			function playVideoAndPauseOthers(slider) {
+				jQuery(slider).find('iframe').each(function(i) {
+					var func = 'stopVideo';
+					this.contentWindow.postMessage('{"event":"command","func":"' + func + '","args":""}', '*');
+				});
+			}
+
+			/* ------------------ PREV & NEXT BUTTON FOR FLEXSLIDER (YOUTUBE) ------------------ */
+			jQuery('.flex-next, .flex-prev').click(function() {
+				playVideoAndPauseOthers(jQuery(this).parents('.flexslider, .tfs-slider'));
+			});
+
+			function onPlayerStateChange(frame, slider) {
+				return function(event) {
+			        if(event.data == YT.PlayerState.PLAYING) {
+			            jQuery(slider).flexslider("pause");
+			        }
+			        if(event.data == YT.PlayerState.PAUSED) {
+			        	jQuery(slider).flexslider("play");
+			        }
+		    	}
+			}
+		}
+
+		if(jQuery().isotope) {
+			var gridwidth = (jQuery('.grid-layout').width() / 2) - 22;
+			jQuery('.grid-layout .post').css('width', gridwidth);
+			jQuery('.grid-layout').isotope({
+				layoutMode: 'masonry',
+				itemSelector: '.post',
+				transformsEnabled: false,
+				masonry: {
+					columnWidth: gridwidth,
+					gutterWidth: 40
+				},
+			});
+
+			var gridwidth = (jQuery('.grid-full-layout').width() / 3) - 30;
+			jQuery('.grid-full-layout .post').css('width', gridwidth);
+			jQuery('.grid-full-layout').isotope({
+				layoutMode: 'masonry',
+				itemSelector: '.post',
+				transformsEnabled: false,
+				masonry: {
+					columnWidth: gridwidth,
+					gutterWidth: 40
+				},
+			});
+		}
+
+		jQuery('.rev_slider_wrapper').each(function() {
+			if(jQuery(this).length >=1 && jQuery(this).find('.tp-bannershadow').length == 0) {
+				jQuery('<div class="shadow-left">').appendTo(this);
+				jQuery('<div class="shadow-right">').appendTo(this);
+
+				jQuery(this).addClass('avada-skin-rev');
+			}
+		});
+
+		jQuery('.tparrows').each(function() {
+			if(jQuery(this).css('visibility') == 'hidden') {
+				jQuery(this).remove();
+			}
+		});
+	});
+	jQuery(document).ready(function() {
+		function onAfter(curr, next, opts, fwd) {
+		  var $ht = jQuery(this).height();
+
+		  //set the container's height to that of the current slide
+		  jQuery(this).parent().css('height', $ht);
+		}
+		if(jQuery().cycle) {
+		    jQuery('.reviews').cycle({
+				fx: 'fade',
+				after: onAfter,
+								timeout: 4000							});
+		}
+	});
+	jQuery(window).load(function($) {
+		jQuery('.header-social .menu > li').height(jQuery('.header-social').height());
+		jQuery('.header-social .menu > li').css('line-height', jQuery('.header-social').height()+'px');
+		jQuery('.header-social .menu > li.cart').css('line-height', jQuery('.header-social').height()+'px');
+
+
+		if(jQuery().prettyPhoto) {
+			var ppArgs = {
+								animation_speed: 'fast',
+								overlay_gallery: true,
+				autoplay_slideshow: false,
+								slideshow: 5000,
+												opacity: 0.8,
+								show_title: true,
+				show_desc: true,
+							};
+
+			jQuery("a[rel^='prettyPhoto']").prettyPhoto(ppArgs);
+
+			
+			jQuery('.lightbox-enabled a').has('img').prettyPhoto(ppArgs);
+
+			var mediaQuery = 'desk';
+
+			if (Modernizr.mq('only screen and (max-width: 600px)') || Modernizr.mq('only screen and (max-height: 520px)')) {
+
+				mediaQuery = 'mobile';
+				jQuery("a[rel^='prettyPhoto']").unbind('click');
+								jQuery('.lightbox-enabled a').has('img').unbind('click');
+			}
+
+			// Disables prettyPhoto if screen small
+			jQuery(window).on('resize', function() {
+				if ((Modernizr.mq('only screen and (max-width: 600px)') || Modernizr.mq('only screen and (max-height: 520px)')) && mediaQuery == 'desk') {
+					jQuery("a[rel^='prettyPhoto']").unbind('click.prettyphoto');
+										jQuery('.lightbox-enabled a').has('img').unbind('click.prettyphoto');
+					mediaQuery = 'mobile';
+				} else if (!Modernizr.mq('only screen and (max-width: 600px)') && !Modernizr.mq('only screen and (max-height: 520px)') && mediaQuery == 'mobile') {
+					jQuery("a[rel^='prettyPhoto']").prettyPhoto(ppArgs);
+										jQuery('.lightbox-enabled a').has('img').prettyPhoto(ppArgs);
+					mediaQuery = 'desk';
+				}
+			});
+		}
+				jQuery('.side-nav li').hoverIntent({
+		over: function() {
+			if(jQuery(this).find('> .children').length >= 1) {
+				jQuery(this).find('> .children').stop(true, true).slideDown('slow');
+			}
+		},
+		out: function() {
+			if(jQuery(this).find('.current_page_item').length == 0 && jQuery(this).hasClass('current_page_item') == false) {
+				jQuery(this).find('.children').stop(true, true).slideUp('slow');
+			}
+		},
+		timeout: 500
+		});
+		
+		if(jQuery().eislideshow) {
+	        jQuery('#ei-slider').eislideshow({
+	        		        	animation: 'sides',
+	        		        	autoplay: true,
+	        		        	slideshow_interval: 3000,
+	        		        		        	speed: 800,
+	        		        		        	thumbMaxWidth: 150	        		        });
+    	}
+
+        var retina = window.devicePixelRatio > 1 ? true : false;
+
+        
+        /* wpml flag in center */
+		var wpml_flag = jQuery('ul#nav > li > a > .iclflag');
+		var wpml_h = wpml_flag.height();
+		wpml_flag.css('margin-top', +wpml_h / - 2 + "px");
+
+		var wpml_flag = jQuery('.top-menu > ul > li > a > .iclflag');
+		var wpml_h = wpml_flag.height();
+		wpml_flag.css('margin-top', +wpml_h / - 2 + "px");
+
+		
+		jQuery('#posts-container-infinite').infinitescroll({
+		    navSelector  : "div.pagination",
+		                   // selector for the paged navigation (it will be hidden)
+		    nextSelector : "a.pagination-next",
+		                   // selector for the NEXT link (to page 2)
+		    itemSelector : "div.post",
+		                   // selector for all items you'll retrieve
+		    errorCallback: function() {
+		    	jQuery('#posts-container').isotope('reLayout');
+		    }
+		}, function(posts) {
+			if(jQuery().isotope) {
+				//jQuery(posts).css('top', 'auto').css('left', 'auto');
+
+				jQuery(posts).hide();
+				imagesLoaded(posts, function() {
+					jQuery(posts).fadeIn();
+					jQuery('#posts-container-infinite').isotope('appended', jQuery(posts));
+					jQuery('#posts-container-infinite').isotope('reLayout');
+				});
+
+				var gridwidth = (jQuery('.grid-layout').width() / 2) - 22;
+				jQuery('.grid-layout .post').css('width', gridwidth);
+
+				var gridwidth = (jQuery('.grid-full-layout').width() / 3) - 30;
+				jQuery('.grid-full-layout .post').css('width', gridwidth);
+
+				jQuery('#posts-container-infinite').isotope('reLayout');
+			}
+
+			jQuery('.flexslider').flexslider({
+				slideshow: true,
+				slideshowSpeed: 7000,
+				video: true,
+				pauseOnHover: false,
+				useCSS: false,
+				start: function(slider) {
+			        if (typeof(slider.slides) !== 'undefined' && slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			           			           jQuery(slider).find('.flex-control-nav').hide();
+			           
+			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+									       } else {
+			           			           jQuery(slider).find('.flex-control-nav').show();
+			           			       }
+				},
+			    before: function(slider) {
+			        if (slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			           $f(slider.slides.eq(slider.currentSlide).find('iframe').attr('id') ).api('pause');
+			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+						
+			           /* ------------------  YOUTUBE FOR AUTOSLIDER ------------------ */
+			           playVideoAndPauseOthers(slider);
+			       }
+			    },
+			   	after: function(slider) {
+			        if (slider.slides.eq(slider.currentSlide).find('iframe').length !== 0) {
+			           			           jQuery(slider).find('.flex-control-nav').hide();
+			           
+			           						YT_ready(function() {
+							new YT.Player(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), {
+								events: {
+									'onStateChange': onPlayerStateChange(slider.slides.eq(slider.currentSlide).find('iframe').attr('id'), slider)
+								}
+							});
+						});
+									       } else {
+			           			           jQuery(slider).find('.flex-control-nav').show();
+			           			       }
+			    }
+			});
+			if(jQuery().prettyPhoto) { jQuery("a[rel^='prettyPhoto']").prettyPhoto(ppArgs); }
+			jQuery(posts).each(function() {
+				jQuery(this).find('.full-video, .video-shortcode, .wooslider .slide-content').fitVids();
+			});
+
+			if(jQuery().isotope) {
+				jQuery('#posts-container-infinite').isotope('reLayout');
+			}
+		});
+
+			});
+	</script>
+
+	<style type="text/css">
+		a:hover{
+		color:#a0ce4e;
+	}
+	#nav ul .current_page_item a, #nav ul .current-menu-item a, #nav ul > .current-menu-parent a,
+	.footer-area ul li a:hover,
+	#slidingbar-area ul li a:hover,
+	.portfolio-tabs li.active a, .faq-tabs li.active a,
+	.project-content .project-info .project-info-box a:hover,
+	.about-author .title a,
+	span.dropcap,.footer-area a:hover,#slidingbar-area a:hover,.copyright a:hover,
+	#sidebar .widget_categories li a:hover,
+	#main .post h2 a:hover,
+	#sidebar .widget li a:hover,
+	#nav ul a:hover,
+	.date-and-formats .format-box i,
+	h5.toggle:hover a,
+	.tooltip-shortcode,.content-box-percentage,
+	.more a:hover:after,.read-more:hover:after,.pagination-prev:hover:before,.pagination-next:hover:after,.bbp-topic-pagination .prev:hover:before,.bbp-topic-pagination .next:hover:after,
+	.single-navigation a[rel=prev]:hover:before,.single-navigation a[rel=next]:hover:after,
+	#sidebar .widget_nav_menu li a:hover:before,#sidebar .widget_categories li a:hover:before,
+	#sidebar .widget .recentcomments:hover:before,#sidebar .widget_recent_entries li a:hover:before,
+	#sidebar .widget_archive li a:hover:before,#sidebar .widget_pages li a:hover:before,
+	#sidebar .widget_links li a:hover:before,.side-nav .arrow:hover:after,.woocommerce-tabs .tabs a:hover .arrow:after,
+	.star-rating:before,.star-rating span:before,.price ins .amount,
+	.price > .amount,.woocommerce-pagination .prev:hover,.woocommerce-pagination .next:hover,.woocommerce-pagination .prev:hover:before,.woocommerce-pagination .next:hover:after,
+	.woocommerce-tabs .tabs li.active a,.woocommerce-tabs .tabs li.active a .arrow:after,
+	#wrapper .cart-checkout a:hover,#wrapper .cart-checkout a:hover:before,
+	.widget_shopping_cart_content .total .amount,.widget_layered_nav li a:hover:before,
+	.widget_product_categories li a:hover:before,#header .my-account-link-active:after,.woocommerce-side-nav li.active a,.woocommerce-side-nav li.active a:after,.my_account_orders .order-number a,.shop_table .product-subtotal .amount,
+	.cart_totals .total .amount,form.checkout .shop_table tfoot .total .amount,#final-order-details .mini-order-details tr:last-child .amount,.rtl .more a:hover:before,.rtl .read-more:hover:before,#header .my-cart-link-active:after,#wrapper #sidebar .current_page_item > a,#wrapper #sidebar .current-menu-item a,#wrapper #sidebar .current_page_item a:before,#wrapper #sidebar .current-menu-item a:before,#wrapper .footer-area .current_page_item a,#wrapper .footer-area .current-menu-item a,#wrapper .footer-area .current_page_item a:before,#wrapper .footer-area .current-menu-item a:before,#wrapper #slidingbar-area .current_page_item a,#wrapper #slidingbar-area .current-menu-item a,#wrapper #slidingbar-area .current_page_item a:before,#wrapper #slidingbar-area .current-menu-item a:before,.side-nav ul > li.current_page_item > a,.side-nav li.current_page_ancestor > a,
+	.gform_wrapper span.ginput_total,.gform_wrapper span.ginput_product_price,.ginput_shipping_price,
+	.bbp-topics-front ul.super-sticky a:hover, .bbp-topics ul.super-sticky a:hover, .bbp-topics ul.sticky a:hover, .bbp-forum-content ul.sticky a:hover{
+		color:#a0ce4e !important;
+	}
+	.star-rating:before,.star-rating span:before {
+		color:#a0ce4e !important;
+	}
+	.tagcloud a:hover,#slidingbar-area .tagcloud a:hover,.footer-area .tagcloud a:hover{ color: #FFFFFF !important; text-shadow: none !important; -moz-text-shadow: none !important; -webkit-text-shadow: none !important; }
+	#nav ul .current_page_item a, #nav ul .current-menu-item a, #nav ul > .current-menu-parent a,
+	#nav ul ul,#nav li.current-menu-ancestor a,
+	.reading-box,
+	.portfolio-tabs li.active a, .faq-tabs li.active a,
+	.tab-holder .tabs li.active a,
+	.post-content blockquote,
+	.progress-bar-content,
+	.pagination .current,
+	.bbp-topic-pagination .current,
+	.pagination a.inactive:hover,
+	#nav ul a:hover,.woocommerce-pagination .current,
+	.tagcloud a:hover,#header .my-account-link:hover:after,body #header .my-account-link-active:after,
+	#bbpress-forums div.bbp-topic-tags a:hover{
+		border-color:#a0ce4e !important;
+	}
+	#nav li.current-menu-ancestor a {
+		color: #a0ce4e !important;
+	}
+	.side-nav li.current_page_item a{
+		border-right-color:#a0ce4e !important;
+	}
+	.rtl .side-nav li.current_page_item a{
+		border-left-color:#a0ce4e !important;
+	}
+	.header-v2 .header-social, .header-v3 .header-social, .header-v4 .header-social,.header-v5 .header-social,.header-v2{
+		border-top-color:#a0ce4e !important;
+	}
+	h5.toggle.active span.arrow,
+	.post-content ul.circle-yes li:before,
+	.progress-bar-content,
+	.pagination .current,
+	.bbp-topic-pagination .current,
+	.header-v3 .header-social,.header-v4 .header-social,.header-v5 .header-social,
+	.date-and-formats .date-box,.table-2 table thead,
+	.onsale,.woocommerce-pagination .current,
+	.woocommerce .social-share li a:hover i,
+	.price_slider_wrapper .ui-slider .ui-slider-range,
+	.tagcloud a:hover,.cart-loading,
+	#toTop:hover,
+	#bbpress-forums div.bbp-topic-tags a:hover,
+	.main-nav-search-form input[type="submit"]:hover, .search-page-search-form input[type="submit"]:hover,
+	ul.arrow li:before{
+		background-color:#a0ce4e !important;
+	}
+		.bbp-topics-front ul.super-sticky, .bbp-topics ul.super-sticky, .bbp-topics ul.sticky, .bbp-forum-content ul.sticky	{
+		background-color: #ffffe8 !important;
+		opacity: 1;
+	}
+	
+	
+		#slidingbar {
+		background-color:Array !important;
+		background-color:rgba(54,56,57,1) !important;
+	}
+	.sb_toggle {
+		border-color: transparent Array transparent transparent !important;
+		border-color: transparent rgba(54,56,57,1) transparent transparent !important;
+	}
+		
+			#header .my-cart-link:after, #header a.search-link:after,
+		#small-nav .my-cart-link:after, #small-nav a.search-link:after{ border: none !important; }
+
+	
+			#header,#small-nav,#header .login-box,#header .cart-contents,#small-nav .login-box,#small-nav .cart-contents{
+		background-color:#ffffff !important;
+	}
+	body #header.sticky-header .sticky-shadow{background:rgba(255, 255, 255, 0.97) !important;}
+	.no-rgba body #header.sticky-header .sticky-shadow{background:#ffffff; filter: progid: DXImageTransform.Microsoft.Alpha(Opacity=0.97); opacity: 0.97;}
+	#nav ul a{
+		border-color:#ffffff !important;
+	}
+	
+		#main,#wrapper{
+		background-color:#ffffff !important;
+	}
+	
+		.footer-area{
+		background-color:#363839 !important;
+	}
+	
+		.footer-area{
+		border-color:#e9eaee !important;
+	}
+	
+		#footer{
+		background-color:#282a2b !important;
+	}
+	
+		#footer{
+		border-color:#4b4c4d !important;
+	}
+	
+		.sep-boxed-pricing ul li.title-row{
+		background-color:#a0ce4e !important;
+		border-color:#a0ce4e !important;
+	}
+	.pricing-row .exact_price, .pricing-row sup{
+		color:#a0ce4e !important;
+	}
+				.image .image-extras{
+		background-image: linear-gradient(top, rgba(209,233,144,1) 0%, rgba(170,215,91,1) 100%);
+		background-image: -o-linear-gradient(top, rgba(209,233,144,1) 0%, rgba(170,215,91,1) 100%);
+		background-image: -moz-linear-gradient(top, rgba(209,233,144,1) 0%, rgba(170,215,91,1) 100%);
+		background-image: -webkit-linear-gradient(top, rgba(209,233,144,1) 0%, rgba(170,215,91,1) 100%);
+		background-image: -ms-linear-gradient(top, rgba(209,233,144,1) 0%, rgba(170,215,91,1) 100%);
+
+		background-image: -webkit-gradient(
+			linear,
+			left top,
+			left bottom,
+			color-stop(0, rgba(209,233,144,1)),
+			color-stop(1, rgba(170,215,91,1))
+		);
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#D1E990', endColorstr='#AAD75B')
+				progid: DXImageTransform.Microsoft.Alpha(Opacity=0);
+	}
+	.no-cssgradients .image .image-extras{
+		background:#D1E990;
+	}
+	.image:hover .image-extras {
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#D1E990', endColorstr='#AAD75B')
+	 			progid: DXImageTransform.Microsoft.Alpha(Opacity=100);
+	 }
+			#main .portfolio-one .button,
+	#main .comment-submit,
+	#reviews input#submit,
+	.comment-form input[type="submit"],
+	.wpcf7-form input[type="submit"],
+	.bbp-submit-wrapper button,
+	.button.default,
+	.price_slider_amount button,
+	.gform_wrapper .gform_button{
+		background: #AAD75B;
+
+		color: #54770f !important;
+		background-image: linear-gradient(top, #D1E990 0%, #AAD75B 100%);
+		background-image: -o-linear-gradient(top, #D1E990 0%, #AAD75B 100%);
+		background-image: -moz-linear-gradient(top, #D1E990 0%, #AAD75B 100%);
+		background-image: -webkit-linear-gradient(top, #D1E990 0%, #AAD75B 100%);
+		background-image: -ms-linear-gradient(top, #D1E990 0%, #AAD75B 100%);
+
+		background-image: -webkit-gradient(
+			linear,
+			left top,
+			left bottom,
+			color-stop(0, #D1E990),
+			color-stop(1, #AAD75B)
+		);
+		border:1px solid #AAD75B;
+
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#D1E990', endColorstr='#AAD75B');
+	}
+	.no-cssgradients #main .portfolio-one .button,
+	.no-cssgradients #main .comment-submit,
+	.no-cssgradients #reviews input#submit,
+	.no-cssgradients .comment-form input[type="submit"],
+	.no-cssgradients .wpcf7-form input[type="submit"],
+	.no-cssgradients .bbp-submit-wrapper button,
+	.no-cssgradients .button.default,
+	.no-cssgradients .price_slider_amount button,
+	.no-cssgradients .gform_wrapper .gform_button{
+		background:#D1E990;
+	}
+	#main .portfolio-one .button:hover,
+	#main .comment-submit:hover,
+	#reviews input#submit:hover,
+	.comment-form input[type="submit"]:hover,
+	.wpcf7-form input[type="submit"]:hover,
+	.bbp-submit-wrapper button:hover,
+	.button.default:hover,
+	.price_slider_amount button:hover,
+	.gform_wrapper .gform_button:hover{
+		background: #D1E990;
+		color: #54770f !important;
+		background-image: linear-gradient(top, #AAD75B 0%, #D1E990 100%);
+		background-image: -o-linear-gradient(top, #AAD75B 0%, #D1E990 100%);
+		background-image: -moz-linear-gradient(top, #AAD75B 0%, #D1E990 100%);
+		background-image: -webkit-linear-gradient(top, #AAD75B 0%, #D1E990 100%);
+		background-image: -ms-linear-gradient(top, #AAD75B 0%, #D1E990 100%);
+
+		background-image: -webkit-gradient(
+			linear,
+			left top,
+			left bottom,
+			color-stop(0, #AAD75B),
+			color-stop(1, #D1E990)
+		);
+		border:1px solid #AAD75B;
+
+		filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#AAD75B', endColorstr='#D1E990');
+	}
+	.no-cssgradients #main .portfolio-one .button:hover,
+	.no-cssgradients #main .comment-submit:hover,
+	.no-cssgradients #reviews input#submit:hover,
+	.no-cssgradients .comment-form input[type="submit"]:hover,
+	.no-cssgradients .wpcf7-form input[type="submit"]:hover,
+	.no-cssgradients .bbp-submit-wrapper button:hover,
+	.no-cssgradients .button.default,
+	.no-cssgradients .price_slider_amount button:hover,
+	.no-cssgradients .gform_wrapper .gform_button{
+		background:#AAD75B;
+	}
+	
+	
+	
+		.page-title-container{
+		background-image:url(http://theme-fusion.com/avadaxml/wp-content/themes/Avada/images/page_title_bg.png) !important;
+	}
+	
+		.page-title-container{
+		background-color:#F6F6F6;
+	}
+	
+		.page-title-container{border-color:#d2d3d4 !important;}
+	
+	#header{
+			}
+
+	#header{
+					}
+
+	#main{
+			}
+
+	#main{
+					}
+
+	.footer-area{
+			}
+
+	.page-title-container{
+		
+		
+		
+		
+	}
+
+		.fontawesome-icon.circle-yes{
+		background-color:#333333 !important;
+	}
+	
+		.fontawesome-icon.circle-yes{
+		border-color:#333333 !important;
+	}
+	
+		.fontawesome-icon{
+		color:#ffffff !important;
+	}
+	
+		.title-sep,.product .product-border{
+		border-color:#e0dede !important;
+	}
+	
+		.review blockquote q,.post-content blockquote,form.checkout .payment_methods .payment_box{
+		background-color:#f6f6f6 !important;
+	}
+	.review blockquote div:after{
+		border-top-color:#f6f6f6 !important;
+	}
+	
+		.review blockquote q,.post-content blockquote{
+		color:#747474 !important;
+	}
+	
+	
+	
+	body,#nav ul li ul li a,
+	.more,
+	.avada-container h3,
+	.meta .date,
+	.review blockquote q,
+	.review blockquote div strong,
+	.image .image-extras .image-extras-content h4,
+	.image .image-extras .image-extras-content h4 a,
+	.project-content .project-info h4,
+	.post-content blockquote,
+	.button.large,
+	.button.small,
+	.ei-title h3,.cart-contents,
+	.comment-form input[type="submit"],
+	.wpcf7-form input[type="submit"],
+	.gform_wrapper .gform_button,
+	.woocommerce-success-message .button,
+	.page-title h3{
+		font-family:"PT Sans", Arial, Helvetica, sans-serif !important;
+	}
+	.avada-container h3,
+	.review blockquote div strong,
+	.footer-area  h3,
+	#slidingbar-area  h3,
+	.button.large,
+	.button.small,
+	.comment-form input[type="submit"],
+	.wpcf7-form input[type="submit"],
+	.gform_wrapper .gform_button{
+		font-weight:bold;
+	}
+	.meta .date,
+	.review blockquote q,
+	.post-content blockquote{
+		font-style:italic;
+	}
+
+	
+	#nav,
+	.side-nav li a{
+		font-family:"Antic Slab", Arial, Helvetica, sans-serif !important;
+	}
+	
+	
+	#main .reading-box h2,
+	#main h2,
+	.page-title h1,
+	.image .image-extras .image-extras-content h3,
+	#main .post h2,
+	#sidebar .widget h3,
+	.tab-holder .tabs li a,
+	.share-box h4,
+	.project-content h3,
+	.author .author_title,
+	h5.toggle a,
+	.full-boxed-pricing ul li.title-row,
+	.full-boxed-pricing ul li.pricing-row,
+	.sep-boxed-pricing ul li.title-row,
+	.sep-boxed-pricing ul li.pricing-row,
+	.person-author-wrapper,
+	.post-content h1, .post-content h2, .post-content h3, .post-content h4, .post-content h5, .post-content h6,
+	.ei-title h2, #header .tagline,
+	table th,.project-content .project-info h4,
+	.woocommerce-success-message .msg,.product-title{
+		font-family:"Antic Slab", Arial, Helvetica, sans-serif !important;
+	}
+	
+	
+	.footer-area  h3,#slidingbar-area  h3{
+		font-family:"Antic Slab", Arial, Helvetica, sans-serif !important;
+	}
+
+		body,#sidebar .slide-excerpt h2, .footer-area .slide-excerpt h2,#slidingbar-area .slide-excerpt h2{
+		font-size:13px;
+				line-height:20px;
+	}
+	.project-content .project-info h4,.gform_wrapper label,.gform_wrapper .gfield_description{
+		font-size:13px !important;
+				line-height:20px !important;
+	}
+	
+		body,#sidebar .slide-excerpt h2, .footer-area .slide-excerpt h2,#slidingbar-area .slide-excerpt h2{
+		line-height:20px !important;
+	}
+	.project-content .project-info h4{
+		line-height:20px !important;
+	}
+	
+		#nav{font-size:14px !important;}
+	
+		.header-social *{font-size:12px !important;}
+	
+		.page-title ul li,page-title ul li a{font-size:10px !important;}
+	
+		.side-nav li a{font-size:14px !important;}
+	
+		#sidebar .widget h3{font-size:13px !important;}
+	
+		#slidingbar-area h3{font-size:13px !important;}
+	
+		.footer-area h3{font-size:13px !important;}
+	
+		.copyright{font-size:12px !important;}
+	
+		#header .avada-row, #main .avada-row, .footer-area .avada-row,#slidingbar-area .avada-row, #footer .avada-row{ max-width:940px; }
+	
+		.post-content h1{
+		font-size:32px !important;
+				line-height:48px !important;
+	}
+	
+		.post-content h1{
+		line-height:48px !important;
+	}
+	
+		.post-content h2,.title h2,#main .post-content .title h2,.page-title h1,#main .post h2 a{
+		font-size:18px !important;
+				line-height:27px !important;
+	}
+	
+		.post-content h2,.title h2,#main .post-content .title h2,.page-title h1,#main .post h2 a{
+		line-height:27px !important;
+	}
+	
+		.post-content h3,.project-content h3,#header .tagline,.product-title{
+		font-size:16px !important;
+				line-height:24px !important;
+	}
+	
+		.post-content h3,.project-content h3,#header .tagline,.product-title{
+		line-height:24px !important;
+	}
+	
+		.post-content h4{
+		font-size:13px !important;
+				line-height:20px !important;
+	}
+	h5.toggle a,.tab-holder .tabs li a,.share-box h4,.person-author-wrapper{
+		font-size:13px !important;
+	}
+	
+		.post-content h4{
+		line-height:20px !important;
+	}
+	
+		.post-content h5{
+		font-size:12px !important;
+				line-height:18px !important;
+	}
+	
+		.post-content h5{
+		line-height:18px !important;
+	}
+	
+		.post-content h6{
+		font-size:11px !important;
+				line-height:17px !important;
+	}
+	
+		.post-content h6{
+		line-height:17px !important;
+	}
+	
+		.ei-title h2{
+		font-size:42px !important;
+				line-height:63px !important;
+	}
+	
+		.ei-title h3{
+		font-size:20px !important;
+				line-height:30px !important;
+	}
+	
+		body,.post .post-content,.post-content blockquote,.tab-holder .news-list li .post-holder .meta,#sidebar #jtwt,.meta,.review blockquote div,.search input,.project-content .project-info h4,.title-row,.simple-products-slider .price .amount,.quantity .qty,.quantity .minus,.quantity .plus{color:#747474 !important;}
+	
+		.post-content h1,.title h1,.woocommerce-success-message .msg{
+		color:#333333 !important;
+	}
+	
+		.post-content h2,.title h2,.woocommerce-tabs h2{
+		color:#333333 !important;
+	}
+	
+		.post-content h3,#sidebar .widget h3,.project-content h3,.title h3,#header .tagline,.person-author-wrapper span,.product-title{
+		color:#333333 !important;
+	}
+	
+		.post-content h4,.project-content .project-info h4,.share-box h4,.title h4,.tab-holder .tabs li a{
+		color:#333333 !important;
+	}
+	
+		.post-content h5,h5.toggle a,.title h5{
+		color:#333333 !important;
+	}
+	
+		.post-content h6,.title h6{
+		color:#333333 !important;
+	}
+	
+		.page-title h1{
+		color:#333333 !important;
+	}
+	
+	
+		.sep-boxed-pricing ul li.title-row{
+		color:#333333 !important;
+	}
+	
+	
+		body a{color:#333333;}
+	.project-content .project-info .project-info-box a,#sidebar .widget li a, #sidebar .widget .recentcomments, #sidebar .widget_categories li, #main .post h2 a,
+	.shop_attributes tr th,.image-extras a,.products-slider .price .amount,z.my_account_orders thead tr th,.shop_table thead tr th,.cart_totals table th,form.checkout .shop_table tfoot th,form.checkout .payment_methods label,#final-order-details .mini-order-details th,#main .product .product_title{color:#333333 !important;}
+	
+		.page-title ul li,.page-title ul li a{color:#333333 !important;}
+	
+		#slidingbar-area h3{color:#DDDDDD !important;}
+	
+		#slidingbar-area,#slidingbar-area #jtwt,#slidingbar-area #jtwt .jtwt_tweet{color:#8C8989 !important;}
+	
+		#slidingbar-area a{color:#BFBFBF !important;}
+	
+		.footer-area h3{color:#DDDDDD !important;}
+	
+		.footer-area,.footer-area #jtwt,.footer-area #jtwt .jtwt_tweet,.copyright{color:#8C8989 !important;}
+	
+		.footer-area a,.copyright a{color:#BFBFBF !important;}
+	
+		#nav ul a,.side-nav li a,#header .cart-content a,#header .cart-content a:hover,#small-nav .cart-content a,#small-nav .cart-content a:hover,#wrapper .header-social .top-menu .cart > a,#wrapper .header-social .top-menu .cart > a > .amount{color:#333333 !important;}
+	#header .my-account-link:after{border-color:#333333 !important;}
+	
+		#nav ul .current_page_item a, #nav ul .current-menu-item a, #nav ul > .current-menu-parent a,
+	#nav ul ul,#nav li.current-menu-ancestor a,	#nav ul li a:hover{color:#a0ce4e !important;border-color:#a0ce4e !important;}
+	#nav ul ul{border-color:#a0ce4e !important;}
+	
+		#nav ul ul{background-color:#edebeb;}
+	
+		#wrapper #nav ul li ul li a,.side-nav li li a,.side-nav li.current_page_item li a{color:#333333 !important;}
+	
+		.ei-title h2{color:#333333 !important;}
+	
+		.ei-title h3{color:#747474 !important;}
+	
+		#wrapper .header-social *{color:#747474 !important;}
+	
+		.sep-single{background-color:#e0dede !important;}
+	.sep-double,.sep-dashed,.sep-dotted,.search-page-search-form{border-color:#e0dede !important;}
+	.ls-avada, .avada-skin-rev,.clients-carousel .es-carousel li img,h5.toggle a,.progress-bar,
+	#small-nav,.portfolio-tabs,.faq-tabs,.single-navigation,.project-content .project-info .project-info-box,
+	.post .meta-info,.grid-layout .post,.grid-layout .post .content-sep,
+	.grid-layout .post .flexslider,.timeline-layout .post,.timeline-layout .post .content-sep,
+	.timeline-layout .post .flexslider,h3.timeline-title,.timeline-arrow,
+	.counter-box-wrapper,.table-2 table thead,.table-2 tr td,
+	#sidebar .widget li a,#sidebar .widget .recentcomments,#sidebar .widget_categories li,
+	.tab-holder,.commentlist .the-comment,
+	.side-nav,#wrapper .side-nav li a,.rtl .side-nav,h5.toggle.active + .toggle-content,
+	#wrapper .side-nav li.current_page_item li a,.tabs-vertical .tabset,
+	.tabs-vertical .tabs-container .tab_content,.page-title-container,.pagination a.inactive,.woocommerce-pagination .page-numbers,.bbp-topic-pagination .page-numbers,.rtl .woocommerce .social-share li,.author .author_social{border-color:#e0dede;}
+	.side-nav li a,.product_list_widget li,.widget_layered_nav li,.price_slider_wrapper,.tagcloud a,#header .cart-content a,#header .cart-content a:hover,#header .login-box,#header .cart-contents,#small-nav .login-box,#small-nav .cart-contents,#small-nav .cart-content a,#small-nav .cart-content a:hover,
+	#customer_login_box,.myaccount_user,.myaccount_user_container span,
+	.woocommerce-side-nav li a,.woocommerce-content-box,.woocommerce-content-box h2,.my_account_orders tr,.woocommerce .address h4,.shop_table tr,.cart_totals .total,.chzn-container-single .chzn-single,.chzn-container-single .chzn-single div,.chzn-drop,form.checkout .shop_table tfoot,.input-radio,#final-order-details .mini-order-details tr:last-child,p.order-info,.cart-content a img,.panel.entry-content,.woocommerce-tabs .tabs li a,.woocommerce .social-share,.woocommerce .social-share li,.quantity,.quantity .minus, .quantity .qty,.shop_attributes tr,.woocommerce-success-message{border-color:#e0dede !important;}
+	.price_slider_wrapper .ui-widget-content{background-color:#e0dede;}
+	.gform_wrapper .gsection{border-bottom:1px dotted #e0dede;}
+	
+		.quantity .minus,.quantity .plus{background-color:#dadada !important;}
+	
+		.quantity .minus:hover,.quantity .plus:hover{background-color:#ffffff !important;}
+	
+		#slidingbar-area .widget_categories li a, #slidingbar-area li.recentcomments, #slidingbar-area ul li a, #slidingbar-area .product_list_widget li {border-bottom: 1px solid #282A2B !important;}
+	
+		.footer-area .widget_categories li a, .footer-area li.recentcomments, .footer-area ul li a, .footer-area .product_list_widget li {border-bottom: 1px solid #505152 !important;}
+	
+		input#s,#comment-input input,#comment-textarea textarea,.comment-form-comment textarea,.input-text,.wpcf7-form .wpcf7-text,.wpcf7-form .wpcf7-quiz,.wpcf7-form .wpcf7-number,.wpcf7-form textarea,.wpcf7-form .wpcf7-select,.wpcf7-select-parent .select-arrow,.wpcf7-captchar,.wpcf7-form .wpcf7-date,.gform_wrapper .gfield input[type=text],.gform_wrapper .gfield textarea,.gform_wrapper .gfield select,#bbpress-forums #bbp-search-form #bbp_search,.bbp-reply-form input#bbp_topic_tags,.bbp-topic-form input#bbp_topic_title, .bbp-topic-form input#bbp_topic_tags, .bbp-topic-form select#bbp_stick_topic_select, .bbp-topic-form select#bbp_topic_status_select,#bbpress-forums div.bbp-the-content-wrapper textarea.bbp-the-content,.main-nav-search-form input,.search-page-search-form input,.chzn-container-single .chzn-single,.chzn-container .chzn-drop{background-color:#ffffff !important;}
+	
+		input#s,input#s .placeholder,#comment-input input,#comment-textarea textarea,#comment-input .placeholder,#comment-textarea .placeholder,.comment-form-comment textarea,.input-text,.wpcf7-form .wpcf7-text,.wpcf7-form .wpcf7-quiz,.wpcf7-form .wpcf7-number,.wpcf7-form textarea,.wpcf7-form .wpcf7-select,.wpcf7-select-parent .select-arrow,.wpcf7-captchar,.wpcf7-form .wpcf7-date,.gform_wrapper .gfield input[type=text],.gform_wrapper .gfield textarea,.gform_wrapper .gfield select,#bbpress-forums #bbp-search-form #bbp_search,.bbp-reply-form input#bbp_topic_tags,.bbp-topic-form input#bbp_topic_title, .bbp-topic-form input#bbp_topic_tags, .bbp-topic-form select#bbp_stick_topic_select, .bbp-topic-form select#bbp_topic_status_select,#bbpress-forums div.bbp-the-content-wrapper textarea.bbp-the-content,.chzn-container-single .chzn-single,.chzn-container .chzn-drop{color:#aaa9a9 !important;}
+	input#s::-webkit-input-placeholder,#comment-input input::-webkit-input-placeholder,#comment-textarea textarea::-webkit-input-placeholder,.comment-form-comment textarea::-webkit-input-placeholder,.input-text::-webkit-input-placeholder{color:#aaa9a9 !important;}
+	input#s:-moz-placeholder,#comment-input input:-moz-placeholder,#comment-textarea textarea:-moz-placeholder,.comment-form-comment textarea:-moz-placeholder,.input-text:-moz-placeholder{color:#aaa9a9 !important;}
+	input#s:-ms-input-placeholder,#comment-input input:-ms-input-placeholder,#comment-textarea textarea:-moz-placeholder,.comment-form-comment textarea:-ms-input-placeholder,.input-text:-ms-input-placeholder,.main-nav-search-form input,.search-page-search-form input{color:#aaa9a9 !important;}
+	
+		input#s,#comment-input input,#comment-textarea textarea,.comment-form-comment textarea,.input-text,.wpcf7-form .wpcf7-text,.wpcf7-form .wpcf7-quiz,.wpcf7-form .wpcf7-number,.wpcf7-form textarea,.wpcf7-form .wpcf7-select,.wpcf7-select-parent .select-arrow,.wpcf7-captchar,.wpcf7-form .wpcf7-date,.gform_wrapper .gfield input[type=text],.gform_wrapper .gfield textarea,.gform_wrapper .gfield_select[multiple=multiple],.gform_wrapper .gfield select,.select-arrow,
+	#bbpress-forums #bbp-search-form #bbp_search,.bbp-reply-form input#bbp_topic_tags,.bbp-topic-form input#bbp_topic_title, .bbp-topic-form input#bbp_topic_tags, .bbp-topic-form select#bbp_stick_topic_select, .bbp-topic-form select#bbp_topic_status_select,#bbpress-forums div.bbp-the-content-wrapper textarea.bbp-the-content,#wp-bbp_topic_content-editor-container,#wp-bbp_reply_content-editor-container,.main-nav-search-form input,.search-page-search-form input,.chzn-container-single .chzn-single,.chzn-container .chzn-drop{border-color:#d2d2d2 !important;}
+	
+		#wrapper #nav ul li ul li a{border-bottom:1px solid #dcdadb !important;}
+	
+		#wrapper #nav ul li ul li a:hover, #wrapper #nav ul li ul li.current-menu-item a,#header .cart-content a:hover,#small-nav .cart-content a:hover{background-color:#f5f4f4 !important;}
+	
+		#header .tagline{
+		color:#747474 !important;
+	}
+	
+		#header .tagline{
+		font-size:16px !important;
+		line-height:30px !important;
+	}
+	
+		.page-title h1{
+		font-size:18px !important;
+		line-height:normal !important;
+	}
+	
+			.page-title h3{;
+			font-size:14px !important;
+			line-height: 26px !important;
+		}
+	
+		.header-social,#header,.header-v4 #small-nav,.header-v5 #small-nav{
+		border-bottom-color:#e1e1e1 !important;
+	}
+	
+		#nav ul ul{
+		width:170px !important;
+	}
+	#nav ul ul li:hover ul{
+		left:170px !important;
+	}
+	
+		.page-title-container{
+		height:87px !important;
+	}
+	
+		#main #sidebar{
+		background-color:transparent;
+	}
+	
+		#main #content{
+		width:71.1702128%;
+	}
+	
+		#main #sidebar{
+		width:23.4042553%;
+	}
+	
+	
+		#wrapper .header-social{
+		background-color:#ffffff !important;
+	}
+	
+		#wrapper .header-social .menu > li{
+		border-color:#efefef !important;
+	}
+	
+		#wrapper .header-social .menu .sub-menu,#wrapper .header-social .login-box,#wrapper .header-social .cart-contents,.main-nav-search-form{
+		background-color:#ffffff !important;
+	}
+	
+		#wrapper .header-social .menu .sub-menu li, #wrapper .header-social .menu .sub-menu li a,#wrapper .header-social .login-box *,#wrapper .header-social .cart-contents *{
+		color:#333333 !important;
+	}
+	
+		#wrapper .header-social .menu .sub-menu li a:hover{
+		background-color:#fafafa !important;
+	}
+	
+		#wrapper .header-social .menu .sub-menu li a:hover{
+		color:#333333 !important;
+	}
+	
+		#wrapper .header-social .menu .sub-menu,#wrapper .header-social .menu .sub-menu li,.top-menu .cart-content a,#wrapper .header-social .login-box,#wrapper .header-social .cart-contents,.main-nav-search-form{
+		border-color:#e0dfdf !important;
+	}
+	
+		#header .cart-checkout,.top-menu .cart,.top-menu .cart-content a:hover,.top-menu .cart-checkout,#small-nav .cart-checkout{
+		background-color:#fafafa !important;
+	}
+	
+		h5.toggle span.arrow{background-color:#333333;}
+	
+		.progress-bar-content{background-color:#a0ce4e !important;border-color:#a0ce4e !important;}
+	.content-box-percentage{color:#a0ce4e !important;}
+	
+		.progress-bar{background-color:#f6f6f6;border-color:#f6f6f6;}
+	
+		.date-and-formats .format-box{background-color:#eef0f2;}
+	
+		.es-nav-prev,.es-nav-next{background-color:#999999;}
+	
+		.es-nav-prev:hover,.es-nav-next:hover{background-color:#808080;}
+	
+		.content-boxes .col{background-color:transparent;}
+	
+		#sidebar .tab-holder,#sidebar .tab-holder .news-list li{border-color:#ebeaea !important;}
+	.pyre_tabs .tabs-container{background-color:#ffffff !important;}
+	body #sidebar .tab-hold .tabs li{border-right:1px solid #ffffff !important;}
+	body #sidebar .tab-hold .tabs li a{background:#ebeaea !important;border-bottom:0 !important;color:#747474 !important;}
+	body #sidebar .tab-hold .tabs li a:hover{background:#ffffff !important;border-bottom:0 !important;}
+	body #sidebar .tab-hold .tabs li.active a{background:#ffffff !important;border-bottom:0 !important;}
+	body #sidebar .tab-hold .tabs li.active a{border-top-color:#a0ce4e!important;}
+	
+		.share-box{background-color:#f6f6f6;}
+	
+		.grid-layout .post,.timeline-layout .post{background-color:transparent;}
+	
+		.grid-layout .post .flexslider,.timeline-layout .post,.timeline-layout .post .content-sep,
+	.timeline-layout .post .flexslider,h3.timeline-title,.grid-layout .post,.grid-layout .post .content-sep,.products li,.product-details-container,.product-buttons,.product-buttons-container{border-color:#f6f6f6 !important;}
+	.align-left .timeline-arrow:before,.align-left .timeline-arrow:after{border-left-color:#f6f6f6 !important;}
+	.align-right .timeline-arrow:before,.align-right .timeline-arrow:after{border-right-color:#f6f6f6 !important;}
+	.timeline-circle,.timeline-title{background-color:#f6f6f6 !important;}
+	.timeline-icon{color:#f6f6f6;}
+	
+			#bbpress-forums li.bbp-header,
+		#bbpress-forums div.bbp-reply-header,#bbpress-forums #bbp-single-user-details #bbp-user-navigation li.current a,div.bbp-template-notice, div.indicator-hint{ background:#F6F6F6 !important; }
+		#bbpress-forums .bbp-replies div.even { background: transparent !important; }
+	
+			#bbpress-forums ul.bbp-lead-topic, #bbpress-forums ul.bbp-topics, #bbpress-forums ul.bbp-forums, #bbpress-forums ul.bbp-replies, #bbpress-forums ul.bbp-search-results,
+		#bbpress-forums li.bbp-body ul.forum, #bbpress-forums li.bbp-body ul.topic,
+		#bbpress-forums div.bbp-reply-content,#bbpress-forums div.bbp-reply-header,
+		#bbpress-forums div.bbp-reply-author .bbp-reply-post-date,
+		#bbpress-forums div.bbp-topic-tags a,#bbpress-forums #bbp-single-user-details,div.bbp-template-notice, div.indicator-hint
+		.bbp-arrow{ border-color:#F6F6F6 !important; }
+	
+	
+	
+	
+		.main-flex .flex-control-nav{display:none !important;}
+	
+		@media only screen and (max-width: 940px){
+		.breadcrumbs{display:none !important;}
+	}
+	@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait){
+		.breadcrumbs{display:none !important;}
+	}
+	
+	
+		#nav > li > a,#nav li.current-menu-ancestor a{height:83px;line-height:83px;}
+	#nav > li > a,#nav li.current-menu-ancestor a{height:83px;line-height:83px;}
+	#nav ul ul{top:86px;}
+
+		.sticky-header #nav > li > a.my-cart-link, .sticky-header #nav li.current-menu-ancestor a.my-cart-link {height:63px;line-height:63px;}
+	
+	
+		.ei-slider{width:100% !important;}
+	
+		.ei-slider{height:400px !important;}
+	
+	
+	
+	
+		.reading-box{background-color:#f6f6f6 !important;}
+	
+	.isotope .isotope-item {
+	  -webkit-transition-property: top, left, opacity;
+	     -moz-transition-property: top, left, opacity;
+	      -ms-transition-property: top, left, opacity;
+	       -o-transition-property: top, left, opacity;
+	          transition-property: top, left, opacity;
+	}
+
+				
+	
+        .header-v5 #header .logo{float:left !important;}
+    
+	
+	
+		.bbp_reply_admin_links .admin_links_sep, .bbp-admin-links .admin_links_sep{
+		display: none;
+	}
+		</style>
+
+	
+	
+	<!--[if lte IE 8]>
+	<script type="text/javascript" src="http://punklawyer.com/wp-content/themes/Avada/js/respond.js"></script>
+	<![endif]-->
+</head>
+
+<body class="home blog light ">
+	<div id="wrapper" >
+					<div class="header-wrapper">
+			<div class="header-v1">
+	<header id="header">
+		<div class="avada-row" style="margin-top:0px;margin-bottom:0px;">
+			<div class="logo" style="margin-right:0px;margin-top:31px;margin-left:0px;margin-bottom:31px;">
+				<a href="http://punklawyer.com">
+					<img src="http://punklawyer.com/wp-content/uploads/2013/12/PUNKLAWYER-Logo1-1024x167.jpg" alt="PunʞLawyer" class="normal_logo" />
+									</a>
+			</div>
+						<nav id="nav" class="nav-holder">
+							<ul id="nav" class="menu">
+	<li id="menu-item-4587" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4587"><a href="http://punklawyer.com/category/uncategorized/">Home</a></li>
+			<li class="main-nav-search">
+		<a id="nav-search-link" class="search-link"></a>
+		<div id="nav-search-form" class="main-nav-search-form">
+			<form role="search" method="get" action="http://punklawyer.com/">
+				<input type="text" value="" name="s" id="s" />
+				<input type="submit" id="searchsubmit" value="&#xf002;" />
+			</form>
+		</div>
+	</li>
+	</ul>
+			</nav>
+		</div>
+	</header>
+</div>		</div>
+		<header id="header" class="sticky-header">
+<div class="sticky-shadow">
+	<div class="avada-row">
+		<div class="logo">
+			<a href="http://punklawyer.com">
+				<img src="http://punklawyer.com/wp-content/uploads/2013/12/PUNKLAWYER-Logo1-1024x167.jpg" alt="PunʞLawyer" class="normal_logo" />
+							</a>
+		</div>
+		<nav id="nav" class="nav-holder">
+		<ul id="nav" class="menu">
+			<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-4587"><a href="http://punklawyer.com/category/uncategorized/">Home</a></li>
+									<li class="main-nav-search">
+				<a id="nav-search-link" class="search-link"></a>
+				<div id="nav-search-form" class="main-nav-search-form">
+					<form role="search" method="get" action="http://punklawyer.com/">
+						<input type="text" value="" name="s" id="s" />
+						<input type="submit" id="searchsubmit" value="&#xf002;" />
+					</form>
+				</div>
+			</li>
+					</ul>
+		</nav>
+	</div>
+	</div>
+</header>
+		<div id="sliders-container">
+									</div>
+																<div id="main" class="" style="overflow:hidden !important;">
+		<div class="avada-row" style="">
+					<div id="content" class="" style="float:left;">
+				<div id="posts-container" class=" clearfix">
+									<div id="post-4857" class=" align-left clearfix post-4857 post type-post status-publish format-standard hentry category-guest-post category-poetry">
+																	<style type="text/css">
+			
+			
+			
+			
+						</style>
+			
+			
+			
+									
+							<div class="post-content-container">
+														<h2 class="entry-title"><a href="http://punklawyer.com/2016/07/05/he-photographs-the-fashionable/">He Photographs the Fashionable</a></h2>
+															<div class="post-content">
+												<div class="content-sep"></div>
+						<div class="excerpt-container"><p>He Photographs the Fashionable</p>
+<p>by Nick Mueller</p>
+<p>&nbsp;</p>
+<p>In baby blue smock that yields just at the waist</p>
+<p>he pumps merrily and fearlessly at the bicycle pedals</p>
+<p>through seasons and traffic and decades.</p>
+<p>&nbsp;</p>
+<p>If I could stride so baby blue and youthful, then I</p>
+<p>would be more surprised at oncoming oddities,</p>
+<p>more open to them, perhaps.  Wouldn&#8217;t you?</p>
+<p>&nbsp;</p>
+<p>I like so much about him and in him and &#91;&#8230;&#93;</p>
+</div>					</div>
+					<div style="clear:both;"></div>
+										<div class="meta-info">
+																		<div class="alignleft vcard">
+							By <span class="fn"><a href="http://punklawyer.com/author/punklawyer/" title="Posts by punklawyer" rel="author">punklawyer</a></span><span class="sep">|</span><span class="updated">July 5th, 2016</span><span class="sep">|</span><a href="http://punklawyer.com/category/guest-post/" rel="category tag">guest post</a>, <a href="http://punklawyer.com/category/poetry/" rel="category tag">Poetry</a><span class="sep">|</span><span>Comments Off<span class="screen-reader-text"> on He Photographs the Fashionable</span></span><span class="sep">|</span>						</div>
+												<div class="alignright">
+							<a href="http://punklawyer.com/2016/07/05/he-photographs-the-fashionable/" class="read-more">Read More</a>						</div>
+											</div>
+									</div>
+			</div>
+									<div id="post-4824" class=" align-right clearfix post-4824 post type-post status-publish format-standard hentry category-free-speech category-videos">
+																	<style type="text/css">
+			
+			
+			
+			
+						</style>
+			
+			
+			
+									
+							<div class="post-content-container">
+														<h2 class="entry-title"><a href="http://punklawyer.com/2016/05/06/the-arc-of-trump/">The Arc of Trump</a></h2>
+															<div class="post-content">
+												<div class="content-sep"></div>
+						<div class="excerpt-container"><p>by Charles Carreon<br />
+ May 5, 2016</p>
+<p>Sometimes you can tell you&#8217;re dreaming, because you notice that something you are seeing, or something you are doing, is impossible.  The Tibetans teach you to stimulate this kind of observation by asking yourself, while wide awake, &#8220;Am I dreaming?&#8221;  They say you develop the habit, and it creeps into your dreams, and then &#91;&#8230;&#93;</p>
+</div>					</div>
+					<div style="clear:both;"></div>
+										<div class="meta-info">
+																		<div class="alignleft vcard">
+							By <span class="fn"><a href="http://punklawyer.com/author/punklawyer/" title="Posts by punklawyer" rel="author">punklawyer</a></span><span class="sep">|</span><span class="updated">May 6th, 2016</span><span class="sep">|</span><a href="http://punklawyer.com/category/free-speech/" rel="category tag">Free Speech</a>, <a href="http://punklawyer.com/category/videos/" rel="category tag">Videos</a><span class="sep">|</span><span>Comments Off<span class="screen-reader-text"> on The Arc of Trump</span></span><span class="sep">|</span>						</div>
+												<div class="alignright">
+							<a href="http://punklawyer.com/2016/05/06/the-arc-of-trump/" class="read-more">Read More</a>						</div>
+											</div>
+									</div>
+			</div>
+									<div id="post-4806" class=" align-left clearfix post-4806 post type-post status-publish format-standard hentry category-uncategorized">
+																	<style type="text/css">
+			
+			
+			
+			
+						</style>
+			
+			
+			
+									
+							<div class="post-content-container">
+														<h2 class="entry-title"><a href="http://punklawyer.com/2016/04/19/the-combustible-arrogance-of-hillary-clinton/">The Combustible Arrogance of Hillary Clinton</a></h2>
+															<div class="post-content">
+												<div class="content-sep"></div>
+						<div class="excerpt-container"><p>by Charles Carreon<br />
+ 4/19/16</p>
+<p>One thing the Clinton machine does not claim to be is pretty. They make no pretense &#8212; people, individual voters, do not matter.  Delegates matter.  Math will decide the outcome &#8212; math that has nothing to do with the popular vote. Victory is assured and they don&#8217;t mind letting you know.</p>
+<p>In an ordinary year, with no &#91;&#8230;&#93;</p>
+</div>					</div>
+					<div style="clear:both;"></div>
+										<div class="meta-info">
+																		<div class="alignleft vcard">
+							By <span class="fn"><a href="http://punklawyer.com/author/punklawyer/" title="Posts by punklawyer" rel="author">punklawyer</a></span><span class="sep">|</span><span class="updated">April 19th, 2016</span><span class="sep">|</span><a href="http://punklawyer.com/category/uncategorized/" rel="category tag">Uncategorized</a><span class="sep">|</span><span>Comments Off<span class="screen-reader-text"> on The Combustible Arrogance of Hillary Clinton</span></span><span class="sep">|</span>						</div>
+												<div class="alignright">
+							<a href="http://punklawyer.com/2016/04/19/the-combustible-arrogance-of-hillary-clinton/" class="read-more">Read More</a>						</div>
+											</div>
+									</div>
+			</div>
+									<div id="post-4794" class=" align-right clearfix post-4794 post type-post status-publish format-standard hentry category-free-speech category-property">
+																	<style type="text/css">
+			
+			
+			
+			
+						</style>
+			
+			
+			
+									
+							<div class="post-content-container">
+														<h2 class="entry-title"><a href="http://punklawyer.com/2016/03/15/trump-the-protesters-and-public-forum-law-2/">Trump, the Protesters, and Public Forum Law</a></h2>
+															<div class="post-content">
+												<div class="content-sep"></div>
+						<div class="excerpt-container"><p>by Charles Carreon<br />
+March 15, 2016</p>
+<p>Oregon v. Huberty</p>
+<p>In around 1998, I represented a retired airman named Don Huberty in People v. State of Oregon v. Huberty against a charge of Second Degree Trespass in probably the longest trespass trial in Josephine County history: three days.  It took so long because Don&#8217;s defense against his refusal to leave the County offices was &#91;&#8230;&#93;</p>
+</div>					</div>
+					<div style="clear:both;"></div>
+										<div class="meta-info">
+																		<div class="alignleft vcard">
+							By <span class="fn"><a href="http://punklawyer.com/author/punklawyer/" title="Posts by punklawyer" rel="author">punklawyer</a></span><span class="sep">|</span><span class="updated">March 15th, 2016</span><span class="sep">|</span><a href="http://punklawyer.com/category/free-speech/" rel="category tag">Free Speech</a>, <a href="http://punklawyer.com/category/property/" rel="category tag">Property</a><span class="sep">|</span><span>Comments Off<span class="screen-reader-text"> on Trump, the Protesters, and Public Forum Law</span></span><span class="sep">|</span>						</div>
+												<div class="alignright">
+							<a href="http://punklawyer.com/2016/03/15/trump-the-protesters-and-public-forum-law-2/" class="read-more">Read More</a>						</div>
+											</div>
+									</div>
+			</div>
+									<div id="post-4715" class=" align-left clearfix post-4715 post type-post status-publish format-standard hentry category-uncategorized">
+																	<style type="text/css">
+			
+			
+			
+			
+						</style>
+			
+			
+			
+									
+							<div class="post-content-container">
+														<h2 class="entry-title"><a href="http://punklawyer.com/2015/07/17/rock-n-roll-library-rest-in-peace/">Rock &#8216;n&#8217; Roll Library, Rest in Peace</a></h2>
+															<div class="post-content">
+												<div class="content-sep"></div>
+						<div class="excerpt-container"><p>by Charles Carreon<br />
+ July 17, 2015</p>
+<p>If you&#8217;re reading this, the American Buddha Online Library is down, and you are one of the thousands of people today who are wondering where it went.  Its disappearance is in large part my fault.  I incorporated the American Buddha nonprofit corporation and served as ABOL&#8217;s lawyer for fifteen years, and helped it keep &#91;&#8230;&#93;</p>
+</div>					</div>
+					<div style="clear:both;"></div>
+										<div class="meta-info">
+																		<div class="alignleft vcard">
+							By <span class="fn"><a href="http://punklawyer.com/author/punklawyer/" title="Posts by punklawyer" rel="author">punklawyer</a></span><span class="sep">|</span><span class="updated">July 17th, 2015</span><span class="sep">|</span><a href="http://punklawyer.com/category/uncategorized/" rel="category tag">Uncategorized</a><span class="sep">|</span><span>Comments Off<span class="screen-reader-text"> on Rock &#8216;n&#8217; Roll Library, Rest in Peace</span></span><span class="sep">|</span>						</div>
+												<div class="alignright">
+							<a href="http://punklawyer.com/2015/07/17/rock-n-roll-library-rest-in-peace/" class="read-more">Read More</a>						</div>
+											</div>
+									</div>
+			</div>
+									<div id="post-4690" class=" align-right clearfix post-4690 post type-post status-publish format-standard hentry category-uncategorized">
+																	<style type="text/css">
+			
+			
+			
+			
+						</style>
+			
+			
+			
+									
+							<div class="post-content-container">
+														<h2 class="entry-title"><a href="http://punklawyer.com/2015/04/27/the-village/">The Village</a></h2>
+															<div class="post-content">
+												<div class="content-sep"></div>
+						<div class="excerpt-container"><p>by Charles Carreon</p>
+<p>04/26/15</p>
+<p>Ron was not happy. Not happy at all. He was staring at the hole in his dashboard, and he just could not believe it. The windows weren&#8217;t broken, the doors were still locked the way he&#8217;d left them before he started his shift. It was broad daylight. Out loud he breathed the words, &#8220;Where&#8217;s my fucking stereo?&#8221; &#91;&#8230;&#93;</p>
+</div>					</div>
+					<div style="clear:both;"></div>
+										<div class="meta-info">
+																		<div class="alignleft vcard">
+							By <span class="fn"><a href="http://punklawyer.com/author/punklawyer/" title="Posts by punklawyer" rel="author">punklawyer</a></span><span class="sep">|</span><span class="updated">April 27th, 2015</span><span class="sep">|</span><a href="http://punklawyer.com/category/uncategorized/" rel="category tag">Uncategorized</a><span class="sep">|</span><span>Comments Off<span class="screen-reader-text"> on The Village</span></span><span class="sep">|</span>						</div>
+												<div class="alignright">
+							<a href="http://punklawyer.com/2015/04/27/the-village/" class="read-more">Read More</a>						</div>
+											</div>
+									</div>
+			</div>
+									<div id="post-4684" class=" align-left clearfix post-4684 post type-post status-publish format-standard hentry category-punk">
+																	<style type="text/css">
+			
+			
+			
+			
+						</style>
+			
+			
+			
+									
+							<div class="post-content-container">
+														<h2 class="entry-title"><a href="http://punklawyer.com/2015/03/23/the-faith-of-an-advocate/">The Faith of an Advocate</a></h2>
+															<div class="post-content">
+												<div class="content-sep"></div>
+						<div class="excerpt-container"><p>By Charles Carreon<br />
+ March 22, 2015</p>
+<p>YOUTUBE VIDEO</p>
+<p>In my experience, a lawyer is often the first person to believe in the unpopular individual. I do not mean that only lawyers take up the cause of the unpopular, or that all lawyers do it. Quite the contrary – non-lawyers champion the weak and oppressed as a daily matter, and the majority &#91;&#8230;&#93;</p>
+</div>					</div>
+					<div style="clear:both;"></div>
+										<div class="meta-info">
+																		<div class="alignleft vcard">
+							By <span class="fn"><a href="http://punklawyer.com/author/chascarreongmail-com/" title="Posts by chascarreon@gmail.com" rel="author">chascarreon@gmail.com</a></span><span class="sep">|</span><span class="updated">March 23rd, 2015</span><span class="sep">|</span><a href="http://punklawyer.com/category/punk/" rel="category tag">punk</a><span class="sep">|</span><span>Comments Off<span class="screen-reader-text"> on The Faith of an Advocate</span></span><span class="sep">|</span>						</div>
+												<div class="alignright">
+							<a href="http://punklawyer.com/2015/03/23/the-faith-of-an-advocate/" class="read-more">Read More</a>						</div>
+											</div>
+									</div>
+			</div>
+									<div id="post-4643" class=" align-right clearfix post-4643 post type-post status-publish format-standard hentry category-uncategorized">
+																	<style type="text/css">
+			
+			
+			
+			
+						</style>
+			
+			
+			
+									
+							<div class="post-content-container">
+														<h2 class="entry-title"><a href="http://punklawyer.com/2014/05/04/whos-zenning-who/">Who&#8217;s Zenning Who?</a></h2>
+															<div class="post-content">
+												<div class="content-sep"></div>
+						<div class="excerpt-container"><p>Another View on Whether Susan Blackmore&#8217;s Sermon on the Way of Robotic Consciousness Was Worth Spending A Beautiful Morning Indoors With A Band of Aging Atheists One Day in Late April in Tucson, Arizona, 2014<br />
+by Charles Carreon<br />
+May 3, 2014</p>
+<p>Sunday With the Atheists</p>
+<p>Last weekend, Sunday morning, in search of fun atheists, Tara and I went to the Free Thought Arizona &#91;&#8230;&#93;</p>
+</div>					</div>
+					<div style="clear:both;"></div>
+										<div class="meta-info">
+																		<div class="alignleft vcard">
+							By <span class="fn"><a href="http://punklawyer.com/author/punklawyer/" title="Posts by punklawyer" rel="author">punklawyer</a></span><span class="sep">|</span><span class="updated">May 4th, 2014</span><span class="sep">|</span><a href="http://punklawyer.com/category/uncategorized/" rel="category tag">Uncategorized</a><span class="sep">|</span><span>Comments Off<span class="screen-reader-text"> on Who&#8217;s Zenning Who?</span></span><span class="sep">|</span>						</div>
+												<div class="alignright">
+							<a href="http://punklawyer.com/2014/05/04/whos-zenning-who/" class="read-more">Read More</a>						</div>
+											</div>
+									</div>
+			</div>
+									<div id="post-4597" class=" align-left clearfix post-4597 post type-post status-publish format-standard hentry category-punk category-uncategorized">
+																	<style type="text/css">
+			
+			
+			
+			
+						</style>
+			
+			
+			
+									
+							<div class="post-content-container">
+														<h2 class="entry-title"><a href="http://punklawyer.com/2014/04/26/jobs-the-canonization-of-a-visionary-autocrat/">&#8220;Jobs&#8221;: The Canonization of a Visionary Autocrat</a></h2>
+															<div class="post-content">
+												<div class="content-sep"></div>
+						<div class="excerpt-container"><p>by Charles Carreon<br />
+April 25, 2014</p>
+<p>I  don&#8217;t know who Steve Jobs really was, because he is so wrapped in myth and lore and legend that his true identity is as undiscoverable as my own, hidden beneath a mass of casual obloquy.  I have no desire to concretize my view of him at all, because he was who he was, and &#91;&#8230;&#93;</p>
+</div>					</div>
+					<div style="clear:both;"></div>
+										<div class="meta-info">
+																		<div class="alignleft vcard">
+							By <span class="fn"><a href="http://punklawyer.com/author/punklawyer/" title="Posts by punklawyer" rel="author">punklawyer</a></span><span class="sep">|</span><span class="updated">April 26th, 2014</span><span class="sep">|</span><a href="http://punklawyer.com/category/punk/" rel="category tag">punk</a>, <a href="http://punklawyer.com/category/uncategorized/" rel="category tag">Uncategorized</a><span class="sep">|</span><span>Comments Off<span class="screen-reader-text"> on &#8220;Jobs&#8221;: The Canonization of a Visionary Autocrat</span></span><span class="sep">|</span>						</div>
+												<div class="alignright">
+							<a href="http://punklawyer.com/2014/04/26/jobs-the-canonization-of-a-visionary-autocrat/" class="read-more">Read More</a>						</div>
+											</div>
+									</div>
+			</div>
+									<div id="post-84" class=" align-right clearfix post-84 post type-post status-publish format-standard hentry category-uncategorized">
+																	<style type="text/css">
+			
+			
+			
+			
+						</style>
+			
+			
+			
+									
+							<div class="post-content-container">
+														<h2 class="entry-title"><a href="http://punklawyer.com/2013/10/06/i-always-miss-the-fun/">From Haight Ashbury to Silk Road, I Always Miss the Fun!</a></h2>
+															<div class="post-content">
+												<div class="content-sep"></div>
+						<div class="excerpt-container"><p>by Charles Carreon<br />
+October 6, 2013</p>
+<p>I got to Haight Ashbury in 1968.  The Summer of Love was 1967.  I couldn’t help it.  I rushed.  I was only twelve when I ran away, but run I did, to where the sign flashing “LSD” could be seen, irrigating the brains of a new generation that had no need of footwear.  The LSD &#91;&#8230;&#93;</p>
+</div>					</div>
+					<div style="clear:both;"></div>
+										<div class="meta-info">
+																		<div class="alignleft vcard">
+							By <span class="fn"><a href="http://punklawyer.com/author/punklawyer/" title="Posts by punklawyer" rel="author">punklawyer</a></span><span class="sep">|</span><span class="updated">October 6th, 2013</span><span class="sep">|</span><a href="http://punklawyer.com/category/uncategorized/" rel="category tag">Uncategorized</a><span class="sep">|</span><span>Comments Off<span class="screen-reader-text"> on From Haight Ashbury to Silk Road, I Always Miss the Fun!</span></span><span class="sep">|</span>						</div>
+												<div class="alignright">
+							<a href="http://punklawyer.com/2013/10/06/i-always-miss-the-fun/" class="read-more">Read More</a>						</div>
+											</div>
+									</div>
+			</div>
+					</div>
+			</div>
+		<div id="sidebar" style="float:right;">
+				<div id="recent-posts-2" class="widget widget_recent_entries">		<div class="heading"><h3>Recent Posts</h3></div>		<ul>
+					<li>
+				<a href="http://punklawyer.com/2016/07/05/he-photographs-the-fashionable/">He Photographs the Fashionable</a>
+						</li>
+					<li>
+				<a href="http://punklawyer.com/2016/05/06/the-arc-of-trump/">The Arc of Trump</a>
+						</li>
+					<li>
+				<a href="http://punklawyer.com/2016/04/19/the-combustible-arrogance-of-hillary-clinton/">The Combustible Arrogance of Hillary Clinton</a>
+						</li>
+					<li>
+				<a href="http://punklawyer.com/2016/03/15/trump-the-protesters-and-public-forum-law-2/">Trump, the Protesters, and Public Forum Law</a>
+						</li>
+					<li>
+				<a href="http://punklawyer.com/2015/07/17/rock-n-roll-library-rest-in-peace/">Rock &#8216;n&#8217; Roll Library, Rest in Peace</a>
+						</li>
+				</ul>
+		</div>	</div>
+		</div>
+	</div>
+				<footer class="footer-area">
+		<div class="avada-row">
+			<section class="columns columns-4">
+				<article class="col">
+								</article>
+
+				<article class="col">
+								</article>
+
+				<article class="col">
+								</article>
+
+				<article class="col last">
+								</article>
+			</section>
+		</div>
+	</footer>
+			<footer id="footer">
+		<div class="avada-row">
+						<ul class="social-networks social-networks-dark">
+																																																														</ul>
+					<ul class="copyright">
+				<li>Copyright 2012 Avada | All Rights Reserved | Powered by <a href='http://wordpress.org'>WordPress</a>  |  <a href='http://theme-fusion.com'>Theme Fusion</a></li>
+			</ul>
+		</div>
+	</footer>
+			</div><!-- wrapper -->
+	
+	
+	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false&amp;language=en"></script>
+	<!-- W3TC-include-js-head -->
+
+	<script type="text/javascript">
+jQuery(document).ready(function($) {
+           function fsi_slideshow(){
+            $('#fsi-full-bg img.fsi_active').animate({opacity:0},500, function(){
+                $(this).removeClass('fsi_active');
+            })
+            if($('#fsi-full-bg img.fsi_active').next().length>0)
+                $('#fsi-full-bg img.fsi_active').next().animate({opacity:1},500).addClass('fsi_active');
+            else
+                $('#fsi-full-bg img:first').animate({opacity:1},500).addClass('fsi_active');
+
+        }
+	var fsi_theWindow = $(window);
+	
+        function fsi_resize_images() {
+		
+            $("#fsi-full-bg img").load(function(){
+                var imgWidth = $(this).width();
+                var imgHeight = $(this).height();;
+                var aspectRatio =  imgWidth/ imgHeight;
+
+                if(imgWidth < fsi_theWindow.width() || imgHeight < fsi_theWindow.height()  ){
+                    if(imgWidth < fsi_theWindow.width() ) {
+
+                        $(this).css('left','50%');
+                        $(this).css('margin-left','-'+imgWidth/2+'px');
+
+                    }
+                    if(imgHeight < fsi_theWindow.height() ) {
+
+                        $(this).css('top','50%');
+                        $(this).css('margin-top','-'+imgHeight/2+'px');
+
+                    }
+                }else {
+                    if ( (fsi_theWindow.width() / fsi_theWindow.height()) < aspectRatio ) {
+                        $(this)
+                            .removeClass()
+                            .addClass('fsi-full-bg-full-height');
+                        $(this).css('left','50%');
+                        $(this).css('margin-left','-'+$(this).width()/2+'px');
+                    } else {
+                        $(this)
+                            .removeClass()
+                            .addClass('fsi-full-bg-full-width');
+                        $(this).css('top','50%');
+                        $(this).css('margin-top','-'+$(this).height()/2+'px');
+                    }
+                }
+                // if first image is loaded.. start slideshow
+                if($('#fsi-full-bg img:first')[0] == $(this)[0] ) {
+                    $(this).animate({opacity:1},100).addClass('fsi_active');    
+                }
+            });
+            //fsi_theWindow.resize(resizeBg);
+            
+            
+	}
+	fsi_resize_images();
+	
+
+});
+</script>
+    <div id="fsi-full-bg">
+                <img src="http://punklawyer.com/wp-content/uploads/2013/07/augrape.jpg" />
+        </div>
+<div id="fsi-full-bg-overlay"></div><!-- Lightbox Plus Colorbox v2.7/1.5.9 - 2013.01.24 - Message: 0-->
+<script type="text/javascript">
+jQuery(document).ready(function($){
+  $("a[data-lightboxplus*=lightbox]").each(function(){
+    $(this).colorbox({rel:$(this).attr("data-lightboxplus"),speed:0,width:false,height:false,innerWidth:false,innerHeight:false,initialWidth:false,initialHeight:false,maxWidth:false,maxHeight:false,scalePhotos:false,opacity:0,preloading:false,current:" {current}  {total}",previous:"",next:"",close:"",overlayClose:false,loop:false,scrolling:false,escKey:false,arrowKey:false,top:false,right:false,bottom:false,left:false});
+  });
+});
+</script>
+<script type='text/javascript' src='http://punklawyer.com/wp-content/themes/Avada/framework/plugins/tf-flexslider/assets/js/jquery.mousewheel.min.js?ver=2.1.0-20121206'></script>
+<script type='text/javascript' src='http://punklawyer.com/wp-content/themes/Avada/framework/plugins/tf-flexslider/assets/js/jquery.flexslider.min.js?ver=2.1.0-20121206'></script>
+<script type='text/javascript' src='http://punklawyer.com/wp-content/themes/Avada/js/modernizr-min.js'></script>
+<script type='text/javascript' src='http://punklawyer.com/wp-content/themes/Avada/js/jquery.carouFredSel-6.2.1-min.js'></script>
+<script type='text/javascript' src='http://punklawyer.com/wp-content/themes/Avada/js/jquery.prettyPhoto-min.js'></script>
+<script type='text/javascript' src='http://punklawyer.com/wp-content/themes/Avada/js/jquery.flexslider-min.js'></script>
+<script type='text/javascript' src='http://punklawyer.com/wp-content/themes/Avada/js/jquery.fitvids-min.js'></script>
+<script type='text/javascript' src='http://punklawyer.com/wp-content/themes/Avada/js/gmap-min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var js_local_vars = {"dropdown_goto":"Go to..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://punklawyer.com/wp-content/themes/Avada/js/main-min.js'></script>
+<script type='text/javascript' src='http://punklawyer.com/wp-content/plugins/lightbox-plus/js/jquery.colorbox.1.5.9.js?ver=1.5.9'></script>
+</body>
+</html>

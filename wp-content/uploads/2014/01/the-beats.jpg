@@ -1,0 +1,1755 @@
+<!DOCTYPE html>
+<html lang="en"  xmlns="http://www.w3.org/1999/xhtml" prefix="" lang="en-US">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <!--<title>Multiversity Comics</title> -->
+  
+<!-- BEGIN Metadata added by the Add-Meta-Tags WordPress plugin -->
+<meta name="description" content="By people who love comics for people who love comics" />
+<meta name="keywords" content="annotations, art feature, columns, comics, contests, featured, interviews, longform, news, pick of the week, podcasts, previews, reader poll, reviews, television" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Multiversity Comics" />
+<meta property="og:title" content="Multiversity Comics" />
+<meta property="og:url" content="http://www.multiversitycomics.com/" />
+<meta property="og:description" content="By people who love comics for people who love comics" />
+<meta property="og:locale" content="en_US" />
+<!-- END Metadata added by the Add-Meta-Tags WordPress plugin -->
+
+<title>Multiversity Comics &#8211; By people who love comics for people who love comics</title>
+<link rel="alternate" type="application/rss+xml" title="Multiversity Comics &raquo; Feed" href="http://www.multiversitycomics.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Multiversity Comics &raquo; Comments Feed" href="http://www.multiversitycomics.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.multiversitycomics.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.2"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wpt-twitter-feed-css'  href='http://www.multiversitycomics.com/wp-content/plugins/wp-to-twitter/css/twitter-feed.css?ver=4.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://www.multiversitycomics.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='mvc-style-css'  href='http://www.multiversitycomics.com/wp-content/themes/mvc/style.css?ver=4.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='mvc-search-style-css'  href='http://www.multiversitycomics.com/wp-content/themes/mvc/searchbar.css?ver=4.5.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='http://www.multiversitycomics.com/wp-content/plugins/jetpack/css/jetpack.css?ver=4.1.1' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.multiversitycomics.com/wp-includes/js/jquery/jquery.js?ver=1.12.3'></script>
+<script type='text/javascript' src='http://www.multiversitycomics.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.0'></script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://www.multiversitycomics.com/wp-content/themes/mvc/js/mvc-searchbar.js?ver=4.5.2'></script>
+<link rel='https://api.w.org/' href='http://www.multiversitycomics.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.multiversitycomics.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.multiversitycomics.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='http://wp.me/42KN3' />
+<script type="text/javascript" src="http://www.multiversitycomics.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.6"></script>
+<script type="text/javascript">AudioPlayer.setup("http://www.multiversitycomics.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.6", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"E5E5E5",text:"333333",leftbg:"CCCCCC",lefticon:"333333",volslider:"666666",voltrack:"FFFFFF",rightbg:"B4B4B4",rightbghover:"999999",righticon:"333333",righticonhover:"FFFFFF",track:"FFFFFF",loader:"009900",border:"CCCCCC",tracker:"DDDDDD",skip:"666666",pagebg:"FFFFFF",transparentpagebg:"yes"});</script>
+<script type="text/javascript">
+	window._wp_rp_static_base_url = 'https://wprp.zemanta.com/static/';
+	window._wp_rp_wp_ajax_url = "http://www.multiversitycomics.com/wp-admin/admin-ajax.php";
+	window._wp_rp_plugin_version = '3.6';
+	window._wp_rp_post_id = '133915';
+	window._wp_rp_num_rel_posts = '6';
+	window._wp_rp_thumbnails = true;
+	window._wp_rp_post_title = 'MS+Masterpaint+Theater%3A+Chubby+Cheeks';
+	window._wp_rp_post_tags = ['ms+masterpaint+theater', 'columns', 'holi', 'love', 'horror', 'mous', 'paul', 'book', 'triniti', 'paint', 'life', 'art', 'tip', 'cover', 'comic', 'theater', 'ms'];
+	window._wp_rp_promoted_content = true;
+</script>
+<script type="text/javascript" src="https://wprp.zemanta.com/static/js/loader.js?version=3.6" async></script>
+<link rel="stylesheet" href="http://www.multiversitycomics.com/wp-content/plugins/wordpress-23-related-posts-plugin/static/themes/vertical-m.css?version=3.6" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style>		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		
+<!--Plugin WP Missed Schedule Active - Secured with Genuine Authenticity KeyTag-->
+
+<!-- This site is patched against a big problem not solved since WordPress 2.5 -->
+
+ 
+  <meta name="description" content="Welcome to Multiversity Comics, a web site written by people who love comics for people who love comics. Check in for daily content including updates on all you favorite books and publishers as well as weekly reviews and recommendations!...">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700|Raleway:400,300,600' rel='stylesheet' type='text/css'>
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="shortcut icon" type="image/png" href="http://www.multiversitycomics.com/wp-content/themes/mvc/images/favicon.png">
+  
+  <!-- JS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <div id="unstickyheader">
+  <div class="ad">
+    <div class="container">
+    	<li id="text-23" class="widget widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Leaderboard 1/29/16 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-2019996852160042"
+     data-ad-slot="1484500947"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+		</li>
+    </div>
+  </div>
+  </div>
+  
+  <div id="stickyalias"></div>
+ <!-- NAV TOP --> 
+
+  <div id="stickyheader">
+  <nav class="site-nav">
+    	<ul>
+    	<li class="nav-logo">
+        	<a href="http://www.multiversitycomics.com"><img src="http://www.multiversitycomics.com/wp-content/themes/mvc/images/logo.png" /></a>
+         </li>
+         <li class="mobile-show" id="mobile-btn">
+        	<img src="http://www.multiversitycomics.com/wp-content/themes/mvc/images/mobile-menu.png" width="80px;" />
+        </li>
+        <li>
+        	<!--  -->
+        </li>
+</ul>
+
+ 		<div class="top-nav">
+			            
+            <div class="menu-top-nav-container"><ul id="menu-top-nav" class="menu"><li id="menu-item-124287" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124287"><a href="http://www.multiversitycomics.com/category/news/">News</a></li>
+<li id="menu-item-124291" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124291"><a href="http://www.multiversitycomics.com/category/interviews/">Interviews</a></li>
+<li id="menu-item-124288" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124288"><a href="http://www.multiversitycomics.com/category/reviews/">Reviews</a></li>
+<li id="menu-item-124292" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124292"><a href="http://www.multiversitycomics.com/category/longform/">Longform</a></li>
+<li id="menu-item-124290" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124290"><a href="http://www.multiversitycomics.com/category/podcasts/">Podcasts</a></li>
+<li id="menu-item-124294" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124294"><a href="http://www.multiversitycomics.com/category/tv/">TV</a></li>
+<li id="menu-item-124293" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124293"><a href="http://www.multiversitycomics.com/category/annotations/">Annotations</a></li>
+<li id="menu-item-124289" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124289"><a href="http://www.multiversitycomics.com/category/news-columns/">Columns</a></li>
+</ul></div> 		</div>
+        </ul>
+ <div id="mvc-seach-button-inhead" style=""><img src="http://www.multiversitycomics.com/wp-content/themes/mvc/images/mvc-seach-button-slim.png"></div>
+  </nav>
+  <div id="mvc-searchbar-container" style="">
+      	<div id="mvc-search-form" style="">	
+        	<form style="" role="search" method="get" id="mvc-seach-form" action="http://www.multiversitycomics.com/">
+            
+            	<input id="mvc-search-submit" style="" type="submit" id="searchsubmit" value="Go" />
+            	<input id="mvc-search-field" style="" type="text" value="Search" name="s" id="s" />
+                
+            </form>
+        </div>
+   
+  </div>
+ 
+   </div>
+   <div class="home blog group-blog">
+
+	<div class=“container”>
+    
+  
+
+<!-- FEATURED TOP -->
+
+
+<div id="feature">
+  <div class="row" style="overflow:hidden;"> 
+
+        <!-- First Column -->
+
+<!-- Secondary Column -->
+
+<div class="featured-sub">
+  <a href="http://www.multiversitycomics.com/news-columns/civil-war-2-4/">
+  <div class="featured2"> 
+  	  	 <img height="" class="feature-img" <img width="800" height="924" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg?resize=800%2C924" class="attachment-feature-main size-feature-main wp-post-image" alt="Civil War II 4 Featured" /> />
+          </div>
+  
+  <h5 class="feature-h">
+    The Multiversity Address: &#8220;Civil War II&#8221; #4  </h5>
+  </a> </div>
+    
+        <!-- First Column -->
+
+<!-- Secondary Column -->
+
+<div class="featured-sub">
+  <a href="http://www.multiversitycomics.com/reviews/pick-of-the-week-captain-kid-1/">
+  <div class="featured2"> 
+  	  	 <img height="" class="feature-img" <img width="800" height="916" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Captain-Kid-1-Featured.jpg?resize=800%2C916" class="attachment-feature-main size-feature-main wp-post-image" alt="Captain Kid 1 Featured" /> />
+          </div>
+  
+  <h5 class="feature-h">
+    Pick of the Week: &#8220;Captain Kid&#8221; #1  </h5>
+  </a> </div>
+    
+        <!-- First Column -->
+
+<!-- Secondary Column -->
+
+<div class="featured-sub">
+  <a href="http://www.multiversitycomics.com/longform/the-tragedy-fetishism-of-the-flash/">
+  <div class="featured2"> 
+  	  	 <img height="" class="feature-img" <img width="800" height="1024" src="http://i0.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/The-Flash-Season-2-Poster.jpg?resize=800%2C1024" class="attachment-feature-main size-feature-main wp-post-image" alt="The Flash Season 2 Poster" /> />
+          </div>
+  
+  <h5 class="feature-h">
+    The Tragedy Fetishism Of <i>The Flash</i>  </h5>
+  </a> </div>
+    
+        <!-- First Column -->
+
+<!-- Secondary Column -->
+
+<div class="featured-sub">
+  <a href="http://www.multiversitycomics.com/news-columns/comics-should-be-cheap-7272016/">
+  <div class="featured2"> 
+  	  	 <img height="" class="feature-img" <img width="800" height="1277" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg?resize=800%2C1277" class="attachment-feature-main size-feature-main wp-post-image" alt="Bone Code cover - cropped" /> />
+          </div>
+  
+  <h5 class="feature-h">
+    Comics Should Be Cheap! (7/27/2016)  </h5>
+  </a> </div>
+    
+        <!-- First Column -->
+
+<!-- Secondary Column -->
+
+<div class="featured-sub">
+  <a href="http://www.multiversitycomics.com/reviews/wrapping-wednesday-72016/">
+  <div class="featured2"> 
+  	  	 <img height="" class="feature-img" <img width="800" height="1080" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/JL01-Featured.jpg?resize=800%2C1080" class="attachment-feature-main size-feature-main wp-post-image" alt="Justice League #1 Featured" /> />
+          </div>
+  
+  <h5 class="feature-h">
+    Wrapping Wednesday: Micro Reviews for the Week of 7/20/16  </h5>
+  </a> </div>
+    
+     
+	    </div>
+    
+    
+  </div>
+
+<!-- end of widget -->
+
+<div class="dkblueborder"></div>
+
+<div class="bg-img">
+	<div id="primary" class="content-area top-padding">
+		<main id="main" class="site-main" role="main">
+        <div class="container ">
+        
+        <div class="latest-wrapper">
+        <!-- LATEST UPDATES -->
+ 		<h3 style="font-weight: 700;"><a href="?s=">LATEST UPDATES &nbsp; <span class="seeAll-btn">See All &raquo;</a></h3>
+
+        		<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/news-columns/ms-masterpaint-73016/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="mspaint logo" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 500w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 750w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  news-columns">Columns
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  news-columns"> <a href="http://www.multiversitycomics.com/news-columns/ms-masterpaint-73016/">
+    MS Masterpaint Theater: Chubby Cheeks    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/kwelch/" title="Posts by Kyle Welch" class="author url fn" rel="author">Kyle Welch</a>    
+     | Jul 30, 2016 | <a href="/category/Columns">Columns</a> <br /></p>
+        <p>
+    There are three for-sure things all people love in life: comic covers, cover bands, and MS Paint. Some warned us to never combine this holy trinity. We here at Multiveristy Comics said no, threw caution to the wind, and combined mankind&#8217;s three favorite things into our new weekly feature: MS Masterpaint Theater! Each week, we will highlight [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/news-columns/ms-masterpaint-73016/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/news-columns/civil-war-2-4/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Civil War II 4 Featured" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 923w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  news-columns featured">Columns
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  news-columns featured"> <a href="http://www.multiversitycomics.com/news-columns/civil-war-2-4/">
+    The Multiversity Address: &#8220;Civil War II&#8221; #4    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/jjohnston/" title="Posts by James Johnston" class="author url fn" rel="author">James Johnston</a>    
+     | Jul 29, 2016 | <a href="/category/Columns">Columns</a> <br /></p>
+        <p>
+    Welcome to The Multiversity Address, Multiversity Comics’s recap series for Marvel’s “Civil War II.” After, Jess, Alice, and I died in the process of covering every single “Secret Wars” tie-in, we opted to just let me recap Marvel’s latest revival of a classic crossover. Obviously, we&#8217;ve got &#8220;Civil War II&#8221; spoilers from here on out. [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/news-columns/civil-war-2-4/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/reviews/mechanism-1/">
+    <img width="250" height="250" src="http://i0.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Mechanism Featured Image" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 900w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  reviews">Reviews
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  reviews"> <a href="http://www.multiversitycomics.com/reviews/mechanism-1/">
+    &#8220;Mechanism&#8221; #1    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/dhenderson/" title="Posts by Alice W. Castle" class="author url fn" rel="author">Alice W. Castle</a>    
+     | Jul 29, 2016 | <a href="/category/Reviews">Reviews</a> <br /></p>
+        <p>
+    In a world ravaged by an alien invasion, humanity is desperate for a saviour. No longer can it simply resist the attacks of the Gecko horde, cleansing areas piece by piece. They need something that can turn the tide, but that something might not be exactly human. Read on below for our full spoiler free [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/reviews/mechanism-1/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/reviews/rick-and-morty-16/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Rick and Morty 16 Featured" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 900w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  reviews">Reviews
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  reviews"> <a href="http://www.multiversitycomics.com/reviews/rick-and-morty-16/">
+    &#8220;Rick and Morty&#8221; #16    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/rpleasant/" title="Posts by Robbie Pleasant" class="author url fn" rel="author">Robbie Pleasant</a>    
+     | Jul 29, 2016 | <a href="/category/Reviews">Reviews</a> <br /></p>
+        <p>
+    While fans patiently await season 3 of “Rick and Morty,” the comic from Oni Press attempts to fill the void the break between seasons has left. Can it replicate the intelligence, wit, and dark comedy of the cartoon, or will it just be a poor substitute for the real thing? Written by Kyle Starks Illustrated [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/reviews/rick-and-morty-16/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/news-columns/soliciting-multiversity-dc-1016/">
+    <img width="250" height="250" src="http://i0.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Cave Carson 1 Featured" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 900w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  news-columns">Columns
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  news-columns"> <a href="http://www.multiversitycomics.com/news-columns/soliciting-multiversity-dc-1016/">
+    Soliciting Multiversity: DC&#8217;s Top 10 For October 2016    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/bsalvatore/" title="Posts by Brian Salvatore" class="author url fn" rel="author">Brian Salvatore</a>    
+     | Jul 29, 2016 | <a href="/category/Columns">Columns</a> <br /></p>
+        <p>
+    &#8216;Rebirth&#8217; is settling in nicely &#8211; this is the first month without a &#8216;Rebirth&#8217; issue, and while we get some ongoings launching, this month is far more about what is happening around the fringes of the initiative. This month features a number of miniseries, a fantastic reprint, and more. Read on! 10. Crossover&#8230;HO! For fans [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/news-columns/soliciting-multiversity-dc-1016/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/reviews/bone-coda/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Bone Code cover - cropped" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 1277w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 1024w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  reviews">Reviews
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  reviews"> <a href="http://www.multiversitycomics.com/reviews/bone-coda/">
+    &#8220;Bone: Coda&#8221;    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/mgarcia/" title="Posts by Matthew Garcia" class="author url fn" rel="author">Matthew Garcia</a>    
+     | Jul 29, 2016 | <a href="/category/Reviews">Reviews</a> <br /></p>
+        <p>
+    25 years ago, Jeff Smith debuted his seminal comic series, “Bone.” Combining elements of Walt Kelly, Carl Barks, Floyd Gottfriedson, “Métal hurlant”, and epic fantasy, the series ran for over ten years and through 55 issues. Now, 15 years after the Bone cousins rode off from The Valley, Smith returns for a new, “completely superfluous [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/reviews/bone-coda/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/podcasts/orbital-in-conversation-201/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="OiCPodcast201" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 1000w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  podcasts">Podcasts
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  podcasts"> <a href="http://www.multiversitycomics.com/podcasts/orbital-in-conversation-201/">
+    Orbital In Conversation – Episode 201: Looking Back at DC&#8217;s Western Hero, Jonah Hex    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/cthompson/" title="Posts by Chris Thompson" class="author url fn" rel="author">Chris Thompson</a>    
+     | Jul 29, 2016 | <a href="/category/Podcasts">Podcasts</a> <br /></p>
+        <p>
+    This week Rob &amp; Ant are back with Chris for a discussion about DC&#8217;s popular Western hero Jonah Hex. From his debut in Weird Western Tales to his appearance on DC&#8217;S Legends of Tomorrow, the guys explore this fascinating character and what makes him work &#8211; pulling out some interesting facts and anecdotes along the [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/podcasts/orbital-in-conversation-201/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/news/the-rundown-72916/">
+    <img width="250" height="250" src="http://i0.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2015/10/Empresspromo.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Empress Promo by Stuart Immonen" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2015/10/Empresspromo.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/10/Empresspromo.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/10/Empresspromo.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/10/Empresspromo.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/10/Empresspromo.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/10/Empresspromo.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/10/Empresspromo.jpg 500w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/10/Empresspromo.jpg 750w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  news">News
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  news"> <a href="http://www.multiversitycomics.com/news/the-rundown-72916/">
+    The Rundown: July 29, 2016    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/bsalvatore/" title="Posts by Brian Salvatore" class="author url fn" rel="author">Brian Salvatore</a>    
+     | Jul 29, 2016 | <a href="/category/News">News</a> <br /></p>
+        <p>
+    Welcome back to The Rundown, our daily breakdown on comic news stories we missed from the previous day. Have a link to share? Email our team at rundown@multiversitycomics.com. &#8211; The AV Club is doing a bunch of &#8220;____ of the year so far&#8221; lists, and their comics list is pretty on point. They found a [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/news/the-rundown-72916/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/news/cw-superman-reveal/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cw-Superman-Featured-Image.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Cw Superman Featured Image" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cw-Superman-Featured-Image.jpg 1000w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cw-Superman-Featured-Image.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cw-Superman-Featured-Image.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cw-Superman-Featured-Image.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cw-Superman-Featured-Image.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cw-Superman-Featured-Image.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cw-Superman-Featured-Image.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cw-Superman-Featured-Image.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cw-Superman-Featured-Image.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cw-Superman-Featured-Image.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cw-Superman-Featured-Image.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  news">News
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  news"> <a href="http://www.multiversitycomics.com/news/cw-superman-reveal/">
+    CW Reveals Tyler Hoechlin&#8217;s Superman Costume    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/dhenderson/" title="Posts by Alice W. Castle" class="author url fn" rel="author">Alice W. Castle</a>    
+     | Jul 28, 2016 | <a href="/category/News">News</a> <br /></p>
+        <p>
+    It&#8217;s been a long time waiting for this. Every since CW announced that Supergirl would finally be showing Kara&#8217;s cousin, Kal-El (better known to the people of Earth as Superman), and that Superman would be played by Teen Wolf&#8216;s Tyler Hoechlin, I&#8217;ve been waiting for the full reveal of the costume he&#8217;ll be wearing as [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/news/cw-superman-reveal/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/reviews/adventure-time-comics-1/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Adventure Time Comics 1 Featured" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 860w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  reviews">Reviews
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  reviews"> <a href="http://www.multiversitycomics.com/reviews/adventure-time-comics-1/">
+    &#8220;Adventure Time Comics&#8221; #1    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/sasodje/" title="Posts by Stephenson Ardern-Sodje" class="author url fn" rel="author">Stephenson Ardern-Sodje</a>    
+     | Jul 28, 2016 | <a href="/category/Reviews">Reviews</a> <br /></p>
+        <p>
+    Bite sized &#8220;Adventure Time&#8221; exploits that flesh out Pendleton Ward&#8217;s fun filled world with help from some top cartoonist talent. Written &amp;  Illustrated by Art Balthazar, Katie Cook, Tony Millionaire, &amp; Kate Leyh Oh My Glob! We’ve unleashed some of the industry’s best cartoonists loose in the Land of Ooo to share their most algebraic [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/reviews/adventure-time-comics-1/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/news/the-x-files-annual-2016/">
+    <img width="250" height="250" src="http://i0.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/x-files-annual-2016-square.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="x-files annual 2016 square" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/x-files-annual-2016-square.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/x-files-annual-2016-square.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/x-files-annual-2016-square.jpg 800w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/x-files-annual-2016-square.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/x-files-annual-2016-square.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/x-files-annual-2016-square.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/x-files-annual-2016-square.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/x-files-annual-2016-square.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/x-files-annual-2016-square.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/x-files-annual-2016-square.jpg 500w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/x-files-annual-2016-square.jpg 750w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  news">News
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  news"> <a href="http://www.multiversitycomics.com/news/the-x-files-annual-2016/">
+    &#8220;The X-Files&#8221; Annual 2016    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/jcamacho/" title="Posts by Jess Camacho" class="author url fn" rel="author">Jess Camacho</a>    
+     | Jul 28, 2016 | <a href="/category/News">News</a> <br /></p>
+        <p>
+    Scully and Mulder travel to New Mexico to help out an old friend in this year&#8217;s awesome, extra sized &#8220;X-Files&#8221; annual. Read on for our review but be warned, there are some slight spoilers in this review. Written by Andrew Aydin Illustrated by Greg Scott and Wes Dzioba Mulder uncovers rumors that the Jade Helm [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/news/the-x-files-annual-2016/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/reviews/4001-a-d-3/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/4001-AD-3-Featured.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="4001 AD 3 Featured" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/4001-AD-3-Featured.jpg 781w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/4001-AD-3-Featured.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/4001-AD-3-Featured.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/4001-AD-3-Featured.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/4001-AD-3-Featured.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/4001-AD-3-Featured.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/4001-AD-3-Featured.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/4001-AD-3-Featured.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/4001-AD-3-Featured.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/4001-AD-3-Featured.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/4001-AD-3-Featured.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  reviews">Reviews
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  reviews"> <a href="http://www.multiversitycomics.com/reviews/4001-a-d-3/">
+    &#8220;4001 A.D.&#8221; #3    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/kgodberson/" title="Posts by Ken Godberson III" class="author url fn" rel="author">Ken Godberson III</a>    
+     | Jul 28, 2016 | <a href="/category/Reviews">Reviews</a> <br /></p>
+        <p>
+    So, Team Rai has infiltrated deep into New Japan. The final battle is about to commence. Written by Matt Kindt Illustrated by Clayton Crain Reunion! The war against Father turns in favor of the 41st century&#8217;s revolutionary heroes as Rai finds his long-lost friends aboard the monstrosity that has become New Japan. But even together, [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/reviews/4001-a-d-3/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/reviews/rom-1/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/05/STL010249.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="ROM #1" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/STL010249.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/STL010249.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/STL010249.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/STL010249.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/STL010249.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/STL010249.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/STL010249.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/STL010249.jpg 500w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/STL010249.jpg 750w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  reviews">Reviews
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  reviews"> <a href="http://www.multiversitycomics.com/reviews/rom-1/">
+    &#8220;ROM&#8221; #1    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/kdooley/" title="Posts by Keith Dooley" class="author url fn" rel="author">Keith Dooley</a>    
+     | Jul 28, 2016 | <a href="/category/Reviews">Reviews</a> <br /></p>
+        <p>
+    Dire Wraiths beware! ROM, Lord of the Solstar Order, has traveled from another galaxy to defend Earth from the wrath of evil that has infiltrated our planet. Written by Christos Gage and Chris Ryall Illustrated by David Messina WE’VE BEEN INVADED AND ONLY A SPACE KNIGHT CAN SAVE US! First there was his epic return [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/reviews/rom-1/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/news-columns/soliciting-multiversity-image-1016/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Moonshine Promo" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 1041w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 1024w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  news-columns">Columns
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  news-columns"> <a href="http://www.multiversitycomics.com/news-columns/soliciting-multiversity-image-1016/">
+    Soliciting Multiversity: Image&#8217;s Top 10 For October 2016    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/dhenderson/" title="Posts by Alice W. Castle" class="author url fn" rel="author">Alice W. Castle</a>    
+     | Jul 28, 2016 | <a href="/category/Columns">Columns</a> <br /></p>
+        <p>
+    We&#8217;re back! After what might have been the shortest month ever (seriously, July felt like it was four days long), Soliciting Multiversity has returned to give you a glimpse at the future of your favourite comics. As always, I will be taking a look at what Image Comics has to offer in month of October [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/news-columns/soliciting-multiversity-image-1016/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/reviews/pick-of-the-week-captain-kid-1/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Captain-Kid-1-Featured.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Captain Kid 1 Featured" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Captain-Kid-1-Featured.jpg 915w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Captain-Kid-1-Featured.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Captain-Kid-1-Featured.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Captain-Kid-1-Featured.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Captain-Kid-1-Featured.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Captain-Kid-1-Featured.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Captain-Kid-1-Featured.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Captain-Kid-1-Featured.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Captain-Kid-1-Featured.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Captain-Kid-1-Featured.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Captain-Kid-1-Featured.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  featured pow reviews">Reviews
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  featured pow reviews"> <a href="http://www.multiversitycomics.com/reviews/pick-of-the-week-captain-kid-1/">
+    Pick of the Week: &#8220;Captain Kid&#8221; #1    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/lbudd/" title="Posts by Liam Budd" class="author url fn" rel="author">Liam Budd</a>    
+     | Jul 28, 2016 | <a href="/category/Pick of the Week">Pick of the Week</a>, <a href="/category/Reviews">Reviews</a> <br /></p>
+        <p>
+    Mark Waid loves superheroes and he has seemingly spent his entire career exploring their mythos and what makes them tick. In his latest effort, Waid attempts to create a new, exciting hero, but still with all the usual trappings. Except one, because behind Captain Kid’s youthful facade lies his secret alter ego, a middle aged [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/reviews/pick-of-the-week-captain-kid-1/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/podcasts/rft-316-too-many-comics/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="jim lee x men 1" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 1280w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 1024w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  podcasts">Podcasts
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  podcasts"> <a href="http://www.multiversitycomics.com/podcasts/rft-316-too-many-comics/">
+    Robots From Tomorrow &#8211; Episode 316: You Don&#8217;t Owe Marvel a Thing    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/mike/" title="Posts by Mike Romeo" class="author url fn" rel="author">Mike Romeo</a> and <a href="http://www.multiversitycomics.com/author/gmatiasevich/" title="Posts by Greg Matiasevich" class="author url fn" rel="author">Greg Matiasevich</a>    
+     | Jul 28, 2016 | <a href="/category/Podcasts">Podcasts</a> <br /></p>
+        <p>
+    A co-host’s comment and an EiC’s panel answer spark this week’s discussion on tackling the comic reader’s eternal dilemma: “How can I make time to enjoy the comics I already have when I keep buying more each week?” Unstoppable forces and immovable objects collide as the lads discuss not only quantities of comics but quality [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/podcasts/rft-316-too-many-comics/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/news/the-rundown-72816/">
+    <img width="250" height="250" src="http://i0.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2014/12/Jack-Davis.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Jack Davis" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2014/12/Jack-Davis.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2014/12/Jack-Davis.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2014/12/Jack-Davis.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2014/12/Jack-Davis.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2014/12/Jack-Davis.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2014/12/Jack-Davis.jpg 500w, http://multiversitystatic.s3.amazonaws.com/uploads/2014/12/Jack-Davis.jpg 750w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  news">News
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  news"> <a href="http://www.multiversitycomics.com/news/the-rundown-72816/">
+    The Rundown: July 28, 2016    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/mgarcia/" title="Posts by Matthew Garcia" class="author url fn" rel="author">Matthew Garcia</a>    
+     | Jul 28, 2016 | <a href="/category/News">News</a> <br /></p>
+        <p>
+    Welcome back to The Rundown, our daily breakdown on comic news stories we missed from the previous day. Have a link to share? Email our team at rundown@multiversitycomics.com. &#8211; Jack Davis, the cartoonist and illustrator, has passed away. Davis’s career ranged from magazine covers to movie posters to album artwork to comics, most notably shorts for “MAD” magazine and [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/news/the-rundown-72816/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/news-columns/art-of-the-week-072716/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Superman-Lee-Garbett.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Superman Lee Garbett" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Superman-Lee-Garbett.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Superman-Lee-Garbett.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Superman-Lee-Garbett.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Superman-Lee-Garbett.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Superman-Lee-Garbett.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Superman-Lee-Garbett.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Superman-Lee-Garbett.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Superman-Lee-Garbett.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Superman-Lee-Garbett.jpg 500w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Superman-Lee-Garbett.jpg 750w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  news-columns">Columns
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  news-columns"> <a href="http://www.multiversitycomics.com/news-columns/art-of-the-week-072716/">
+    Art Of The Week: Week Of 07/27/2016    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/dhenderson/" title="Posts by Alice W. Castle" class="author url fn" rel="author">Alice W. Castle</a>    
+     | Jul 27, 2016 | <a href="/category/Columns">Columns</a> <br /></p>
+        <p>
+    Welcome, one and all, to Multiversity&#8217;s Art Of The Week! Each week, we scour the internet for the best artwork sourced from the blogs, tumblrs, twitters and instagrams of the best comic book artists out there and curate them here for your viewing pleasure. As ever, everything is collected down below so&#8230; enjoy! Superman by [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/news-columns/art-of-the-week-072716/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/reviews/mignolaversity-lobster-johnson-metal-monsters-of-midtown-3/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Lobster-Johnson-Metal-Monsters-of-Midtown-3.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Feature - Lobster Johnson: Metal Monsters of Midtown #3" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Lobster-Johnson-Metal-Monsters-of-Midtown-3.jpg 1069w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Lobster-Johnson-Metal-Monsters-of-Midtown-3.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Lobster-Johnson-Metal-Monsters-of-Midtown-3.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Lobster-Johnson-Metal-Monsters-of-Midtown-3.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Lobster-Johnson-Metal-Monsters-of-Midtown-3.jpg 1024w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Lobster-Johnson-Metal-Monsters-of-Midtown-3.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Lobster-Johnson-Metal-Monsters-of-Midtown-3.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Lobster-Johnson-Metal-Monsters-of-Midtown-3.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Lobster-Johnson-Metal-Monsters-of-Midtown-3.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Lobster-Johnson-Metal-Monsters-of-Midtown-3.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Lobster-Johnson-Metal-Monsters-of-Midtown-3.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Lobster-Johnson-Metal-Monsters-of-Midtown-3.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  reviews">Reviews
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  reviews"> <a href="http://www.multiversitycomics.com/reviews/mignolaversity-lobster-johnson-metal-monsters-of-midtown-3/">
+    Mignolaversity: Lobster Johnson: Metal Monsters of Midtown #3    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/mtweedale/" title="Posts by Mark Tweedale" class="author url fn" rel="author">Mark Tweedale</a> and <a href="http://www.multiversitycomics.com/author/mike/" title="Posts by Mike Romeo" class="author url fn" rel="author">Mike Romeo</a>    
+     | Jul 27, 2016 | <a href="/category/Reviews">Reviews</a> <br /></p>
+        <p>
+    “Metal Monsters of Midtown” is tremendous fun and so beautifully drawn, you’ll linger on every panel. Written by Mike Mignola and John Arcudi Illustrated by Tonci Zonjic Colored by Dave Stewart Lettered by Clem Robins The giant robot invasion of New York comes to a showdown when the Lobster has to get into a machine’s [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/reviews/mignolaversity-lobster-johnson-metal-monsters-of-midtown-3/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/news-columns/soliciting-marvel-october/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/infamousironman1.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Infamous Iron Man #1" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/infamousironman1.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/infamousironman1.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/infamousironman1.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/infamousironman1.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/infamousironman1.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/infamousironman1.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/infamousironman1.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/infamousironman1.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/infamousironman1.jpg 500w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/infamousironman1.jpg 750w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  news-columns">Columns
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  news-columns"> <a href="http://www.multiversitycomics.com/news-columns/soliciting-marvel-october/">
+    Soliciting Multiversity: Marvel&#8217;s Top 10 for October 2016    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/jjohnston/" title="Posts by James Johnston" class="author url fn" rel="author">James Johnston</a>    
+     | Jul 27, 2016 | <a href="/category/Columns">Columns</a> <br /></p>
+        <p>
+    The watchful and completely objective gaze of Soliciting Multiversity now falls upon Marvel’s crop of titles for October! Spooky. Check out our picks below and let us know what stuck out to you in this month&#8217;s solicitations in our comments section. 10. Ridin&#8217; Solo One of Marvel&#8217;s upcoming titles is &#8220;Solo&#8221;, a spin-off from the [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/news-columns/soliciting-marvel-october/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div><!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/news-columns/2000-ad-prog-1991/">
+    <img width="250" height="250" src="http://i0.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/2000-ad-prog-1991-feature.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="2000 ad prog 1991 feature" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/2000-ad-prog-1991-feature.jpg 1100w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/2000-ad-prog-1991-feature.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/2000-ad-prog-1991-feature.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/2000-ad-prog-1991-feature.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/2000-ad-prog-1991-feature.jpg 1024w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/2000-ad-prog-1991-feature.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/2000-ad-prog-1991-feature.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/2000-ad-prog-1991-feature.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/2000-ad-prog-1991-feature.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/2000-ad-prog-1991-feature.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/2000-ad-prog-1991-feature.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/2000-ad-prog-1991-feature.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  news-columns">Columns
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  news-columns"> <a href="http://www.multiversitycomics.com/news-columns/2000-ad-prog-1991/">
+    Multiver-City One: 2000 AD Prog 1991 &#8211; Mega-City Manhunt!    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/gmatiasevich/" title="Posts by Greg Matiasevich" class="author url fn" rel="author">Greg Matiasevich</a>, <a href="http://www.multiversitycomics.com/author/mike/" title="Posts by Mike Romeo" class="author url fn" rel="author">Mike Romeo</a> and <a href="http://www.multiversitycomics.com/author/ajohnson/" title="Posts by Adrian Johnson" class="author url fn" rel="author">Adrian Johnson</a>    
+     | Jul 27, 2016 | <a href="/category/Columns">Columns</a> <br /></p>
+        <p>
+    Welcome, Earthlets, to Multiver-City One! Every Wednesday we examine the latest offerings from Tharg and the droids over at 2000 AD, the galaxy&#8217;s leading producers of Thrill-Power entertainment! Between the weekly British sci-fi comic &#8220;2000 AD&#8221; itself, the monthly &#8220;Judge Dredd Megazine&#8221;, an extensive library of graphic novel collections, and new US-format one-shots and mini-series, [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/news-columns/2000-ad-prog-1991/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>                  	<br clear="all" />
+
+          </div>
+          <!-- ADS SIDEBAR -->
+          
+
+	<aside>
+		<h6>ADVERTISEMENTS</h6>
+		<div class="widget-item">			<div class="textwidget"><a href="http://bit.ly/1SrK7gK"><img src="http://multiversitystatic.s3.amazonaws.com/uploads/2016/04/4001_001_multiversity.jpg"></a></div>
+		</div>        <div class="widget-item">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Large Skyscraper 1/29/16 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-2019996852160042"
+     data-ad-slot="2961234148"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div>        <div class="widget-item">			<div class="textwidget"><a href="http://www.uprisebooks.org/"><img src="http://multiversitystatic.s3.amazonaws.com/uploads/2014/07/UPRISE-Web-Ad-1.jpg"></a></div>
+		</div>        <div class="widget-item">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Medium Rectangle 1/29/16 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-2019996852160042"
+     data-ad-slot="4437967341"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+		</div>        <div class="widget-item">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Large Skyscraper 1/29/16 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-2019996852160042"
+     data-ad-slot="2961234148"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div>        <div class="widget-item">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Medium Rectangle 1/29/16 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-2019996852160042"
+     data-ad-slot="4437967341"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+		</div>        <div class="widget-item">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Medium Rectangle 1/29/16 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-2019996852160042"
+     data-ad-slot="4437967341"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
+		</div>        <div class="widget-item">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Large Skyscraper 1/29/16 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-2019996852160042"
+     data-ad-slot="2961234148"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		</div>        
+        
+  	</aside>
+
+
+          
+          
+                    
+          <!-- BIG ARTICLE BLOCK need to build into widget or Special Post Layout-->    
+          <article>
+              <div class="row">
+                <div class="twelve columns big-article">
+                <h3>PICK OF THE WEEK</h3>
+                 					<article class="post has-thumbnail" style="padding:0px">
+  <div class="article-img" style="border-radius: 0px;"> <a href="http://www.multiversitycomics.com/reviews/pick-of-the-week-captain-kid-1/">
+    <img width="915" height="700" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Captain-Kid-1-Featured.jpg?resize=915%2C700" class="attachment-article-big-image size-article-big-image wp-post-image" alt="Captain Kid 1 Featured" />    </a>
+  </div>
+  <div class="article-copy">
+    <h2> <a href="http://www.multiversitycomics.com/reviews/pick-of-the-week-captain-kid-1/">
+      Pick of the Week: &#8220;Captain Kid&#8221; #1      </a></h2>
+    <p>
+      Mark Waid loves superheroes and he has seemingly spent his entire career exploring their mythos and what makes them tick. In his latest effort, Waid attempts to create a new, exciting hero, but still with all the usual trappings. Except one, because behind Captain Kid’s youthful facade lies his secret alter ego, a middle aged [&hellip;]    <a href="http://www.multiversitycomics.com/reviews/pick-of-the-week-captain-kid-1/">
+    <div class="redline"></div>
+    <b class="more-btn">MORE &raquo;</b></a>
+    </p>
+  </div>
+</article>
+					
+					 
+					                
+     
+                </div>
+              </div>
+           </article>
+          
+          
+           <!-- CATEGORIES -->
+          <div class="twelve columns index-btm">
+            <h3 style="font-weight: 700;"><a href="/category/podcasts" style="color: #0FA9E5;">PODCASTS  &nbsp; <span class="seeAll-btn">See All &raquo;</a></h3>
+            <div class="row">
+            <!-- Lastest from each podcast tag -->
+            									<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/podcasts/rft-316-too-many-comics/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="jim lee x men 1" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 1280w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 1024w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/jim-lee-x-men-1.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  podcasts">Podcasts
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  podcasts"> <a href="http://www.multiversitycomics.com/podcasts/rft-316-too-many-comics/">
+    Robots From Tomorrow &#8211; Episode 316: You Don&#8217;t Owe Marvel a Thing    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/mike/" title="Posts by Mike Romeo" class="author url fn" rel="author">Mike Romeo</a> and <a href="http://www.multiversitycomics.com/author/gmatiasevich/" title="Posts by Greg Matiasevich" class="author url fn" rel="author">Greg Matiasevich</a>    
+     | Jul 28, 2016 | <a href="/category/Podcasts">Podcasts</a> <br /></p>
+        <p>
+    A co-host’s comment and an EiC’s panel answer spark this week’s discussion on tackling the comic reader’s eternal dilemma: “How can I make time to enjoy the comics I already have when I keep buying more each week?” Unstoppable forces and immovable objects collide as the lads discuss not only quantities of comics but quality [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/podcasts/rft-316-too-many-comics/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>				                								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/podcasts/orbital-in-conversation-201/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="OiCPodcast201" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 1000w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/OiCPodcast201.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  podcasts">Podcasts
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  podcasts"> <a href="http://www.multiversitycomics.com/podcasts/orbital-in-conversation-201/">
+    Orbital In Conversation – Episode 201: Looking Back at DC&#8217;s Western Hero, Jonah Hex    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/cthompson/" title="Posts by Chris Thompson" class="author url fn" rel="author">Chris Thompson</a>    
+     | Jul 29, 2016 | <a href="/category/Podcasts">Podcasts</a> <br /></p>
+        <p>
+    This week Rob &amp; Ant are back with Chris for a discussion about DC&#8217;s popular Western hero Jonah Hex. From his debut in Weird Western Tales to his appearance on DC&#8217;S Legends of Tomorrow, the guys explore this fascinating character and what makes him work &#8211; pulling out some interesting facts and anecdotes along the [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/podcasts/orbital-in-conversation-201/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>				                								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/podcasts/the-dc3cast-27/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Hellblazer-Rebirth-Featured.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Hellblazer Rebirth Featured" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Hellblazer-Rebirth-Featured.jpg 1000w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Hellblazer-Rebirth-Featured.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Hellblazer-Rebirth-Featured.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Hellblazer-Rebirth-Featured.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Hellblazer-Rebirth-Featured.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Hellblazer-Rebirth-Featured.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Hellblazer-Rebirth-Featured.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Hellblazer-Rebirth-Featured.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Hellblazer-Rebirth-Featured.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Hellblazer-Rebirth-Featured.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Hellblazer-Rebirth-Featured.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  podcasts">Podcasts
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  podcasts"> <a href="http://www.multiversitycomics.com/podcasts/the-dc3cast-27/">
+    The DC3cast, Episode 27: &#8216;Rebirth&#8217; Titles, Round 7    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/bsalvatore/" title="Posts by Brian Salvatore" class="author url fn" rel="author">Brian Salvatore</a>, <a href="http://www.multiversitycomics.com/author/vostrowski/" title="Posts by Vince Ostrowski" class="author url fn" rel="author">Vince Ostrowski</a> and <a href="http://www.multiversitycomics.com/author/zwilkerson/" title="Posts by Zach Wilkerson" class="author url fn" rel="author">Zach Wilkerson</a>    
+     | Jul 27, 2016 | <a href="/category/Podcasts">Podcasts</a> <br /></p>
+        <p>
+    [Audio clip: view full post to listen] &#8216;Rebirth&#8217; is upon us, and so your fearless hosts are going to talk (at least) all the first issues of each &#8216;Rebirth&#8217; title! This week, the boys dig into &#8220;Batgirl and the Birds of Prey: Rebirth&#8221; #1, &#8220;The Hellblazer: Rebirth&#8221; #1, &#8220;Aquaman&#8221; #3, &#8220;Batman&#8221; #3, &#8220;Green Arrow&#8221; #3, [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/podcasts/the-dc3cast-27/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>				                								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/podcasts/wrestleversity-episode-5/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Wrestleversity-Mock-Draft.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Wrestleversity Mock Draft" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Wrestleversity-Mock-Draft.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Wrestleversity-Mock-Draft.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Wrestleversity-Mock-Draft.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Wrestleversity-Mock-Draft.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Wrestleversity-Mock-Draft.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Wrestleversity-Mock-Draft.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Wrestleversity-Mock-Draft.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Wrestleversity-Mock-Draft.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Wrestleversity-Mock-Draft.jpg 500w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Wrestleversity-Mock-Draft.jpg 750w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  podcasts">Podcasts
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  podcasts"> <a href="http://www.multiversitycomics.com/podcasts/wrestleversity-episode-5/">
+    Wrestleversity, Episode 5    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/jjohnston/" title="Posts by James Johnston" class="author url fn" rel="author">James Johnston</a>, <a href="http://www.multiversitycomics.com/author/jcamacho/" title="Posts by Jess Camacho" class="author url fn" rel="author">Jess Camacho</a> and <a href="http://www.multiversitycomics.com/author/dhenderson/" title="Posts by Alice W. Castle" class="author url fn" rel="author">Alice W. Castle</a>    
+     | Jul 13, 2016 | <a href="/category/Podcasts">Podcasts</a> <br /></p>
+        <p>
+    Welcome back to Wrestleversity, a new podcast by Jess Camacho, James Johnston, and Alice W. Castle! This week, Alice, James, and Jess do a mock Raw/Smackdown draft, ahead of next week&#8217;s WWE draft. You can listen to the show below, or download it directly by clicking here. It should be up on iTunes, Stitcher, and [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/podcasts/wrestleversity-episode-5/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>				                
+                
+                <br clear="all" />
+            </div>
+            
+            <h3 style="font-weight: 700;"><a href="/category/news-columns" style="color: #8DB7CC;">COLUMNS &nbsp; <span class="seeAll-btn">See All &raquo;</span></a></h3>
+            <div class="row">
+            									<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/news-columns/ms-masterpaint-73016/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="mspaint logo" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 500w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/mspaint.jpg 750w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  news-columns">Columns
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  news-columns"> <a href="http://www.multiversitycomics.com/news-columns/ms-masterpaint-73016/">
+    MS Masterpaint Theater: Chubby Cheeks    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/kwelch/" title="Posts by Kyle Welch" class="author url fn" rel="author">Kyle Welch</a>    
+     | Jul 30, 2016 | <a href="/category/Columns">Columns</a> <br /></p>
+        <p>
+    There are three for-sure things all people love in life: comic covers, cover bands, and MS Paint. Some warned us to never combine this holy trinity. We here at Multiveristy Comics said no, threw caution to the wind, and combined mankind&#8217;s three favorite things into our new weekly feature: MS Masterpaint Theater! Each week, we will highlight [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/news-columns/ms-masterpaint-73016/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/news-columns/civil-war-2-4/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Civil War II 4 Featured" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 923w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Civil-War-II-4-Featured.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  news-columns featured">Columns
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  news-columns featured"> <a href="http://www.multiversitycomics.com/news-columns/civil-war-2-4/">
+    The Multiversity Address: &#8220;Civil War II&#8221; #4    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/jjohnston/" title="Posts by James Johnston" class="author url fn" rel="author">James Johnston</a>    
+     | Jul 29, 2016 | <a href="/category/Columns">Columns</a> <br /></p>
+        <p>
+    Welcome to The Multiversity Address, Multiversity Comics’s recap series for Marvel’s “Civil War II.” After, Jess, Alice, and I died in the process of covering every single “Secret Wars” tie-in, we opted to just let me recap Marvel’s latest revival of a classic crossover. Obviously, we&#8217;ve got &#8220;Civil War II&#8221; spoilers from here on out. [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/news-columns/civil-war-2-4/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/news-columns/soliciting-multiversity-dc-1016/">
+    <img width="250" height="250" src="http://i0.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Cave Carson 1 Featured" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 900w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Cave-Carson-1-Featured.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  news-columns">Columns
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  news-columns"> <a href="http://www.multiversitycomics.com/news-columns/soliciting-multiversity-dc-1016/">
+    Soliciting Multiversity: DC&#8217;s Top 10 For October 2016    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/bsalvatore/" title="Posts by Brian Salvatore" class="author url fn" rel="author">Brian Salvatore</a>    
+     | Jul 29, 2016 | <a href="/category/Columns">Columns</a> <br /></p>
+        <p>
+    &#8216;Rebirth&#8217; is settling in nicely &#8211; this is the first month without a &#8216;Rebirth&#8217; issue, and while we get some ongoings launching, this month is far more about what is happening around the fringes of the initiative. This month features a number of miniseries, a fantastic reprint, and more. Read on! 10. Crossover&#8230;HO! For fans [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/news-columns/soliciting-multiversity-dc-1016/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/news-columns/soliciting-multiversity-image-1016/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Moonshine Promo" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 1041w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 1024w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Moonshine-Promo.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  news-columns">Columns
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  news-columns"> <a href="http://www.multiversitycomics.com/news-columns/soliciting-multiversity-image-1016/">
+    Soliciting Multiversity: Image&#8217;s Top 10 For October 2016    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/dhenderson/" title="Posts by Alice W. Castle" class="author url fn" rel="author">Alice W. Castle</a>    
+     | Jul 28, 2016 | <a href="/category/Columns">Columns</a> <br /></p>
+        <p>
+    We&#8217;re back! After what might have been the shortest month ever (seriously, July felt like it was four days long), Soliciting Multiversity has returned to give you a glimpse at the future of your favourite comics. As always, I will be taking a look at what Image Comics has to offer in month of October [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/news-columns/soliciting-multiversity-image-1016/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>				                <br clear="all" />	
+            </div>
+            
+            <h3 style="font-weight: 700;"><a href="/category/longform" style="color: #074F6D;">LONG FORM &nbsp; <span class="seeAll-btn">See All &raquo;</span></a></h3>
+            <div class="row">
+            									<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/longform/the-tragedy-fetishism-of-the-flash/">
+    <img width="250" height="250" src="http://i0.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/The-Flash-Season-2-Poster.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="The Flash Season 2 Poster" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/The-Flash-Season-2-Poster.jpg 1024w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/The-Flash-Season-2-Poster.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/The-Flash-Season-2-Poster.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/The-Flash-Season-2-Poster.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/The-Flash-Season-2-Poster.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/The-Flash-Season-2-Poster.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/The-Flash-Season-2-Poster.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/The-Flash-Season-2-Poster.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/The-Flash-Season-2-Poster.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/The-Flash-Season-2-Poster.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/The-Flash-Season-2-Poster.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  featured longform">Longform
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  featured longform"> <a href="http://www.multiversitycomics.com/longform/the-tragedy-fetishism-of-the-flash/">
+    The Tragedy Fetishism Of <i>The Flash</i>    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/dhenderson/" title="Posts by Alice W. Castle" class="author url fn" rel="author">Alice W. Castle</a>    
+     | Jul 26, 2016 | <a href="/category/Longform">Longform</a> <br /></p>
+        <p>
+    The Flash is, without a doubt, one of the greatest live action superhero experiences in recent memory. Maybe, even, of all time. I wouldn&#8217;t hesitate to already place it in the upper echelon of live action superhero comic adaptations alongside Superman: The Movie, Spider-Man 2 and The Avengers. It is a landmark moment for superhero [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/longform/the-tragedy-fetishism-of-the-flash/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/longform/comixology-unlimited-opinion/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/05/comixology-unlimited-home-squared.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="comixology-unlimited-home squared" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/comixology-unlimited-home-squared.jpg 1000w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/comixology-unlimited-home-squared.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/comixology-unlimited-home-squared.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/comixology-unlimited-home-squared.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/comixology-unlimited-home-squared.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/comixology-unlimited-home-squared.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/comixology-unlimited-home-squared.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/comixology-unlimited-home-squared.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/comixology-unlimited-home-squared.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/comixology-unlimited-home-squared.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  featured longform">Longform
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  featured longform"> <a href="http://www.multiversitycomics.com/longform/comixology-unlimited-opinion/">
+    ComiXology Unlimited, Or I Don&#8217;t Think That Word Means What You Think It Means    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/ljohnson/" title="Posts by Leo Johnson" class="author url fn" rel="author">Leo Johnson</a>    
+     | May 26, 2016 | <a href="/category/Longform">Longform</a> <br /></p>
+        <p>
+    I just want to start by saying that I love comiXology a whole lot. It allows me, a comics fan who doesn’t live anywhere near a comic shop, to keep up with the books I love and stay current in discussions relevant to one of my favorite hobbies. ComiXology is basically my lifeline to comics [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/longform/comixology-unlimited-opinion/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/longform/thoughts-on-the-killing-joke/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/05/Joker-Laughing.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Joker Laughing from &quot;The Killing Joke&quot;" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/Joker-Laughing.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/Joker-Laughing.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/Joker-Laughing.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/Joker-Laughing.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/Joker-Laughing.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/Joker-Laughing.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/Joker-Laughing.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/Joker-Laughing.jpg 500w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/05/Joker-Laughing.jpg 750w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  featured longform">Longform
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  featured longform"> <a href="http://www.multiversitycomics.com/longform/thoughts-on-the-killing-joke/">
+    Stop Me If You&#8217;ve Heard This One: Thoughts on &#8220;The Killing Joke&#8221;    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/gmatiasevich/" title="Posts by Greg Matiasevich" class="author url fn" rel="author">Greg Matiasevich</a>    
+     | May 10, 2016 | <a href="/category/Longform">Longform</a> <br /></p>
+        <p>
+    With its animated adaptation only a few months away, people are talking about &#8220;The Killing Joke&#8221; more than ever before. But the conversations you hear now are different than the ones in comic shops back in 1988, 1998, or even 2008, most likely. Time hasn&#8217;t been kind to the story many fans think of as [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/longform/thoughts-on-the-killing-joke/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/longform/rebirth-brian-commentary/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/03/Rebirth-Cover.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Rebirth Cover" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/Rebirth-Cover.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/Rebirth-Cover.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/Rebirth-Cover.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/Rebirth-Cover.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/Rebirth-Cover.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/Rebirth-Cover.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/Rebirth-Cover.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/Rebirth-Cover.jpg 500w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/Rebirth-Cover.jpg 750w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  featured longform">Longform
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  featured longform"> <a href="http://www.multiversitycomics.com/longform/rebirth-brian-commentary/">
+    The DC Strategy: &#8220;Rebirth&#8221; for the Trinity; Status Quo for the Rest    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/bsalvatore/" title="Posts by Brian Salvatore" class="author url fn" rel="author">Brian Salvatore</a>    
+     | Apr 5, 2016 | <a href="/category/Longform">Longform</a> <br /></p>
+        <p>
+    As we all know, DC unveiled the entirety of their &#8220;Rebirth&#8221; line at WonderCon, and much of it looked exciting and new: &#8220;Detective Comics&#8221; being a Bat-family team up book, &#8220;New Superman&#8221; from Gene Yang and Viktor Bogdonovic, etc. But there were also parts that were more of the same, some to the point of [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/longform/rebirth-brian-commentary/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>				                <br clear="all" />	
+            </div>
+            
+            <h3 style="font-weight: 700;"><a href="/category/reviews" style="color: #8B1F0E;">REVIEWS &nbsp; <span class="seeAll-btn">See All &raquo;</span></a></h3>
+            <div class="row">
+												<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/reviews/mechanism-1/">
+    <img width="250" height="250" src="http://i0.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Mechanism Featured Image" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 900w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Mechanism-Featured-Image.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  reviews">Reviews
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  reviews"> <a href="http://www.multiversitycomics.com/reviews/mechanism-1/">
+    &#8220;Mechanism&#8221; #1    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/dhenderson/" title="Posts by Alice W. Castle" class="author url fn" rel="author">Alice W. Castle</a>    
+     | Jul 29, 2016 | <a href="/category/Reviews">Reviews</a> <br /></p>
+        <p>
+    In a world ravaged by an alien invasion, humanity is desperate for a saviour. No longer can it simply resist the attacks of the Gecko horde, cleansing areas piece by piece. They need something that can turn the tide, but that something might not be exactly human. Read on below for our full spoiler free [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/reviews/mechanism-1/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/reviews/rick-and-morty-16/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Rick and Morty 16 Featured" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 900w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Rick-and-Morty-16-Featured.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  reviews">Reviews
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  reviews"> <a href="http://www.multiversitycomics.com/reviews/rick-and-morty-16/">
+    &#8220;Rick and Morty&#8221; #16    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/rpleasant/" title="Posts by Robbie Pleasant" class="author url fn" rel="author">Robbie Pleasant</a>    
+     | Jul 29, 2016 | <a href="/category/Reviews">Reviews</a> <br /></p>
+        <p>
+    While fans patiently await season 3 of “Rick and Morty,” the comic from Oni Press attempts to fill the void the break between seasons has left. Can it replicate the intelligence, wit, and dark comedy of the cartoon, or will it just be a poor substitute for the real thing? Written by Kyle Starks Illustrated [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/reviews/rick-and-morty-16/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/reviews/bone-coda/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Bone Code cover - cropped" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 1277w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 1024w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Bone-Code-cover-cropped.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  reviews">Reviews
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  reviews"> <a href="http://www.multiversitycomics.com/reviews/bone-coda/">
+    &#8220;Bone: Coda&#8221;    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/mgarcia/" title="Posts by Matthew Garcia" class="author url fn" rel="author">Matthew Garcia</a>    
+     | Jul 29, 2016 | <a href="/category/Reviews">Reviews</a> <br /></p>
+        <p>
+    25 years ago, Jeff Smith debuted his seminal comic series, “Bone.” Combining elements of Walt Kelly, Carl Barks, Floyd Gottfriedson, “Métal hurlant”, and epic fantasy, the series ran for over ten years and through 55 issues. Now, 15 years after the Bone cousins rode off from The Valley, Smith returns for a new, “completely superfluous [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/reviews/bone-coda/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/reviews/adventure-time-comics-1/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Adventure Time Comics 1 Featured" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 860w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Adventure-Time-Comics-1-Featured.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  reviews">Reviews
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  reviews"> <a href="http://www.multiversitycomics.com/reviews/adventure-time-comics-1/">
+    &#8220;Adventure Time Comics&#8221; #1    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/sasodje/" title="Posts by Stephenson Ardern-Sodje" class="author url fn" rel="author">Stephenson Ardern-Sodje</a>    
+     | Jul 28, 2016 | <a href="/category/Reviews">Reviews</a> <br /></p>
+        <p>
+    Bite sized &#8220;Adventure Time&#8221; exploits that flesh out Pendleton Ward&#8217;s fun filled world with help from some top cartoonist talent. Written &amp;  Illustrated by Art Balthazar, Katie Cook, Tony Millionaire, &amp; Kate Leyh Oh My Glob! We’ve unleashed some of the industry’s best cartoonists loose in the Land of Ooo to share their most algebraic [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/reviews/adventure-time-comics-1/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>				                <br clear="all" />	
+  			</div>
+            
+            <h3 style="font-weight: 700;"><a href="/category/interviews" style="color: #D81E00;">INTERVIEWS &nbsp; <span class="seeAll-btn">See All &raquo;</span></a></h3>
+            <div class="row">
+             									<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/interviews/stradley-warner-talk-early-days-of-dark-horse-comics/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhattwenty.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Dark Horse at Twenty" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhattwenty.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhattwenty.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhattwenty.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhattwenty.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhattwenty.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhattwenty.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhattwenty.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhattwenty.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhattwenty.jpg 500w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhattwenty.jpg 750w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  interviews">Interviews
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  interviews"> <a href="http://www.multiversitycomics.com/interviews/stradley-warner-talk-early-days-of-dark-horse-comics/">
+    Stradley &amp; Warner Talk Early Days Of Dark Horse Comics    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/gmatiasevich/" title="Posts by Greg Matiasevich" class="author url fn" rel="author">Greg Matiasevich</a>    
+     | Jun 30, 2016 | <a href="/category/Interviews">Interviews</a> <br /></p>
+        <p>
+    As we close out Dark Horse Month here at Multiversity, I thought it would be fun to chat with two of the men who have been with the company since the beginning. If Daniel Chabon is on one end of the seniority spectrum of Dark Horse editors, these two gentlemen are at the other. As [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/interviews/stradley-warner-talk-early-days-of-dark-horse-comics/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/interviews/dyer-and-dorkin-craft-a-teenage-god-in-calla-cthulhu/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/06/Calla-Cthulu-Featured.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Calla Cthulu Featured" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Calla-Cthulu-Featured.jpg 835w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Calla-Cthulu-Featured.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Calla-Cthulu-Featured.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Calla-Cthulu-Featured.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Calla-Cthulu-Featured.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Calla-Cthulu-Featured.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Calla-Cthulu-Featured.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Calla-Cthulu-Featured.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Calla-Cthulu-Featured.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Calla-Cthulu-Featured.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Calla-Cthulu-Featured.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  interviews">Interviews
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  interviews"> <a href="http://www.multiversitycomics.com/interviews/dyer-and-dorkin-craft-a-teenage-god-in-calla-cthulhu/">
+    Dyer and Dorkin Craft a Teenage God in &#8220;Calla Cthulhu&#8221;    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/kwelch/" title="Posts by Kyle Welch" class="author url fn" rel="author">Kyle Welch</a>    
+     | Jun 30, 2016 | <a href="/category/Interviews">Interviews</a> <br /></p>
+        <p>
+    The creative team of Sarah Dyer and Evan Dorkin are closing in on the end of the first chapter of their new Stela series &#8220;Calla Cthulhu.&#8221; The series has followed the story of Calla as she faced the trials of being a teenage as well as the trials of being a descended from the Elder Gods of Lovecraftian lore. The team [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/interviews/dyer-and-dorkin-craft-a-teenage-god-in-calla-cthulhu/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/interviews/fred-van-lente-generation-zero/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/06/GENZERO_Featured.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Generation Zero #1 Featured Image" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/GENZERO_Featured.jpg 1375w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/GENZERO_Featured.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/GENZERO_Featured.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/GENZERO_Featured.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/GENZERO_Featured.jpg 1020w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/GENZERO_Featured.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/GENZERO_Featured.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/GENZERO_Featured.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/GENZERO_Featured.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/GENZERO_Featured.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/GENZERO_Featured.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/GENZERO_Featured.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/GENZERO_Featured.jpg 1280w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  featured interviews">Interviews
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  featured interviews"> <a href="http://www.multiversitycomics.com/interviews/fred-van-lente-generation-zero/">
+    Fred Van Lente on Building &#8220;Generation Zero&#8221;    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/kgodberson/" title="Posts by Ken Godberson III" class="author url fn" rel="author">Ken Godberson III</a>    
+     | Jun 29, 2016 | <a href="/category/Interviews">Interviews</a> <br /></p>
+        <p>
+    Generation Zero or, as I&#8217;ve come to fondly call them, the Murder Kids, have been a team that has had an on and off focus in the Valiant Universe since they debuted in &#8220;Harbinger Wars&#8221;. Between &#8220;Death of a Renegade&#8221; and &#8220;Armor Hunters&#8221; they have been stepping more and more out of the shadows. Now, [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/interviews/fred-van-lente-generation-zero/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/interviews/drew-ford/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/06/rrange0.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="RED RANGE" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/rrange0.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/rrange0.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/rrange0.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/rrange0.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/rrange0.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/rrange0.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/rrange0.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/rrange0.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/rrange0.jpg 500w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  featured interviews">Interviews
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  featured interviews"> <a href="http://www.multiversitycomics.com/interviews/drew-ford/">
+    Drew Ford Talks Resurrecting A &#8220;Red Range&#8221; Of Comics On His New Imprint    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/gmatiasevich/" title="Posts by Greg Matiasevich" class="author url fn" rel="author">Greg Matiasevich</a>    
+     | Jun 23, 2016 | <a href="/category/Interviews">Interviews</a> <br /></p>
+        <p>
+    While you&#8217;ve probably noticed by now that nobody stays dead forever in comics, you might have missed the fact that it&#8217;s looking more and more like no book stays dead, either. With an increasing number of archival releases hitting shelves every week, today&#8217;s fan truly finds themselves in the Golden Age of Reprints. And making [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/interviews/drew-ford/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>				                <br clear="all" />
+            </div>
+            
+            <h3 style="font-weight: 700;"><a href="/category/annotations" style="color: #EFA599;">ANNOTATIONS &nbsp; <span class="seeAll-btn">See All &raquo;</span></a></h3>
+            <div class="row">
+            									<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/annotations/hell-notes-abe-sapien-alone/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/Feature-Abe-Sapien-Alone.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Feature: Abe Sapien Alone" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Feature-Abe-Sapien-Alone.jpg 1000w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Feature-Abe-Sapien-Alone.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Feature-Abe-Sapien-Alone.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Feature-Abe-Sapien-Alone.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Feature-Abe-Sapien-Alone.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Feature-Abe-Sapien-Alone.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Feature-Abe-Sapien-Alone.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Feature-Abe-Sapien-Alone.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Feature-Abe-Sapien-Alone.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Feature-Abe-Sapien-Alone.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/Feature-Abe-Sapien-Alone.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  annotations featured">Annotations
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  annotations featured"> <a href="http://www.multiversitycomics.com/annotations/hell-notes-abe-sapien-alone/">
+    Hell Notes: Abe Sapien Alone    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/mtweedale/" title="Posts by Mark Tweedale" class="author url fn" rel="author">Mark Tweedale</a>    
+     | Jul 11, 2016 | <a href="/category/Annotations">Annotations</a> <br /></p>
+        <p>
+    Welcome to Hell Notes, Multiversity Comics&#8217; annotation column for the Hellboy Universe. Back in January 2015 I kicked off a three-part Abe Sapien piece. Given that “Abe Sapien Dark and Terrible” is about to come to an end next month, now seems like a good time to wrap that up. If you missed the previous [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/annotations/hell-notes-abe-sapien-alone/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/annotations/dhp-v1-gallery/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhp100A.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Dark Horse Presents v1 100A" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhp100A.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhp100A.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhp100A.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhp100A.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhp100A.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhp100A.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhp100A.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhp100A.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhp100A.jpg 500w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/dhp100A.jpg 750w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  annotations">Annotations
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  annotations"> <a href="http://www.multiversitycomics.com/annotations/dhp-v1-gallery/">
+    All The Pretty Horses: The Covers For &#8220;Dark Horse Presents&#8221; Volume 1    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/gmatiasevich/" title="Posts by Greg Matiasevich" class="author url fn" rel="author">Greg Matiasevich</a>    
+     | Jun 28, 2016 | <a href="/category/Annotations">Annotations</a> <br /></p>
+        <p>
+    On last week&#8217;s Robots From Tomorrow episode, we took a look at the long line of anthology titles Dark Horse has put out over their thirty-year history. While there have been a lot more releases than you (or I) probably remember, the one book that first comes to mind for this topic is &#8220;Dark Horse [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/annotations/dhp-v1-gallery/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/annotations/dark-horse-crossovers/">
+    <img width="250" height="250" src="http://i0.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/06/nexusmadman.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="nexusmadman" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/nexusmadman.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/nexusmadman.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/nexusmadman.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/nexusmadman.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/nexusmadman.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/nexusmadman.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/nexusmadman.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/nexusmadman.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/nexusmadman.jpg 500w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  annotations">Annotations
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  annotations"> <a href="http://www.multiversitycomics.com/annotations/dark-horse-crossovers/">
+    Playing Well With Others: Overlooked Dark Horse Crossovers    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/gmatiasevich/" title="Posts by Greg Matiasevich" class="author url fn" rel="author">Greg Matiasevich</a>    
+     | Jun 14, 2016 | <a href="/category/Annotations">Annotations</a> <br /></p>
+        <p>
+    One of the best things about mainstream comics is the crossover. Other entertainment mediums may be slow to discover how much fun can be had letting peanut butter mix with chocolate, but comics have known about their combined deliciousness for decades. And in terms of interesting combos, Dark Horse has matched up some of the [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/annotations/dark-horse-crossovers/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/annotations/hellboy-reading-order-2016/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Hellboy-in-the-library.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Feature: Hellboy in the library" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Hellboy-in-the-library.jpg 1000w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Hellboy-in-the-library.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Hellboy-in-the-library.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Hellboy-in-the-library.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Hellboy-in-the-library.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Hellboy-in-the-library.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Hellboy-in-the-library.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Hellboy-in-the-library.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Hellboy-in-the-library.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/06/Feature-Hellboy-in-the-library.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  annotations">Annotations
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  annotations"> <a href="http://www.multiversitycomics.com/annotations/hellboy-reading-order-2016/">
+    Mignolaversity: The Hellboy Universe Reading Order ― 2016    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/mtweedale/" title="Posts by Mark Tweedale" class="author url fn" rel="author">Mark Tweedale</a>    
+     | Jun 6, 2016 | <a href="/category/Annotations">Annotations</a> <br /></p>
+        <p>
+    In 2014, I put together a reading order for Mike Mignola&#8217;s Hellboy Universe with some help from Scott Allie. We wanted to create a reading order that covered the entire line of books, and yet didn&#8217;t mean putting down an omnibus or library edition mid-way through to switch to another book. You pick up a [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/annotations/hellboy-reading-order-2016/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>				                <br clear="all" />
+            </div>
+            
+            <h3 style="font-weight: 700;"><a href="/category/tv" style="color: #E04B33;">TV &nbsp; <span class="seeAll-btn">See All &raquo;</span></a></h3>
+            <div class="row">
+            									<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/tv/preacher-finish-the-song/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersong.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Preacher Finish The Song" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersong.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersong.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersong.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersong.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersong.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersong.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersong.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersong.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersong.jpg 500w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersong.jpg 750w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  tv">Television
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  tv"> <a href="http://www.multiversitycomics.com/tv/preacher-finish-the-song/">
+    Five Thoughts On <i>Preacher</i>&#8216;s &#8220;Finish The Song&#8221;    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/jjohnston/" title="Posts by James Johnston" class="author url fn" rel="author">James Johnston</a>    
+     | Jul 25, 2016 | <a href="/category/Television">Television</a> <br /></p>
+        <p>
+    This week on Preacher, the Cowboy breaks the cycle, Tulip gets her man, and Fiore &#038; Deblanc go to hell. Check out our review below and watch out for spoilers from this week&#8217;s episode. 1. I Want You To Finish The Song The most apparent takeaway from this week&#8217;s episode is everything that happens with [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/tv/preacher-finish-the-song/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/tv/preacher-el-valero/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/elvalero.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="elvalero" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/elvalero.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/elvalero.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/elvalero.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/elvalero.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/elvalero.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/elvalero.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/elvalero.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/elvalero.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/elvalero.jpg 500w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/elvalero.jpg 750w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  tv">Television
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  tv"> <a href="http://www.multiversitycomics.com/tv/preacher-el-valero/">
+    Five Thoughts on <i>Preacher&#8217;s</i> &#8220;El Valero&#8221;    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/jjohnston/" title="Posts by James Johnston" class="author url fn" rel="author">James Johnston</a>    
+     | Jul 18, 2016 | <a href="/category/Television">Television</a> <br /></p>
+        <p>
+    This week on Preacher Jesse takes a final stand at his church, Odin Quincannon serves his lord, and Tulip gets a dog. It&#8217;s a chaotic beautiful mess of an episode and we&#8217;re going to talk about all its spoilers below. 1. The God of Meat This week opens with a delightful flashback to the 80&#8217;s [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/tv/preacher-el-valero/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/tv/preacher-he-gone/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/preacherhesgone.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Preacher He&#039;s Gone" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preacherhesgone.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preacherhesgone.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preacherhesgone.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preacherhesgone.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preacherhesgone.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preacherhesgone.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preacherhesgone.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preacherhesgone.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preacherhesgone.jpg 500w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  tv">Television
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  tv"> <a href="http://www.multiversitycomics.com/tv/preacher-he-gone/">
+    Five Thoughts On Preacher&#8217;s &#8220;He Gone&#8221;    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/jjohnston/" title="Posts by James Johnston" class="author url fn" rel="author">James Johnston</a>    
+     | Jul 11, 2016 | <a href="/category/Television">Television</a> <br /></p>
+        <p>
+    This week on Preacher: Oh goddammit, Jesse. As per usual, full spoiler warnings are in effect for this column. I&#8217;m also going to talk about a few comic book spoilers but I&#8217;ll note when I talk about spoilers that a re straight up going to spoil the future of the show. 1. He Gone So [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/tv/preacher-he-gone/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/tv/preacher-sundowner/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersundowner.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Preacher &quot;Sundowner&quot;" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersundowner.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersundowner.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersundowner.jpg 500w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersundowner.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersundowner.jpg 50w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersundowner.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersundowner.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersundowner.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersundowner.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/07/preachersundowner.jpg 750w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  tv">Television
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  tv"> <a href="http://www.multiversitycomics.com/tv/preacher-sundowner/">
+    Five Thoughts On <i>Preacher</i>&#8216;s &#8220;Sundowner&#8221;    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/jjohnston/" title="Posts by James Johnston" class="author url fn" rel="author">James Johnston</a>    
+     | Jul 4, 2016 | <a href="/category/Television">Television</a> <br /></p>
+        <p>
+    This week on Preacher, Jesse discovers the truth behind his powers, Tulip glues some art together, and Arseface goes on an unexpected journey. Check out our review below and watch out for hella spoilers. 1. Cracking That Cold Open We&#8217;ve had a pretty solid tradition with these cold opens the past few weeks. Usually it [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/tv/preacher-sundowner/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>				                <br clear="all" />
+            </div>
+            
+            <h3 style="font-weight: 700;"><a href="/tag/multiversity-rewind" style="color: #042F40;">MULTIVERSITY REWIND &nbsp; <span class="seeAll-btn">See All &raquo;</span></a></h3>
+            <div class="row">
+								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/longform/a-jessica-jones-alias-conversation/">
+    <img width="250" height="250" src="http://i1.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2015/11/Jessica-Jones.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Jessica Jones Alias David Mack" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2015/11/Jessica-Jones.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/11/Jessica-Jones.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/11/Jessica-Jones.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/11/Jessica-Jones.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/11/Jessica-Jones.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/11/Jessica-Jones.jpg 150w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/11/Jessica-Jones.jpg 500w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  longform">Longform
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  longform"> <a href="http://www.multiversitycomics.com/longform/a-jessica-jones-alias-conversation/">
+    A Jessica Jones &#8216;Alias&#8217; Conversation    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/paul-lai/" title="Posts by Paul Lai" class="author url fn" rel="author">Paul Lai</a>, <a href="http://www.multiversitycomics.com/author/mgarcia/" title="Posts by Matthew Garcia" class="author url fn" rel="author">Matthew Garcia</a> and <a href="http://www.multiversitycomics.com/author/jcamacho/" title="Posts by Jess Camacho" class="author url fn" rel="author">Jess Camacho</a>    
+     | Nov 18, 2015 | <a href="/category/Longform">Longform</a> <br /></p>
+        <p>
+    Marvel&#8217;s Netflix series Jessica Jones (dropping Friday, November 20th) has already generated significant buzz and anticipation, remarkable for a character whose name recognition was Wasp-sized two years ago.  But the attention has been galvanized by the quality of the Daredevil series, smart casting of lead Krysten Ritter, David Tennant as Kilgrave, Carrie-Anne Moss, Mike Colter, [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/longform/a-jessica-jones-alias-conversation/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/podcasts/rft-281-dc-rebirth-fantasy/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2016/03/dc-rebirth-superman-1-feature.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="dc rebirth superman 1 feature" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/dc-rebirth-superman-1-feature.jpg 900w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/dc-rebirth-superman-1-feature.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/dc-rebirth-superman-1-feature.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/dc-rebirth-superman-1-feature.jpg 768w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/dc-rebirth-superman-1-feature.jpg 250w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/dc-rebirth-superman-1-feature.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/dc-rebirth-superman-1-feature.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/dc-rebirth-superman-1-feature.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/dc-rebirth-superman-1-feature.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2016/03/dc-rebirth-superman-1-feature.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  podcasts">Podcasts
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  podcasts"> <a href="http://www.multiversitycomics.com/podcasts/rft-281-dc-rebirth-fantasy/">
+    Robots From Tomorrow &#8211; Episode 281: DC&#8217;s Rebirth, Fantasy v. Reality    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/mike/" title="Posts by Mike Romeo" class="author url fn" rel="author">Mike Romeo</a> and <a href="http://www.multiversitycomics.com/author/gmatiasevich/" title="Posts by Greg Matiasevich" class="author url fn" rel="author">Greg Matiasevich</a>    
+     | Mar 31, 2016 | <a href="/category/Podcasts">Podcasts</a> <br /></p>
+        <p>
+    The day has come! Given the realities of recording schedules, the lads take to the mics mere hours after DC announced their Rebirth creators. A bit of this, a bit of that, a bit of whathaveyou; opinions are shared and decisions are discussed. But before that, there&#8217;s the small matter of the Multiversity Rebirth Fantasy [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/podcasts/rft-281-dc-rebirth-fantasy/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/news-columns/multiversity-keeps-it-real-the-beats-a-graphic-history/">
+    <img width="250" height="250" src="http://i2.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2012/09/the-beats.jpg?resize=250%2C250&amp;ssl=1" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="The Beats: A Graphic History" />    
+    <span class="tag-type  news-columns">Columns
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  news-columns"> <a href="http://www.multiversitycomics.com/news-columns/multiversity-keeps-it-real-the-beats-a-graphic-history/">
+    Multiversity Keeps It Real: The Beats — A Graphic History    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/mwhite/" title="Posts by Michelle White" class="author url fn" rel="author">Michelle White</a>    
+     | Sep 25, 2012 | <a href="/category/Columns">Columns</a> <br /></p>
+        <p>
+    Non-fictional comics are unusual animals: setting out, like any non-fictional book, to tell you about a subject in a largely objective manner, the fact that they&#8217;ve got the subtle tools of the comic medium to work with entails that they&#8217;ve got quite a bit of flexibility in terms of what flavour of objectivity they want [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/news-columns/multiversity-keeps-it-real-the-beats-a-graphic-history/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>								<!-- This is the layout of the list post -->
+<div class="latest-top">
+<article class="post has-thumbnail">
+
+  <div class="post-thumbnail article-img"> 
+  	<a href="http://www.multiversitycomics.com/annotations/mignolaversity-reading-order-2015/">
+    <img width="250" height="250" src="http://i0.wp.com/multiversitystatic.s3.amazonaws.com/uploads/2015/05/Mignolaverse-Reading-Order-Feature-Image.jpg?resize=250%2C250" class="attachment-small-thumbnail size-small-thumbnail wp-post-image" alt="Mignolaverse Reading Order Feature Image" srcset="http://multiversitystatic.s3.amazonaws.com/uploads/2015/05/Mignolaverse-Reading-Order-Feature-Image.jpg 600w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/05/Mignolaverse-Reading-Order-Feature-Image.jpg 74w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/05/Mignolaverse-Reading-Order-Feature-Image.jpg 300w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/05/Mignolaverse-Reading-Order-Feature-Image.jpg 32w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/05/Mignolaverse-Reading-Order-Feature-Image.jpg 64w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/05/Mignolaverse-Reading-Order-Feature-Image.jpg 96w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/05/Mignolaverse-Reading-Order-Feature-Image.jpg 128w, http://multiversitystatic.s3.amazonaws.com/uploads/2015/05/Mignolaverse-Reading-Order-Feature-Image.jpg 150w" sizes="(max-width: 250px) 100vw, 250px" />    
+    <span class="tag-type  annotations">Annotations
+    </span></a> 
+    </div>
+    <div class="teaser">
+  <h5 class="article-head  annotations"> <a href="http://www.multiversitycomics.com/annotations/mignolaversity-reading-order-2015/">
+    Mignolaversity: The Hellboy Universe Reading Order ― 2015    </a></h5>
+  
+  	<p class="meta"> By 
+    
+    <a href="http://www.multiversitycomics.com/author/mtweedale/" title="Posts by Mark Tweedale" class="author url fn" rel="author">Mark Tweedale</a>    
+     | May 18, 2015 | <a href="/category/Annotations">Annotations</a> <br /></p>
+        <p>
+    Last year, I created a reading order for the Hellboy Universe with the help of Scott Allie. It was an involved process. We considered the publishing order, the internal chronology, the order of certain reveals, the development of certain themes&#8230; The order we settled on focused on the library editions and omnibuses, with no switching [&hellip;]  </p>
+  </div>
+  <a href="http://www.multiversitycomics.com/annotations/mignolaversity-reading-order-2015/"><div class="redline"></div><b class="more-btn">MORE &raquo;</b></a>
+</article>
+</div>				                <br clear="all" />
+            </div>		
+            
+            </div>
+          
+			</div>
+		</main><!-- #main -->
+	</div><!-- #primary -->
+	</div><!-- bg-img -->
+
+</div><!-- end div container -->
+
+<div class="redborder"></div>
+
+
+
+<footer>
+  <div class="container">
+ 	<!-- Footer Area 1-->
+    <div class="site-links">
+     <li id="nav_menu-2" class="widget widget_nav_menu"><div class="menu-footer-nav-container"><ul id="menu-footer-nav" class="menu"><li id="menu-item-124299" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124299"><a href="http://www.multiversitycomics.com/category/news/">News</a></li>
+<li id="menu-item-124297" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124297"><a href="http://www.multiversitycomics.com/category/interviews/">Interviews</a></li>
+<li id="menu-item-124301" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124301"><a href="http://www.multiversitycomics.com/category/reviews/">Reviews</a></li>
+<li id="menu-item-124298" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124298"><a href="http://www.multiversitycomics.com/category/longform/">Longform</a></li>
+<li id="menu-item-124300" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124300"><a href="http://www.multiversitycomics.com/category/podcasts/">Podcasts</a></li>
+<li id="menu-item-124302" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124302"><a href="http://www.multiversitycomics.com/category/tv/">Television</a></li>
+<li id="menu-item-124295" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124295"><a href="http://www.multiversitycomics.com/category/annotations/">Annotations</a></li>
+<li id="menu-item-124296" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-124296"><a href="http://www.multiversitycomics.com/category/news-columns/">Columns</a></li>
+<li id="menu-item-124317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124317"><a href="http://www.multiversitycomics.com/about-us/">About Us</a></li>
+<li id="menu-item-124320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124320"><a href="http://www.multiversitycomics.com/contact-2/">Contact</a></li>
+<li id="menu-item-124314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124314"><a href="http://www.multiversitycomics.com/review-rubric-2/">Review Rubric</a></li>
+<li id="menu-item-124315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124315"><a href="http://www.multiversitycomics.com/comments-policy/">Comments Policy</a></li>
+<li id="menu-item-124316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-124316"><a href="http://www.multiversitycomics.com/archives/">Archives</a></li>
+</ul></div></li>
+     </div>
+      
+          <!-- Footer Area 2-->
+        <div class="motto">
+        <li id="text-14" class="widget widget_text">			<div class="textwidget"><h6 class="tablet-show"><b>Welcome to Multiversity Comics</b>, a website written <em>by</em> people who love comics <em>for</em> people who love comics.</h6>
+</div>
+		</li>
+</div>
+          <!-- Social Links -->
+          <div class="social-links"> 
+          <a href="http://www.facebook.com/pages/Multiversity-Comics/152509036651"><img src="http://www.multiversitycomics.com/wp-content/themes/mvc/images/circle-fb.png" /></a> 
+          <a href="http://multiversitycomics.tumblr.com/"><img src="http://www.multiversitycomics.com/wp-content/themes/mvc/images/circle-tumblr.png" /></a> 
+          <a href="https://www.youtube.com/user/multiversitycomics"><img src="http://www.multiversitycomics.com/wp-content/themes/mvc/images/circle-youtube.png" /></a> 
+          <a href="http://twitter.com/multiversitycom"><img src="http://www.multiversitycomics.com/wp-content/themes/mvc/images/circle-twitter.png" /></a> </div>
+       
+   
+    <br clear="all" /> 
+    <p class="small-text" style="padding-top: 20px;"> All content on this site copyright &copy; 2009 - 2016 Multiversity Comics // Site Designed by <a href="http://www.jlotharius.com">JLotharius</a></p>
+  </div>
+</footer>
+<a href="#" class="back-to-top"><img src="http://www.multiversitycomics.com/wp-content/themes/mvc/images/arrow-up-icon.png" /></a>
+
+
+
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://www.multiversitycomics.com/wp-content/plugins/jetpack/modules/shortcodes/js/jquery.cycle.js?ver=2.9999.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jetpackSlideshowSettings = {"spinner":"http:\/\/www.multiversitycomics.com\/wp-content\/plugins\/jetpack\/modules\/shortcodes\/img\/slideshow-loader.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.multiversitycomics.com/wp-content/plugins/jetpack/modules/shortcodes/js/slideshow-shortcode.js?ver=20121214.1'></script>
+<script type='text/javascript' src='http://www.multiversitycomics.com/wp-content/plugins/jetpack/modules/photon/photon.js?ver=20130122'></script>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201630'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js?ver=2016Julaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.multiversitycomics.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=4.5.2'></script>
+<script type='text/javascript' src='http://www.multiversitycomics.com/wp-content/themes/mvc/js/navigation.js?ver=20120206'></script>
+<script type='text/javascript' src='http://www.multiversitycomics.com/wp-content/themes/mvc/js/skip-link-focus-fix.js?ver=20130115'></script>
+<script type='text/javascript' src='http://www.multiversitycomics.com/wp-includes/js/wp-embed.min.js?ver=4.5.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var countVars = {"disqusShortname":"multiversitycomics"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.multiversitycomics.com/wp-content/plugins/disqus-comment-system/media/js/count.js?ver=4.5.2'></script>
+
+<!--Plugin WP Missed Schedule Active - Secured with Genuine Authenticity KeyTag-->
+
+<!-- This site is patched against a big problem not solved since WordPress 2.5 -->
+
+<script type='text/javascript' src='http://stats.wp.com/e-201630.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.1.1',blog:'59761865',post:'0',tz:'-4',srv:'www.multiversitycomics.com'} ]);
+	_stq.push([ 'clickTrackerInit', '59761865', '0' ]);
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-12764387-1', 'multiversitycomics.com');
+  ga('send', 'pageview');
+
+</script>
+<!--[if lt IE 7 ]>
+	<script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.2/CFInstall.min.js"></script>
+	<script>window.attachEvent("onload",function(){CFInstall.check({mode:"overlay"})})</script>
+<![endif]-->
+
+</body>
+</html>
+
+
+
+
+
+
+	

@@ -1,0 +1,1725 @@
+<!DOCTYPE html">
+
+<html lang="pt-br">
+
+	<head>
+
+		<!--Meta tag´s-->
+    
+<meta charset="UTF-8" />
+
+<!--<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no" />-->
+
+
+<meta property="keywords" content="master, produções, eventos">
+
+<meta property="fb:app_id" content="" />
+
+<meta property="og:type" content="website" />
+
+<meta property="og:site_name" content="" />
+
+
+<meta property="og:title" content="Master produções e eventos" />
+
+<meta property="og:url" content="http://www.masterfestas.com/" />
+
+
+
+<meta name="image" content="" />
+
+<meta property="og:image" content="" />
+
+
+<meta property="og:image:type" content="image/jpeg" />
+
+
+
+
+<!--Título e ícone-->
+
+<title> Master produções e eventos </title>
+
+<link rel="shortcut icon" type="image/x-icon" href="http://www.masterfestas.com/imagens/site/icon.ico?v=2016" />
+
+
+<!--Css-->
+
+<link rel="stylesheet" type="text/css" href="http://www.masterfestas.com/estilos/site/layout-8.css" />
+
+
+<!--Scripts-->
+
+<script src="http://www.masterfestas.com/scripts/jquery-1.11.1.min.js"></script>
+
+<script src="http://www.masterfestas.com/scripts/sweet-alert/sweetalert.js"></script>
+
+<script src="http://www.masterfestas.com/scripts/3d-gallery/modernizr.custom.53451.js"></script>
+
+<script src="http://www.masterfestas.com/scripts/3d-gallery/3d-gallery.js"></script>
+
+<script src="http://www.masterfestas.com/scripts/owl-carousel/owl.carousel.js"></script>
+
+<script src="http://www.masterfestas.com/scripts/mascara/mascara.js"></script>
+
+<script src="http://www.masterfestas.com/scripts/responsive-modal/responsive-modal-1.js"></script>
+
+<script src="http://www.masterfestas.com/scripts/shadowbox/shadowbox.js"></script>
+
+<script src="http://www.masterfestas.com/scripts/mascara/mask-money.js"></script>
+
+<script src="http://www.masterfestas.com/scripts/jPage/jPages.js"></script>
+
+<script src="http://www.masterfestas.com/scripts/calendario/calendar.min.js"></script>
+
+<script src="http://www.masterfestas.com/scripts/site/config-3.js"></script>
+
+
+<!--Galeria de imagens-->
+
+<script src="http://www.masterfestas.com/scripts/gallery-mobile/galeria.js"></script>
+
+<script src="http://www.masterfestas.com/scripts/gallery-mobile/bootstrap-image-gallery.js"></script>
+
+<script src="http://www.masterfestas.com/scripts/gallery-mobile/demo.js"></script>
+
+
+<script>
+
+	window.pag = 'index';
+
+	window.web_root = 'http://www.masterfestas.com/';
+
+	
+
+	// Bloqueia o botão direito do mouse
+
+	function disableselect(e){
+
+		return false;
+
+	}
+
+	function reEnable(){
+
+		return true;
+
+	}
+
+	document.onselectstart = new Function("return false");
+
+	document.oncontextmenu = new Function("return false");
+
+	if(window.sidebar){
+
+		document.onmousedown = disableselect
+
+		document.onclick = reEnable
+
+	}
+
+</script>		
+	</head>
+
+    <body>
+
+        <!--Chat-->
+
+        <script data-cfasync="false">
+
+            /*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+            f[z]=function(){
+            (a.s=a.s||[]).push(arguments)};var a=f[z]._={
+            },q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+            f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+            0:+new Date};a.P=function(u){
+            a.p[u]=new Date-a.p[0]};function s(){
+            a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+            hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+            return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+            b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+            b.contentWindow[g].open()}catch(w){
+            c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+            var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+            b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+            loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+            /* custom configuration goes here (www.olark.com/documentation) */
+            olark.identify('6644-378-10-4022');/*]]>*/
+
+        </script>
+
+        <noscript>
+
+            <a href="https://www.olark.com/site/6644-378-10-4022/contact" title="Contact us" target="_blank">Questions? Feedback?</a>
+
+            powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a>
+
+        </noscript>
+
+        <!--Fim do chat-->
+
+        
+        
+        <!--Carregamento-->
+
+        <div id="box-load">
+
+            <div id="progress"></div>
+
+        </div>
+
+
+        <!--Barra fixa-->
+
+        <div id="barra-fixa">
+
+            <div class="centro clear">
+
+                <img src="http://www.masterfestas.com/imagens/site/logo-rodape.png" width="60" title="Master produções e eventos" alt="Logo" class="left" />
+
+                <div id="menu-barra" class="right">
+
+                    <ul>
+
+                        <li class="grid vertical-middle">
+
+                            <a href="#cabecalho" class="seguir link-barra text-center" title="Início"> Home </a>
+
+                        </li>
+
+                        <li class="grid vertical-middle">
+
+                            <a href="" class="text-center" title="Blog"> Blog </a>
+
+                        </li>
+
+                        <li class="grid vertical-middle">
+
+                            <a href="http://www.masterfestas.com/site/eventos" class="open-modal link-barra text-center" title="Eventos"> Eventos </a>
+
+                        </li>
+
+                        <li class="grid vertical-middle">
+
+                            <a href="#servicos" class="seguir link-barra text-center" title="Serviços"> Serviços </a>
+
+                        </li>
+
+                        <li class="grid vertical-middle">
+
+                            <a href="http://www.masterfestas.com/site/solicite-seu-orcamento" class="open-modal text-center" title="Orçamento"> Orçamento </a>
+
+                        </li>
+
+                        <li class="grid vertical-middle">
+
+                            <a href="#contatos" class="seguir link-barra text-center" title="Contato"> Contato </a>
+
+                        </li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <!--Cabeçalho-->
+
+        <header id="cabecalho">
+
+	<div id="box-header" class="centro clear">
+
+		<!--Logomarca-->
+
+		<div id="logo" class="left">
+
+			<img src="http://www.masterfestas.com/imagens/site/logo.png" title="Master produções e eventos" alt="Logo" />
+
+		</div>
+
+		<div id="content-header" class="right relative">
+
+			<!--Menu principal-->
+
+			<div id="menu">
+
+				<ul class="clear">
+
+					<li>
+
+						<a href="#cabecalho" class="seguir text-center relative" title="Início">
+
+							<i class="fa fa-home"></i>
+
+						</a>
+
+					</li>
+
+					<li>
+
+						<a href="http://www.masterfestas.com/site/agenda" class="open-modal text-center relative" title="Agenda">
+
+							Agenda
+
+						</a>
+
+					</li>
+
+					<li>
+
+						<a href="http://www.masterfestas.com/site/eventos" class="open-modal text-center relative" title="Eventos">
+
+							Eventos
+
+						</a>
+
+					</li>
+
+					<li>
+
+						<a href="#servicos" class="seguir text-center relative" title="Serviços">
+
+							Serviços
+
+						</a>
+
+					</li>
+
+					<li>
+
+						<a href="http://www.masterfestas.com/site/solicite-seu-orcamento" class="open-modal text-center relative" title="Orçamento">
+
+							Orçamento
+
+						</a>
+
+					</li>
+
+					<li>
+
+						<a href="#contatos" class="seguir text-center relative" title="Contato">
+
+							Contato
+
+						</a>
+
+					</li>
+
+				</ul>
+
+			</div>
+
+			<div id="pos-menu" class="relative right text-right">
+
+				<!--Redes sociais-->
+
+				<div class="redes-sociais grid vertical-middle"> <ul>
+
+	<li class="grid">
+
+		<a href="https://www.facebook.com/masterproducoes" title="Facebook" target="_blank">
+
+			<img src="http://www.masterfestas.com/imagens/site/facebook.png" title="Facebook" alt="Facebook" />
+
+		</a>
+
+	</li>
+
+	<li class="grid">
+
+		<a href="https://twitter.com/Masterfestas" title="Twitter" target="_blank">
+
+			<img src="http://www.masterfestas.com/imagens/site/twitter.png" title="Twitter" alt="Twitter" />
+
+		</a>
+
+	</li>
+
+	<li class="grid">
+
+		<a href="" title="Google+" target="_blank">
+
+			<img src="http://www.masterfestas.com/imagens/site/google+.png" title="Google+" alt="Google+" />
+
+		</a>
+
+	</li>
+
+	<li class="grid">
+
+		<a href="" title="Youtube" target="_blank">
+
+			<img src="http://www.masterfestas.com/imagens/site/youtube.png" title="Youtube" alt="Youtube" />
+
+		</a>
+
+	</li>
+
+	<li class="grid">
+
+		<a href="https://www.instagram.com/masterfestas/" title="Instagram" target="_blank">
+
+			<img src="http://www.masterfestas.com/imagens/site/instagram.png" title="Instagram" alt="Instagram" />
+
+		</a>
+
+	</li>
+
+</ul> </div>
+
+				<div class="grid vertical-middle">
+
+					<!--Newsletter-->
+
+					<div id="newsletter" class="relative">
+
+						<form method="post" action="http://www.masterfestas.com/site/cadastrarusuario">
+
+							<fieldset class="left">
+
+								<input type="text" name="n_nome" class="campo-cad campo-full" placeholder="Seu nome:" required />
+
+							</fieldset>
+
+							<fieldset class="left">
+
+								<input type="text" name="n_email" class="campo-cad campo-full" placeholder="Cadastre seu e-mail:" required />
+
+							</fieldset>
+
+							<button type="submit" class="btn-cad"> <i class="fa fa-caret-right"></i> </button>
+
+						</form>
+
+						<div class="load absolute"> <img src="http://www.masterfestas.com/imagens/site/loader.gif" title="Carregando..." alt="Load" /> </div>
+
+					</div>
+
+					<!--Busca de eventos-->
+
+					<div id="busca-eventos">
+
+						<form method="post" action="http://www.masterfestas.com/site/pesquisar">
+
+							<fieldset class="left">
+
+								<input type="text" name="pesquisar" class="campo-cad campo-full" placeholder="Pesquisar evento" required />
+
+							</fieldset>
+
+							<button type="submit" class="btn-cad"> <i class="fa fa-search"></i> </button>
+
+						</form>
+
+					</div>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+	
+	<!--Slide-->
+
+	<section id="slide" class="dg-container relative">
+
+		<div class="dg-wrapper">
+
+			
+			<a href="http://www.masterfestas.com/site/evento/115" class="open-modal">
+
+				<img src="http://www.masterfestas.com/imagens/destaques/13/large/13.jpg?n=20079" title="15 anos de Fernanda Lacerda " alt="Destaque" />
+
+				<p> 15 anos de Fernanda Lacerda  </p>
+
+			</a>
+
+			
+			<a href="http://www.masterfestas.com/site/evento/109" class="open-modal">
+
+				<img src="http://www.masterfestas.com/imagens/destaques/12/large/12.jpg?n=592857" title="Casamento - Wilne Florêncio e João Cláudio" alt="Destaque" />
+
+				<p> Casamento - Wilne Florêncio e João Cláudio </p>
+
+			</a>
+
+			
+			<a href="http://www.masterfestas.com/site/evento/111" class="open-modal">
+
+				<img src="http://www.masterfestas.com/imagens/destaques/11/large/11.JPG?n=666953" title="Lançamento da Faculdade Diocesana de Mossoró" alt="Destaque" />
+
+				<p> Lançamento da Faculdade Diocesana de Mossoró </p>
+
+			</a>
+
+			
+			<a href="http://www.masterfestas.com/site/evento/102" class="open-modal">
+
+				<img src="http://www.masterfestas.com/imagens/destaques/10/large/10.JPG?n=907167" title="Making of - Fisioterapia 2016.2 FVJ Aracati" alt="Destaque" />
+
+				<p> Making of - Fisioterapia 2016.2 FVJ Aracati </p>
+
+			</a>
+
+			
+			<a href="http://www.masterfestas.com/site/evento/97" class="open-modal">
+
+				<img src="http://www.masterfestas.com/imagens/destaques/9/large/9.jpg?n=61392" title="BEM CASAR 2016 " alt="Destaque" />
+
+				<p> BEM CASAR 2016  </p>
+
+			</a>
+
+			
+			<a href="http://www.masterfestas.com/site/evento/95" class="open-modal">
+
+				<img src="http://www.masterfestas.com/imagens/destaques/8/large/8.JPG?n=380463" title="Aniversário de Roselanny Lima " alt="Destaque" />
+
+				<p> Aniversário de Roselanny Lima  </p>
+
+			</a>
+
+			
+			<a href="http://www.masterfestas.com/site/evento/84" class="open-modal">
+
+				<img src="http://www.masterfestas.com/imagens/destaques/7/large/7.jpg?n=256099" title="15 anos de Maria Neusa Figueiredo" alt="Destaque" />
+
+				<p> 15 anos de Maria Neusa Figueiredo </p>
+
+			</a>
+
+			
+			<a href="http://www.masterfestas.com/site/evento/85" class="open-modal">
+
+				<img src="http://www.masterfestas.com/imagens/destaques/6/large/6.JPG?n=562471" title="Casamento - Priscila Barbalho e Renan Meneses" alt="Destaque" />
+
+				<p> Casamento - Priscila Barbalho e Renan Meneses </p>
+
+			</a>
+
+			
+			<a href="http://www.masterfestas.com/site/evento/23" class="open-modal">
+
+				<img src="http://www.masterfestas.com/imagens/destaques/5/large/5.jpg?n=164592" title="Batizado de Alice Vieira Dias " alt="Destaque" />
+
+				<p> Batizado de Alice Vieira Dias  </p>
+
+			</a>
+
+			
+			<a href="http://www.masterfestas.com/site/evento/28" class="open-modal">
+
+				<img src="http://www.masterfestas.com/imagens/destaques/4/large/4.JPG?n=776355" title="Grand Circo do Lucca" alt="Destaque" />
+
+				<p> Grand Circo do Lucca </p>
+
+			</a>
+
+			
+			<a href="http://www.masterfestas.com/site/evento/25" class="open-modal">
+
+				<img src="http://www.masterfestas.com/imagens/destaques/3/large/3.jpg?n=503500" title="Casamento - Maria Eduarda Pinto e Kadu Fônseca " alt="Destaque" />
+
+				<p> Casamento - Maria Eduarda Pinto e Kadu Fônseca  </p>
+
+			</a>
+
+			
+			<a href="http://www.masterfestas.com/site/evento/27" class="open-modal">
+
+				<img src="http://www.masterfestas.com/imagens/destaques/2/large/2.JPG?n=534660" title="15 anos de Maria Eduarda Filgueira " alt="Destaque" />
+
+				<p> 15 anos de Maria Eduarda Filgueira  </p>
+
+			</a>
+
+			
+		</div>
+
+		<nav class="text-center">
+
+			<span class="dg-prev grid"> <i class="fa fa-caret-left"></i> </span>
+
+			<span class="dg-next grid"> <i class="fa fa-caret-right"></i> </span>
+
+		</nav>
+
+	</section>
+
+	
+</header>
+
+<div id="barra-1" class="barra"></div>
+
+        <!--Eventos-->
+
+        <section id="eventos" class="relative">
+
+            <div class="centro relative">
+
+                <div id="categorias-eventos">
+
+                    <ul>
+
+                        
+                        <li>
+
+                            <a href="http://www.masterfestas.com/site/eventosporcategoria/4" title="Aniversários" class="text-center">
+
+                                Aniversários
+                            </a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="http://www.masterfestas.com/site/eventosporcategoria/15" title="Batizados " class="text-center">
+
+                                Batizados 
+                            </a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="http://www.masterfestas.com/site/eventosporcategoria/3" title="Bodas" class="text-center">
+
+                                Bodas
+                            </a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="http://www.masterfestas.com/site/eventosporcategoria/2" title="Casamentos" class="text-center">
+
+                                Casamentos
+                            </a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="http://www.masterfestas.com/site/eventosporcategoria/7" title="Conferências" class="text-center">
+
+                                Conferências
+                            </a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="http://www.masterfestas.com/site/eventosporcategoria/5" title="Confraternizações" class="text-center">
+
+                                Confraternizações
+                            </a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="http://www.masterfestas.com/site/eventosporcategoria/6" title="Congressos" class="text-center">
+
+                                Congressos
+                            </a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="http://www.masterfestas.com/site/eventosporcategoria/9" title="Encontros" class="text-center">
+
+                                Encontros
+                            </a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="http://www.masterfestas.com/site/eventosporcategoria/16" title="Evento Social " class="text-center">
+
+                                Evento Social 
+                            </a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="http://www.masterfestas.com/site/eventosporcategoria/14" title="Exposições" class="text-center">
+
+                                Exposições
+                            </a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="http://www.masterfestas.com/site/eventosporcategoria/13" title="Feiras" class="text-center">
+
+                                Feiras
+                            </a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="http://www.masterfestas.com/site/eventosporcategoria/1" title="Formaturas" class="text-center">
+
+                                Formaturas
+                            </a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="http://www.masterfestas.com/site/eventosporcategoria/8" title="Palestras" class="text-center">
+
+                                Palestras
+                            </a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="http://www.masterfestas.com/site/eventosporcategoria/10" title="Seminários" class="text-center">
+
+                                Seminários
+                            </a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="http://www.masterfestas.com/site/eventosporcategoria/11" title="Simpósios" class="text-center">
+
+                                Simpósios
+                            </a>
+
+                        </li>
+
+                        
+                        <li>
+
+                            <a href="http://www.masterfestas.com/site/eventosporcategoria/12" title="Workshops" class="text-center">
+
+                                Workshops
+                            </a>
+
+                        </li>
+
+                        
+                    </ul>
+
+                </div>
+
+                <div id="box-eventos" class="relative">
+
+                    <ul class="lista-padrao text-center">
+
+                        
+                        <li class="grid vertical-middle">
+
+                            <img src="http://www.masterfestas.com/imagens/eventos/146/small/IMG_9336.jpg" title="Ato Ecumênico - ENGENHARIA CIVIL - 2016.1  UNP" alt="Evento" class="border-circle" />
+
+                            <span> Ato Ecumênico - ENGENHARIA CIVIL - 2016.1  UNP </span>
+
+                            <p class="text-center"> ‎Engenharia Civil‬ | ‎Descerramento de placa‬ ‪| ‎Formatura padrão Master‬ ‪|‎Corta pr… </p>
+
+                            <a href="http://www.masterfestas.com/site/evento/146" class="open-modal" title="Saiba mais">
+
+                                <img src="http://www.masterfestas.com/imagens/site/btn-mais.png" title="Saiba mais" alt="Mais" />
+
+                            </a>
+
+                        </li>
+
+                        
+                        <li class="grid vertical-middle">
+
+                            <img src="http://www.masterfestas.com/imagens/eventos/145/small/Kenedy(4142).jpg" title="Descerramento de Placa - ENGENHARIA CIVIL 2016.1 UNP" alt="Evento" class="border-circle" />
+
+                            <span> Descerramento de Placa - ENGENHARIA CIVIL 2016.1 UNP </span>
+
+                            <p class="text-center"> ‎Engenharia Civil‬ | ‎Descerramento de placa‬ ‪| ‎Formatura padrão Master‬ ‪|‎Corta pr… </p>
+
+                            <a href="http://www.masterfestas.com/site/evento/145" class="open-modal" title="Saiba mais">
+
+                                <img src="http://www.masterfestas.com/imagens/site/btn-mais.png" title="Saiba mais" alt="Mais" />
+
+                            </a>
+
+                        </li>
+
+                        
+                        <li class="grid vertical-middle">
+
+                            <img src="http://www.masterfestas.com/imagens/eventos/144/small/Sara Lopes e Helder  (1).jpg" title="Expectativa para o casamento de Sarah Lopes e Helder Figueiredo" alt="Evento" class="border-circle" />
+
+                            <span> Expectativa para o casamento de Sarah Lopes e Helder Figueiredo </span>
+
+                            <p class="text-center"> Falta pouco menos de 15 dias para o grande dia de Sarah Lopes e Hélder Figueiredo e eles estão sendo to… </p>
+
+                            <a href="http://www.masterfestas.com/site/evento/144" class="open-modal" title="Saiba mais">
+
+                                <img src="http://www.masterfestas.com/imagens/site/btn-mais.png" title="Saiba mais" alt="Mais" />
+
+                            </a>
+
+                        </li>
+
+                        
+                        <li class="grid vertical-middle">
+
+                            <img src="http://www.masterfestas.com/imagens/eventos/143/small/IMG_4775.jpg" title="Making of - Nutrição 2016.2 UNP" alt="Evento" class="border-circle" />
+
+                            <span> Making of - Nutrição 2016.2 UNP </span>
+
+                            <p class="text-center"> Ansiedade e criatividade. Depois de tantas ideias, reuniões e até mesmo aquela pontinha de insegurança… </p>
+
+                            <a href="http://www.masterfestas.com/site/evento/143" class="open-modal" title="Saiba mais">
+
+                                <img src="http://www.masterfestas.com/imagens/site/btn-mais.png" title="Saiba mais" alt="Mais" />
+
+                            </a>
+
+                        </li>
+
+                        
+                    </ul>
+
+                    <div class="load absolute">
+
+                        <img src="http://www.masterfestas.com/imagens/site/loader.gif" class="grid vertical-middle" title="Carregando..." alt="Load" />
+
+                    </div>
+
+                </div>
+
+                <div id="btns-eventos" class="absolute">
+
+                    <ul>
+
+                        <li>
+
+                            <a href="http://www.masterfestas.com/escolha-de-fotos" title="Escolha de fotos" class="text-center">
+
+                                Escolha de <span> Fotos </span>
+
+                            </a>
+
+                        </li>
+
+                        <li>
+
+                            <a href="http://www.cactustecnologia.com/master/aluno" title="Portal do aluno" class="text-center" target="_blank">
+
+                                Portal do <span> Aluno </span>
+
+                            </a>
+
+                        </li>
+
+                        <li>
+
+                            <a href="http://www.masterfestas.com/site/solicite-seu-orcamento" title="Solicite seu orçamento" class="open-modal text-center">
+
+                                Solicite seu <span> Orçamento </span>
+
+                            </a>
+
+                        </li>
+
+                    </ul>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <div class="barra-2 barra"></div>
+
+
+        
+        <!--Fotos-->
+
+        <section id="fotos">
+
+            <ul class="clear">
+
+                
+                <li class="left">
+
+                    <a href="http://www.masterfestas.com/imagens/fotos/3/large/c0cd623f259bfeda016d9567835ae0b7.jpg" title="Casamento - Cláudia e Dias - Fotos: Eduardo Kenedy e Euclídes Sátiro" data-gallery>
+
+                        <img src="http://www.masterfestas.com/imagens/fotos/3/small/c0cd623f259bfeda016d9567835ae0b7.jpg" title="Casamento - Cláudia e Dias - Fotos: Eduardo Kenedy e Euclídes Sátiro" alt="Foto" />
+
+                    </a>
+
+                </li>
+
+                
+                <li class="left">
+
+                    <a href="http://www.masterfestas.com/imagens/fotos/3/large/25706961434e16ffed7c5624cd685590.jpg" title="" data-gallery>
+
+                        <img src="http://www.masterfestas.com/imagens/fotos/3/small/25706961434e16ffed7c5624cd685590.jpg" title="" alt="Foto" />
+
+                    </a>
+
+                </li>
+
+                
+                <li class="left">
+
+                    <a href="http://www.masterfestas.com/imagens/fotos/3/large/f85a766bad27c1aca05ab81520659656.jpg" title="Decoração - Casamento Kallianna e Gustavo - Foto: Clívia Dantas" data-gallery>
+
+                        <img src="http://www.masterfestas.com/imagens/fotos/3/small/f85a766bad27c1aca05ab81520659656.jpg" title="Decoração - Casamento Kallianna e Gustavo - Foto: Clívia Dantas" alt="Foto" />
+
+                    </a>
+
+                </li>
+
+                
+                <li class="left">
+
+                    <a href="http://www.masterfestas.com/imagens/fotos/3/large/f2491ab90c42ee6dd6385d15571c6b0f.jpg" title="" data-gallery>
+
+                        <img src="http://www.masterfestas.com/imagens/fotos/3/small/f2491ab90c42ee6dd6385d15571c6b0f.jpg" title="" alt="Foto" />
+
+                    </a>
+
+                </li>
+
+                
+                <li class="left">
+
+                    <a href="http://www.masterfestas.com/imagens/fotos/3/large/cd1815f28d2c2b5d94c423cba43e94b6.jpg" title="" data-gallery>
+
+                        <img src="http://www.masterfestas.com/imagens/fotos/3/small/cd1815f28d2c2b5d94c423cba43e94b6.jpg" title="" alt="Foto" />
+
+                    </a>
+
+                </li>
+
+                
+                <li class="left">
+
+                    <a href="http://www.masterfestas.com/imagens/fotos/3/large/11ce2b3bc6e2fd3a2ce614acbf24f8b2.jpg" title="Casamento - Cláudia e Dias - Fotos: Eduardo Kenedy e Euclídes Sátiro" data-gallery>
+
+                        <img src="http://www.masterfestas.com/imagens/fotos/3/small/11ce2b3bc6e2fd3a2ce614acbf24f8b2.jpg" title="Casamento - Cláudia e Dias - Fotos: Eduardo Kenedy e Euclídes Sátiro" alt="Foto" />
+
+                    </a>
+
+                </li>
+
+                
+                <li class="left">
+
+                    <a href="http://www.masterfestas.com/imagens/fotos/3/large/789de20472b1f7efcb3679243892445c.jpg" title="Estúdio Ricardo Lopes" data-gallery>
+
+                        <img src="http://www.masterfestas.com/imagens/fotos/3/small/789de20472b1f7efcb3679243892445c.jpg" title="Estúdio Ricardo Lopes" alt="Foto" />
+
+                    </a>
+
+                </li>
+
+                
+                <li class="left">
+
+                    <a href="http://www.masterfestas.com/imagens/fotos/3/large/414f44c4a3cbb4baba9cd6eeeaed3a69.jpg" title="" data-gallery>
+
+                        <img src="http://www.masterfestas.com/imagens/fotos/3/small/414f44c4a3cbb4baba9cd6eeeaed3a69.jpg" title="" alt="Foto" />
+
+                    </a>
+
+                </li>
+
+                
+                <li class="left">
+
+                    <a href="http://www.masterfestas.com/imagens/fotos/3/large/4edacf15b90090826fced683002840c9.jpg" title="" data-gallery>
+
+                        <img src="http://www.masterfestas.com/imagens/fotos/3/small/4edacf15b90090826fced683002840c9.jpg" title="" alt="Foto" />
+
+                    </a>
+
+                </li>
+
+                
+                <li class="left">
+
+                    <a href="http://www.masterfestas.com/imagens/fotos/3/large/79c40fd4fe54ef5d7fd780ece0c9b843.jpg" title="Decoração - Casamento Kallianna e Gustavo - Foto: Clívia Dantas" data-gallery>
+
+                        <img src="http://www.masterfestas.com/imagens/fotos/3/small/79c40fd4fe54ef5d7fd780ece0c9b843.jpg" title="Decoração - Casamento Kallianna e Gustavo - Foto: Clívia Dantas" alt="Foto" />
+
+                    </a>
+
+                </li>
+
+                
+            </ul>
+
+        </section>
+
+        <div class="barra-2 barra"></div>
+
+        
+
+        <!--Quem somos-->
+
+        <section id="quem-somos" class="relative">
+
+            <div class="centro">
+
+                <h1 class="text-center"> Em nossas mãos sonhos viram festas! </h1>
+
+                <span class="show"></span>
+
+                <div id="texto-quem-somos" class="clear relative">
+
+                    <div class="left">
+
+                        <p class="text-justify">
+                            Amamos o que fazemos e estamos preparados para assessorar, planejar, organizar e realizar seu evento na certeza de
+                            um único objetivo: <strong>o sucesso</strong>.
+
+                            <br> <br>
+
+                            Do evento mais intimista ao mais pomposo, festas de 15 anos temáticas ou tradicionais. Formaturas, eventos
+                            corporativos. Seja casar no campo, na praia, cerimônia civil ou religiosa. Na Master Produções e Eventos você
+                            encontra produtos e serviços em um só lugar, proporcionando comodidade, tranquilidade, preços justos e prazos
+                            adequados ao seu perfil.
+                        </p>
+
+                    </div>
+
+                    <div class="right">
+
+                        <p class="text-justify">
+                            Possuímos uma estrutura completa de atendimento, planejamento, produção, marketing, assessoria de imprensa, setor
+                            de criação, decoração, produção fotográfica entre outros serviços.
+
+                            <br> <br>
+
+                            Desde 2001 a Master Produções e Eventos vem surpreendendo e superando todas expectativas.
+
+                            <br> <br>
+
+                            Seja mais, seja Master. A certeza do sucesso.
+                        </p>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+        </section>
+
+        <div class="barra-2 barra"></div>
+
+
+        <!--Serviços-->
+
+        <section id="servicos">
+
+            <div class="centro">
+
+                <div class="title-com-subtitle">
+
+                    <h2 class="grid vertical-middle"> Nossos <span> Serviços </span> </h2>
+
+                </div>
+
+                
+                <div id="servicos-carousel">
+
+                    <ul class="lista-padrao text-center">
+
+                        
+                        <li class="grid vertical-middle">
+
+                            <img src="http://www.masterfestas.com/imagens/servicos/5/small/5.jpg?n=90969" title="Aniversários em geral" alt="Evento" class="border-circle" />
+
+                            <span> Aniversários em geral </span>
+
+                            <p class="text-center"> 01. Assessoria e planejamento do evento
+02. Buffet*
+03. Caligrafia
+04. Cerimonial e mestre de cerimôn… </p>
+
+                            <a href="http://www.masterfestas.com/site/servico/aniversarios-em-geral" class="open-modal" title="Saiba mais">
+
+                                <img src="http://www.masterfestas.com/imagens/site/btn-mais.png" title="Saiba mais" alt="Mais" />
+
+                            </a>
+
+                        </li>
+
+                        
+                        <li class="grid vertical-middle">
+
+                            <img src="http://www.masterfestas.com/imagens/servicos/4/small/4.jpg?n=573380" title="Casamentos" alt="Evento" class="border-circle" />
+
+                            <span> Casamentos </span>
+
+                            <p class="text-center"> 01. Assessoria e planejamento do evento
+02. Buffet*
+03. Caligrafia
+04. Cerimonial e mestre de cerimôn… </p>
+
+                            <a href="http://www.masterfestas.com/site/servico/casamentos" class="open-modal" title="Saiba mais">
+
+                                <img src="http://www.masterfestas.com/imagens/site/btn-mais.png" title="Saiba mais" alt="Mais" />
+
+                            </a>
+
+                        </li>
+
+                        
+                        <li class="grid vertical-middle">
+
+                            <img src="http://www.masterfestas.com/imagens/servicos/3/small/3.jpg?n=23043" title="Eventos sociais e empresariais" alt="Evento" class="border-circle" />
+
+                            <span> Eventos sociais e empresariais </span>
+
+                            <p class="text-center"> Formaturas, casamentos, confraternizações, bodas, aniversários, congressos, conferências, palestras, … </p>
+
+                            <a href="http://www.masterfestas.com/site/servico/eventos-sociais-e-empresariais" class="open-modal" title="Saiba mais">
+
+                                <img src="http://www.masterfestas.com/imagens/site/btn-mais.png" title="Saiba mais" alt="Mais" />
+
+                            </a>
+
+                        </li>
+
+                        
+                        <li class="grid vertical-middle">
+
+                            <img src="http://www.masterfestas.com/imagens/servicos/2/small/2.jpg?n=564161" title="Formaturas" alt="Evento" class="border-circle" />
+
+                            <span> Formaturas </span>
+
+                            <p class="text-center"> 01. Assessoria e planejamento do evento
+02. Becas completas
+03. Buffet*
+04. Canudo porta-diploma
+05. … </p>
+
+                            <a href="http://www.masterfestas.com/site/servico/formaturas" class="open-modal" title="Saiba mais">
+
+                                <img src="http://www.masterfestas.com/imagens/site/btn-mais.png" title="Saiba mais" alt="Mais" />
+
+                            </a>
+
+                        </li>
+
+                        
+                    </ul>
+
+                </div>
+
+                
+            </div>
+
+        </section>
+
+        <div id="barra-1" class="barra"></div>
+
+
+        <!--Rodapé-->
+
+        <footer id="rodape">
+
+    
+	<!--Depoimentos-->
+
+    <section id="depoimentos">
+
+        <div class="centro">
+
+            <h2> Depoimentos </h2>
+
+        	<div id="depoimentos-carousel">
+
+        		<ul>
+
+        			
+        			<li class="text-center">
+
+        				<img src="http://www.masterfestas.com/imagens/depoimentos/1/small/1.jpg?n=983934" title="Kalionara Souza" alt="Depoimento" class="grid vertical-middle" width="349" height="250" />
+
+        				<div class="texto-depoimento grid vertical-middle text-left">
+
+        					<h3> Kalionara Souza </h3>
+
+        					<span class="show"> Mãe de Maria Clara - aniversariante Master </span>
+
+        					<p class="text-justify"> Quero agradecer primeiro a Deus por ser tão maravilhoso comigo e a todos que fazem parte dessa empresa. Agradeço em especial a Liane Dantas por me ajudar a realizar essa festa de acordo com o esperado por minha filha
+"Obrigada mamãe! Você é a melhor mãe do mundo. Minha festa estava do jeito que eu sonhei"...  só quem é mãe sabe o quanto é gratificante ouvir isso.
+
+Muito obrigada a todos da Master Eventos pelo empenho para que pudéssemos realizar esse sonho. </p>
+
+        				</div>
+
+        			</li>
+
+        			
+        			<li class="text-center">
+
+        				<img src="http://www.masterfestas.com/imagens/depoimentos/2/small/2.jpg?n=179397" title="Cintia Sayonara" alt="Depoimento" class="grid vertical-middle" width="349" height="250" />
+
+        				<div class="texto-depoimento grid vertical-middle text-left">
+
+        					<h3> Cintia Sayonara </h3>
+
+        					<span class="show"> Concluinte de Serviço Social - UNP </span>
+
+        					<p class="text-justify"> Parabéns Master Produções E Eventos, vocês sempre inovam e oferecem o que há de melhor em seus eventos, não poderia ser diferente, trabalho sério resulta em bons frutos (não há concorrência que resista, rs). Eu e minha turma (Serviço Social – UNP ) ainda estamos encantados com tudo o que foi nos oferecido na semana dos eventos. Fechando com chave de ouro com aquela perfeição de baile de formatura, que superou todas nossas expectativas. Enquanto comissão, que conheci o trabalho mais a fundo, virei mais fã ainda e digo onde vou que sempre recomendarei a Master porque é a melhor em tudo! </p>
+
+        				</div>
+
+        			</li>
+
+        			
+        			<li class="text-center">
+
+        				<img src="http://www.masterfestas.com/imagens/depoimentos/3/small/3.jpg?n=584241" title="Naftáli Fernandes" alt="Depoimento" class="grid vertical-middle" width="349" height="250" />
+
+        				<div class="texto-depoimento grid vertical-middle text-left">
+
+        					<h3> Naftáli Fernandes </h3>
+
+        					<span class="show"> Concluinte de Medicina Veterinária - UFERSA 2015.1 </span>
+
+        					<p class="text-justify"> Só tenho uma palavra para descrever o meu baile de formatura: PERFEIÇÃO!
+Muito obrigado a toda equipe da Master Produção e Eventos pelo serviço de qualidade prestado a minha turma. Obrigado por ter tornado ainda mais especial, a grande noite de nossas vidas. Com certeza, foi muito além das nossas expectativas. Trabalho extremamente impecável... </p>
+
+        				</div>
+
+        			</li>
+
+        			
+        			<li class="text-center">
+
+        				<img src="http://www.masterfestas.com/imagens/depoimentos/4/small/4.jpg?n=576790" title="Patrícia Ramos e Michelson Frota" alt="Depoimento" class="grid vertical-middle" width="349" height="250" />
+
+        				<div class="texto-depoimento grid vertical-middle text-left">
+
+        					<h3> Patrícia Ramos e Michelson Frota </h3>
+
+        					<span class="show"> Noivos Master </span>
+
+        					<p class="text-justify"> Muito obrigada por tudo! Foram responsáveis por deixarem nossa noite perfeita, tornaram nosso sonho uma perfeita realidade. Não temos palavras para agradecer. Obrigado a todos que fazem essa mágica empresa. Vocês são excelentes no que fazem!!! </p>
+
+        				</div>
+
+        			</li>
+
+        			
+        			<li class="text-center">
+
+        				<img src="http://www.masterfestas.com/imagens/depoimentos/5/small/5.jpg?n=846350" title="Larissa Rosado" alt="Depoimento" class="grid vertical-middle" width="349" height="250" />
+
+        				<div class="texto-depoimento grid vertical-middle text-left">
+
+        					<h3> Larissa Rosado </h3>
+
+        					<span class="show"> Mãe de Lara e Marina - ambas debutantes Master </span>
+
+        					<p class="text-justify"> Imensamente grata a Master Produções e Eventos que transformou tudo o que Lara Rosado pensou para comemorar os seus 15 anos em realidade! 
+Em festa, em emoção, em carinho, em felicidade... Muito obrigada!!! </p>
+
+        				</div>
+
+        			</li>
+
+        			
+        			<li class="text-center">
+
+        				<img src="http://www.masterfestas.com/imagens/depoimentos/6/small/6.jpg?n=491408" title="Marcília Alves" alt="Depoimento" class="grid vertical-middle" width="349" height="250" />
+
+        				<div class="texto-depoimento grid vertical-middle text-left">
+
+        					<h3> Marcília Alves </h3>
+
+        					<span class="show"> Mãe de João Felipe Diniz, formando Master </span>
+
+        					<p class="text-justify"> Quero agradecer imensamente a atenção da equipe da Master Produções e Eventos que sempre me atendeu com muita presteza e atenção. Equipe extremamente atenciosa e competente. É por isso que sempre indico o trabalho de vocês. </p>
+
+        				</div>
+
+        			</li>
+
+        			
+        			<li class="text-center">
+
+        				<img src="http://www.masterfestas.com/imagens/depoimentos/7/small/7.jpg?n=638183" title="Clarissa Nunes e Ricardo Henrique Vieira" alt="Depoimento" class="grid vertical-middle" width="349" height="250" />
+
+        				<div class="texto-depoimento grid vertical-middle text-left">
+
+        					<h3> Clarissa Nunes e Ricardo Henrique Vieira </h3>
+
+        					<span class="show"> Noivos Master </span>
+
+        					<p class="text-justify"> “É emocionante sentir novamente todo o amor e felicidade presentes em nossos corações neste dia tão especial. A competência e profissionalismo de toda a equipe, além da atenção, carinho e dedicação, foram indispensáveis à realização do nosso sonho.” </p>
+
+        				</div>
+
+        			</li>
+
+        			
+        			<li class="text-center">
+
+        				<img src="http://www.masterfestas.com/imagens/depoimentos/8/small/8.jpg?n=226813" title="Alvaneide Medeiros" alt="Depoimento" class="grid vertical-middle" width="349" height="250" />
+
+        				<div class="texto-depoimento grid vertical-middle text-left">
+
+        					<h3> Alvaneide Medeiros </h3>
+
+        					<span class="show"> Mãe de Victória e Isadora - debutantes Master </span>
+
+        					<p class="text-justify"> Gratidão é o que sinto nesse momento! Primeiramente agradecer a Deus por ter nos presenteado com Isadora e Victória, filhas tão maravilhosas.
+A Master Festas que cuidou de cada detalhe e nos proporcionou noites mágicas e lindas, onde a alegria reinou. Tudo muito especial para nós. A vocês meu muito obrigado.  Vocês deram um brilho especial na nossa festa. </p>
+
+        				</div>
+
+        			</li>
+
+        			
+        			<li class="text-center">
+
+        				<img src="http://www.masterfestas.com/imagens/depoimentos/9/small/9.jpg?n=747508" title="Jair Gomes" alt="Depoimento" class="grid vertical-middle" width="349" height="250" />
+
+        				<div class="texto-depoimento grid vertical-middle text-left">
+
+        					<h3> Jair Gomes </h3>
+
+        					<span class="show"> Serviço Social - Faculdade Católica Nossa Senhora das Vitórias - Assu </span>
+
+        					<p class="text-justify"> Vendo meu álbum de formatura e recordando através dessas lindas fotos os momentos felizes que vivemos ao lado de pessoas tão especiais. Agradeço a Master Produções e Eventos por tudo e aos grandes profissionais que representaram essa grandiosa empresa, Clívia Dantas e Luciano Marreiros, parabéns pelo excelente trabalho. </p>
+
+        				</div>
+
+        			</li>
+
+        			
+        			<li class="text-center">
+
+        				<img src="http://www.masterfestas.com/imagens/depoimentos/10/small/10.jpg?n=200654" title="Crislange Felicio " alt="Depoimento" class="grid vertical-middle" width="349" height="250" />
+
+        				<div class="texto-depoimento grid vertical-middle text-left">
+
+        					<h3> Crislange Felicio  </h3>
+
+        					<span class="show"> Formanda Master - Faculdade Católica Nossa Senhora das Vitórias - Assú  </span>
+
+        					<p class="text-justify"> Quero deixar meu muito obrigada a toda Equipe da Master pelo excelente trabalho desempenhado durante toda a semana que esteve em Assú/RN, contribuindo para realização do sonho das Turmas de Administração e Ciências Contábeis da Faculdade Católica. Em especial quero parabenizar o trabalho de Gabriel Andrens e Clivia Dantas que, com atenção, cuidado e profissionalismo registraram esses momentos extraordinários, vocês estão de parabéns!
+Em nome da Turma de Ciências Contábeis Parabéns a Todos e Sucesso!!! </p>
+
+        				</div>
+
+        			</li>
+
+        			
+        			<li class="text-center">
+
+        				<img src="http://www.masterfestas.com/imagens/depoimentos/11/small/11.jpg?n=391405" title="Christianne Alves " alt="Depoimento" class="grid vertical-middle" width="349" height="250" />
+
+        				<div class="texto-depoimento grid vertical-middle text-left">
+
+        					<h3> Christianne Alves  </h3>
+
+        					<span class="show"> Formanda Master - Arquitetura UNP Mossoró  </span>
+
+        					<p class="text-justify"> Que festa perfeita! Irretocável! Faltam palavras para definir a noite do último sábado, quando aconteceu o baile de formatura do curso de Arquitetura & Urbanismo 2015.2, da UnP, no Requinte, com a assinatura da Master Produções e Eventos. A Master, como todos já sabem, é sempre nota dez, nota mil no que faz. É excelência sempre. Mas, o nosso baile foi diferente de todos os outros bailes de formatura que já tive o prazer de participar. Uma festa diferente, com uma
+Decoração sublime, elegante e de um bom gosto sem limite. A Master seguiu a risca o que pedimos: uma decoração linda, clássica, elegante e enxuta. O que posso dizer a vocês é deixar aqui minha gratidão. Em
+Especial a Eronildo e Bruno Por toda atenção, carinho e paciência com nossa turma, e ao tratamento a mim dispensado. Posso dizer que ganhei dois grandes amigos e que podem contar comigo sempre. Aconselho as próximas turmas, em especial as de Arquitetura, a contratarem a Master, assim terão a certeza de um baile perfeito. </p>
+
+        				</div>
+
+        			</li>
+
+        			
+        			<li class="text-center">
+
+        				<img src="http://www.masterfestas.com/imagens/depoimentos/12/small/12.JPG?n=523862" title="Maria Eduarda Leite " alt="Depoimento" class="grid vertical-middle" width="349" height="250" />
+
+        				<div class="texto-depoimento grid vertical-middle text-left">
+
+        					<h3> Maria Eduarda Leite  </h3>
+
+        					<span class="show"> Debutante Master  </span>
+
+        					<p class="text-justify"> Simplesmente encantada!
+Amei ter escolhido esse pessoal incrível que conseguiram fazer meu sonho se tornar realidade. Sempre amei o trabalho e estou mais do que feliz muito.
+ Obrigada mesmo. De coração.  ❤
+ </p>
+
+        				</div>
+
+        			</li>
+
+        			
+        		</ul>
+
+        	</div>
+
+        </div>
+
+    </section>
+
+    
+    <!--Contatos-->
+
+    <section id="contatos">
+
+        <div class="centro">
+
+        	<div class="title-com-subtitle">
+
+                <h2 class="grid vertical-middle"> Entre em <span> Contato </span> </h2>
+
+                <p id="subtitle-contatos" class="grid vertical-middle">
+
+                    Teremos um imenso prazer em ajudar você. <br>
+                    Preencha as informações solicitadas e em breve entraremos em contato.
+
+                </p>
+
+            </div>
+
+            <div id="box-contato" class="clear">
+
+            	<div id="form-contato" class="left relative">
+
+            		<form method="post" action="http://www.masterfestas.com/site/contato">
+
+            			<fieldset class="bg-campo">
+
+                            <input type="text" name="nome" class="campo" placeholder="Nome:" required />
+
+                        </fieldset>
+
+            			<fieldset class="bg-campo">
+
+                            <input type="text" name="cidade" class="campo" placeholder="Cidade:" required />
+
+                        </fieldset>
+
+            			<fieldset class="bg-campo">
+
+                            <input type="text" name="email" class="campo" placeholder="E-mail:" required />
+
+                        </fieldset>
+
+            			<fieldset class="bg-campo">
+
+                            <input type="text" name="telefone" class="campo" placeholder="Telefone:" data-fone required />
+
+                        </fieldset>
+
+                        <fieldset class="bg-campo">
+
+                            
+                            <select name="area" class="campo select" required>
+
+                                <option value="" disabled="disabled" selected="selected"> Com o que podemos ajudá-lo? </option>
+
+                                
+                                <option value="Formatura"> Formatura </option>
+
+                                
+                                <option value="Casamentos"> Casamentos </option>
+
+                                
+                                <option value="15 anos"> 15 anos </option>
+
+                                
+                                <option value="Evento corporativo"> Evento corporativo </option>
+
+                                
+                                <option value="Bodas"> Bodas </option>
+
+                                
+                                <option value="Batizados"> Batizados </option>
+
+                                
+                                <option value="Renegociação de dívidas"> Renegociação de dívidas </option>
+
+                                
+                                <option value="Críticas"> Críticas </option>
+
+                                
+                                <option value="Sugestões"> Sugestões </option>
+
+                                
+                            </select>
+
+                        </fieldset>
+
+            			<fieldset class="bg-textarea">
+
+                            <textarea name="msg" class="campo-textarea" placeholder="Mensagem:" required></textarea>
+
+                        </fieldset>
+
+            			<input type="hidden" name="acao" value="enviar" />
+
+            			<button type="submit" class="btn-contato"> Enviar <span> Mensagem </span> </button>
+
+            		</form>
+
+                    <div class="load absolute">
+
+                        <img src="http://www.masterfestas.com/imagens/site/loader.gif" class="grid vertical-middle" title="Carregando..." alt="Load" />
+
+                    </div>
+
+            	</div>
+
+            	<div id="contato-info" class="right relative">
+
+            		<a href="http://www.masterfestas.com/site/localizacao" id="localizacao" class="show text-center" rel="shadowbox"> Localização </a>
+
+                    
+            		<ul>
+
+            			
+            			<li>
+
+            				<h2> Endereço </h2>
+
+            				<p> Rua: Benício Gago, 335 | Planalto 13 de Maio | Mossoró/RN | CEP: 59633-330 </p>
+
+            			</li>
+
+            			
+            			<li>
+
+            				<h2> Telefone </h2>
+
+            				<p> (84) 3312.4565 </p>
+
+            			</li>
+
+            			
+            		</ul>
+
+                    
+                    <div id="like-box" class="absolute">
+
+                        <div id="fb-root"></div>
+
+                        <script>
+
+                            (function(d, s, id){
+
+                                var js, fjs = d.getElementsByTagName(s)[0];
+
+                                if(d.getElementById(id)) return;
+
+                                js = d.createElement(s); js.id = id;
+
+                                js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.3&appId=521279511308012";
+
+                                fjs.parentNode.insertBefore(js, fjs);
+
+                            }(document, 'script', 'facebook-jssdk'));
+
+                        </script>
+
+                        <div class="fb-page" data-href="https://www.facebook.com/masterproducoes" data-hide-cover="false" data-show-facepile="true" data-show-posts="false">
+
+                            <div class="fb-xfbml-parse-ignore">
+
+                                <blockquote cite="https://www.facebook.com/masterproducoes">
+
+                                    <a href="https://www.facebook.com/masterproducoes"> Master Produções e Eventos </a>
+
+                                </blockquote>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+            	</div>
+
+            </div>
+
+            <div class="redes-sociais text-center"> <ul>
+
+	<li class="grid">
+
+		<a href="https://www.facebook.com/masterproducoes" title="Facebook" target="_blank">
+
+			<img src="http://www.masterfestas.com/imagens/site/facebook.png" title="Facebook" alt="Facebook" />
+
+		</a>
+
+	</li>
+
+	<li class="grid">
+
+		<a href="https://twitter.com/Masterfestas" title="Twitter" target="_blank">
+
+			<img src="http://www.masterfestas.com/imagens/site/twitter.png" title="Twitter" alt="Twitter" />
+
+		</a>
+
+	</li>
+
+	<li class="grid">
+
+		<a href="" title="Google+" target="_blank">
+
+			<img src="http://www.masterfestas.com/imagens/site/google+.png" title="Google+" alt="Google+" />
+
+		</a>
+
+	</li>
+
+	<li class="grid">
+
+		<a href="" title="Youtube" target="_blank">
+
+			<img src="http://www.masterfestas.com/imagens/site/youtube.png" title="Youtube" alt="Youtube" />
+
+		</a>
+
+	</li>
+
+	<li class="grid">
+
+		<a href="https://www.instagram.com/masterfestas/" title="Instagram" target="_blank">
+
+			<img src="http://www.masterfestas.com/imagens/site/instagram.png" title="Instagram" alt="Instagram" />
+
+		</a>
+
+	</li>
+
+</ul> </div>
+
+        </div>
+
+    </section>
+
+    <section id="bottom-rodape">
+
+    	<div class="centro relative">
+
+    		<div id="logo-footer" class="absolute">
+
+    			<img src="http://www.masterfestas.com/imagens/site/logo-rodape.png" title="Master produções e eventos" alt="Logo" />
+
+    		</div>
+
+    		<div id="direitos" class="absolute"> © 2015 - Master Festas - Todos os direitos </div>
+
+    		<div id="logo-7bis" class="absolute">
+
+    			<a href="http://www.setebis.com.br/" target="_blank">
+
+    				<img src="http://www.masterfestas.com/imagens/site/logo-7bis.png" title="7Bis Web Comunicação" alt="7Bis" />
+
+				</a>
+
+    		</div>
+
+    	</div>
+
+    </section>
+
+</footer>
+
+        <!--Galeria de imagens-->
+
+        <div id="blueimp-gallery" class="blueimp-gallery blueimp-gallery-controls">
+    
+	<div class="slides"></div>
+
+	<h3 class="title"></h3>
+
+	<a class="prev">‹</a>
+	
+	<a class="next">›</a>
+	
+	<a class="close">×</a>
+	
+	<a class="play-pause"></a>
+	
+	<ol class="indicator"></ol>
+
+	<div class="modal fade">
+
+		<div class="modal-dialog">
+
+			<div class="modal-content">
+
+				<div class="modal-header">
+    
+    				<button type="button" class="close" aria-hidden="true">&times;</button>
+    
+    				<h4 class="modal-title"></h4>
+				
+				</div>
+				
+				<div class="modal-body next"></div>
+				
+				<div class="modal-footer">
+					
+					<button type="button" class="btn btn-default pull-left prev">
+        			
+        				<i class="glyphicon glyphicon-chevron-left"></i>
+
+        				Previous
+
+    				</button>
+
+                    <button type="button" class="btn btn-primary next">
+
+                        Next
+
+                        <i class="glyphicon glyphicon-chevron-right"></i>
+
+                    </button>
+
+				</div>
+
+			</div>
+
+		</div>
+
+	</div>
+
+</div>
+
+    </body>
+
+</html>

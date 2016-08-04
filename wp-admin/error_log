@@ -1,0 +1,5 @@
+[27-Jul-2016 03:08:29 UTC] PHP Warning:  Error while sending QUERY packet. PID=415877 in /home/betaalle/public_html/wp-includes/wp-db.php on line 1811
+[27-Jul-2016 03:23:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=470413 in /home/betaalle/public_html/wp-includes/wp-db.php on line 1811
+[29-Jul-2016 18:21:49 UTC] PHP Warning:  Error while sending QUERY packet. PID=814289 in /home/betaalle/public_html/wp-includes/wp-db.php on line 1811
+[29-Jul-2016 18:30:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=829608 in /home/betaalle/public_html/wp-includes/wp-db.php on line 1811
+[29-Jul-2016 18:37:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=840976 in /home/betaalle/public_html/wp-includes/wp-db.php on line 1811

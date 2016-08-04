@@ -1,0 +1,463 @@
+
+<!doctype html>
+<html class="no-js" lang="it-IT" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="icon" href="http://www.cinemagay.it/wp-content/themes/cgtema/assets/images/icons/favicon.png" type="image/png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.cinemagay.it/wp-content/themes/cgtema/assets/images/icons/favicon-144.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.cinemagay.it/wp-content/themes/cgtema/assets/images/icons/favicon-114.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.cinemagay.it/wp-content/themes/cgtema/assets/images/icons/favicon-72.png">
+<link rel="apple-touch-icon-precomposed" href="http://www.cinemagay.it/wp-content/themes/cgtema/assets/images/icons/favicon-57.png">
+<title>Cinemagay.it - Il cinema che ti libera</title>
+ 
+<meta name="description" content="Il mondo LGBT visto attraverso film, serie tv, rassegna stampa e libri."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.cinemagay.it/"/>
+<meta property="og:locale" content="it_IT"/>
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="Cinemagay.it - Il cinema che ti libera"/>
+<meta property="og:description" content="Il mondo LGBT visto attraverso film, serie tv, rassegna stampa e libri."/>
+<meta property="og:url" content="http://www.cinemagay.it/"/>
+<meta property="og:site_name" content="Cinemagay.it"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:description" content="Il mondo LGBT visto attraverso film, serie tv, rassegna stampa e libri."/>
+<meta name="twitter:title" content="Cinemagay.it - Il cinema che ti libera"/>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.cinemagay.it\/","name":"Cinemagay.it","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.cinemagay.it\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+ 
+<link rel='stylesheet' id='main-stylesheet-css' href='http://www.cinemagay.it/wp-content/themes/cgtema/assets/stylesheets/foundation.css?ver=fe292ca1f34c52d7088547635c6213f6' type='text/css' media='all'/>
+<link rel='https://api.w.org/' href='http://www.cinemagay.it/wp-json/'/>
+<link rel="alternate" type="application/json+oembed" href="http://www.cinemagay.it/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.cinemagay.it%2F"/>
+<link rel="alternate" type="text/xml+oembed" href="http://www.cinemagay.it/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.cinemagay.it%2F&#038;format=xml"/>
+</head>
+<body class="home page page-id-2 page-template page-template-templates page-template-front page-template-templatesfront-php offcanvas">
+ 
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WKXGKF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WKXGKF');</script>
+ 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-6105803162053224",
+        enable_page_level_ads: true
+    });
+</script>
+<section id="header-tools">
+<a href="http://www.cinemagay.it/" class="main-logo">
+<img src="http://www.cinemagay.it/wp-content/themes/cgtema/assets/logo/cinemagay-logo.svg">
+</a>
+<div id="user-header">
+<a href="http://www.cinemagay.it/login/" class="button tiny">Accedi</a>
+</div>
+</section>
+<div class="off-canvas-wrapper">
+<div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+<nav class="off-canvas position-left" id="mobile-menu" data-off-canvas data-position="left" role="navigation">
+<ul id="off-canvas-menu" class="main-menu-list"><li id="menu-item-121571" class="film menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-121571"><a href="http://www.cinemagay.it/film/">Film</a>
+<ul class="sub-menu">
+<li id="menu-item-133778" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133778"><a href="http://www.cinemagay.it/film/">Archivio film</a></li>
+<li id="menu-item-126315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126315"><a href="http://www.cinemagay.it/dvd/">DVD</a></li>
+<li id="menu-item-126316" class="menu-item menu-item-type-post_type_archive menu-item-object-box-office menu-item-126316"><a href="http://www.cinemagay.it/box-office/">Box Office</a></li>
+<li id="menu-item-132956" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132956"><a href="http://www.cinemagay.it/recensioni/">Recensioni</a></li>
+<li id="menu-item-133674" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133674"><a href="http://www.cinemagay.it/commenti/">Commenti</a></li>
+<li id="menu-item-126337" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126337"><a href="http://www.cinemagay.it/programmazione-tv-e-media/">In TV</a></li>
+<li id="menu-item-138755" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138755"><a href="http://www.cinemagay.it/netflix/film/">Film su Netflix</a></li>
+</ul>
+</li>
+<li id="menu-item-121570" class="serie-tv menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-121570"><a href="http://www.cinemagay.it/serie-tv/">Serie TV</a>
+<ul class="sub-menu">
+<li id="menu-item-133779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133779"><a href="http://www.cinemagay.it/serie-tv/">Archivio serie tv</a></li>
+<li id="menu-item-126317" class="menu-item menu-item-type-post_type_archive menu-item-object-ruolo-serie-tv menu-item-126317"><a href="http://www.cinemagay.it/ruolo-serie-tv/">Ruoli serie tv</a></li>
+<li id="menu-item-133777" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133777"><a href="http://www.cinemagay.it/programmazione-tv-e-media/">In TV</a></li>
+<li id="menu-item-138756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138756"><a href="http://www.cinemagay.it/netflix/serie-tv/">Serie TV su Netflix</a></li>
+</ul>
+</li>
+<li id="menu-item-126077" class="libri menu-item menu-item-type-post_type menu-item-object-page menu-item-126077"><a href="http://www.cinemagay.it/libri/">Libri</a></li>
+<li id="menu-item-109471" class="rassegna-stampa menu-item menu-item-type-post_type_archive menu-item-object-rassegna-stampa menu-item-109471"><a href="http://www.cinemagay.it/rassegna-stampa/">Rassegna stampa</a></li>
+<li id="menu-item-126860" class="magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-126860"><a href="http://www.cinemagay.it/news/">News</a>
+<ul class="sub-menu">
+<li id="menu-item-126330" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126330"><a href="http://www.cinemagay.it/biografie/">Biografie</a></li>
+<li id="menu-item-126331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126331"><a href="http://www.cinemagay.it/autori/">Autori</a></li>
+<li id="menu-item-126861" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-126861"><a href="http://www.cinemagay.it/eventi/">Fatti in evidenza</a></li>
+</ul>
+</li>
+<li id="menu-item-126075" class="festival menu-item menu-item-type-post_type menu-item-object-page menu-item-126075"><a href="http://www.cinemagay.it/festival/">Festival</a></li>
+</ul>
+<div id="user-header">
+<a href="http://www.cinemagay.it/login/" class="button tiny">Accedi</a>
+</div>
+</nav>
+<div class="off-canvas-content" data-off-canvas-content>
+<header id="masthead" class="site-header" role="banner">
+<div class="title-bar">
+<button class="hamburger hamburger--squeeze " type="button" aria-label="Menu" aria-controls="navigation" data-toggle="mobile-menu">
+<span class="hamburger-box">
+<span class="hamburger-inner"></span>
+</span>
+</button>
+<a href="http://www.cinemagay.it/" class="main-logo">
+<img src="http://www.cinemagay.it/wp-content/themes/cgtema/assets/logo/cinemagay-logo.svg">
+</a>
+</div>
+<nav id="site-navigation" class="main-navigation top-bar" role="navigation">
+<div class="menu-main-menu-container"><ul id="menu-main-menu" class="main-menu-list"><li class="film menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-121571"><a href="http://www.cinemagay.it/film/">Film</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133778"><a href="http://www.cinemagay.it/film/">Archivio film</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126315"><a href="http://www.cinemagay.it/dvd/">DVD</a></li>
+<li class="menu-item menu-item-type-post_type_archive menu-item-object-box-office menu-item-126316"><a href="http://www.cinemagay.it/box-office/">Box Office</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-132956"><a href="http://www.cinemagay.it/recensioni/">Recensioni</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133674"><a href="http://www.cinemagay.it/commenti/">Commenti</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126337"><a href="http://www.cinemagay.it/programmazione-tv-e-media/">In TV</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138755"><a href="http://www.cinemagay.it/netflix/film/">Film su Netflix</a></li>
+</ul>
+</li>
+<li class="serie-tv menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-121570"><a href="http://www.cinemagay.it/serie-tv/">Serie TV</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133779"><a href="http://www.cinemagay.it/serie-tv/">Archivio serie tv</a></li>
+<li class="menu-item menu-item-type-post_type_archive menu-item-object-ruolo-serie-tv menu-item-126317"><a href="http://www.cinemagay.it/ruolo-serie-tv/">Ruoli serie tv</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-133777"><a href="http://www.cinemagay.it/programmazione-tv-e-media/">In TV</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138756"><a href="http://www.cinemagay.it/netflix/serie-tv/">Serie TV su Netflix</a></li>
+</ul>
+</li>
+<li class="libri menu-item menu-item-type-post_type menu-item-object-page menu-item-126077"><a href="http://www.cinemagay.it/libri/">Libri</a></li>
+<li class="rassegna-stampa menu-item menu-item-type-post_type_archive menu-item-object-rassegna-stampa menu-item-109471"><a href="http://www.cinemagay.it/rassegna-stampa/">Rassegna stampa</a></li>
+<li class="magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-126860"><a href="http://www.cinemagay.it/news/">News</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126330"><a href="http://www.cinemagay.it/biografie/">Biografie</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-126331"><a href="http://www.cinemagay.it/autori/">Autori</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-126861"><a href="http://www.cinemagay.it/eventi/">Fatti in evidenza</a></li>
+</ul>
+</li>
+<li class="festival menu-item menu-item-type-post_type menu-item-object-page menu-item-126075"><a href="http://www.cinemagay.it/festival/">Festival</a></li>
+</ul></div>
+<div class="top-bar-right">
+</div>
+</nav>
+</header>
+<section class="container">
+<div id="leaderboard-banner" class="banner">
+ 
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6105803162053224" data-ad-slot="2875510794" data-ad-format="auto"></ins>
+<script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+</div>
+<div id="home">
+<div id="highlights">
+<h2>In evidenza</h2>
+<div class="container">
+<article class="highlight news position-0">
+<a title="A VENEZIA, MA FUORI CONCORSO, "L'ESTATE ADDOSSO", IL FILM GAY DI GABRIELE MUCCINO"
+                           href="http://www.cinemagay.it/film/lestate-addosso/">
+                            <img src="http://www.cinemagay.it/wp-content/uploads/2016/07/estate-addosso-00.jpg" alt="L&#8217;estate addosso">
+                        </a>
+                                        <header>
+                        <small><i class="focus film"></i> Film</small>, 
+                        <time datetime="2016-07-29 11:10">29/07/2016</time>
+                        <h3>
+
+                            <a title="A VENEZIA, MA FUORI CONCORSO, "L'ESTATE ADDOSSO", IL FILM GAY DI GABRIELE MUCCINO"
+                               href="http://www.cinemagay.it/film/lestate-addosso/">A VENEZIA, MA FUORI CONCORSO, "L'ESTATE ADDOSSO", IL FILM GAY DI GABRIELE MUCCINO</a></h3>
+                    </header>
+
+                    <p>Una coproduzione italo-americana che mette a confronto la cultura di due Paesi, Italia e USA, sulla tematica gay. Un viaggio alla scoperta della sessualità. Nelle sale italiane dal 15 settembre 2016</p>
+                                    </article>
+                                                <article class="highlight news position-1">
+                                            <a title=""Le ultime cose" di Irene Dionisio alla Mostra di Venezia 2016"
+                           href="http://www.cinemagay.it/film/le-ultime-cose/">
+                            <img src="http://www.cinemagay.it/wp-content/uploads/2016/06/ultime-cose.jpg" alt="Le ultime cose">
+                        </a>
+                                        <header>
+                        <small><i class="focus film"></i> Film</small>, 
+                        <time datetime="2016-07-26 10:11">26/07/2016</time>
+                        <h3>
+
+                            <a title=""Le ultime cose" di Irene Dionisio alla Mostra di Venezia 2016"
+                               href="http://www.cinemagay.it/film/le-ultime-cose/">"Le ultime cose" di Irene Dionisio alla Mostra di Venezia 2016</a></h3>
+                    </header>
+
+                    <p>Unico film italiano selezionato per la &#8220;Settimana Internazionale della Critica&#8221; della 73ma  Mostra del Cinema di Venezia, rassegna organizzata dal Sindacato Nazionale Critici Cinematografici Italiani. Nel film una delicata storia trans.</p>
+                                    </article>
+                                                <article class="highlight news position-2">
+                                            <a title="Film vincitore della 40ma edizione di Frameline, il festival LGBT più antico e famoso del mondo"
+                           href="http://www.cinemagay.it/film/jonathan/">
+                            <img src="http://www.cinemagay.it/wp-content/uploads/2016/07/jonathan-03.jpg" alt="Jonathan">
+                        </a>
+                                        <header>
+                        <small><i class="focus film"></i> Film</small>, 
+                        <time datetime="2016-07-22 10:42">22/07/2016</time>
+                        <h3>
+
+                            <a title="Film vincitore della 40ma edizione di Frameline, il festival LGBT più antico e famoso del mondo"
+                               href="http://www.cinemagay.it/film/jonathan/">Film vincitore della 40ma edizione di Frameline, il festival LGBT più antico e famoso del mondo</a></h3>
+                    </header>
+
+                    <p>&#8220;<strong>Jonathan</strong>&#8220;, del regista Piotr Lewandowski, ha vinto il premio della Giuria come miglior lungometraggio con questa motivazione: &#8220;<em>per la potenza con cui rappresenta la storia di un figlio che deve confrontarsi con segreti di famiglia e per la sua meticolosa fattura, con personaggi complessi e commoventi interpretazioni</em>&#8220;</p>
+                                    </article>
+                                                <article class="highlight news position-3">
+                                            <a title="Al Giffoni Film Festival un film che ci racconta una passione gay del tutto normale"
+                           href="http://www.cinemagay.it/film/center-of-my-world/">
+                            <img src="http://www.cinemagay.it/wp-content/uploads/2016/06/center-of-my-world-home.jpg" alt="Center of My World">
+                        </a>
+                                        <header>
+                        <small><i class="focus film"></i> Film</small>, 
+                        <time datetime="2016-07-21 11:34">21/07/2016</time>
+                        <h3>
+
+                            <a title="Al Giffoni Film Festival un film che ci racconta una passione gay del tutto normale"
+                               href="http://www.cinemagay.it/film/center-of-my-world/">Al Giffoni Film Festival un film che ci racconta una passione gay del tutto normale</a></h3>
+                    </header>
+
+                    <p>Scene di sesso spinte ed appassionate nello splendido film &#8220;Center of My World&#8221;, la storia di un viaggio verso la maturità di un giovane gay senza problemi  con la propria identità</p>
+                                    </article>
+                                                <article class="highlight news position-4">
+                                            <a title="In concorso al Giffoni Film Festival un film in difesa della famiglia omosessuale"
+                           href="http://www.cinemagay.it/film/rara/">
+                            <img src="http://www.cinemagay.it/wp-content/uploads/2016/07/rara-05.jpg" alt="Rara">
+                        </a>
+                                        <header>
+                        <small><i class="focus film"></i> Film</small>, 
+                        <time datetime="2016-07-20 10:29">20/07/2016</time>
+                        <h3>
+
+                            <a title="In concorso al Giffoni Film Festival un film in difesa della famiglia omosessuale"
+                               href="http://www.cinemagay.it/film/rara/">In concorso al Giffoni Film Festival un film in difesa della famiglia omosessuale</a></h3>
+                    </header>
+
+                    <p>&#8220;Rara&#8221;, della cilena Pepa San Martìn, già vincitore alla Berlinale 2016 e al festival di San Sebastian, ci racconta la storia vera di una coppia di lesbiche per la custodia delle due figlie avute da un precedente matrimonio. La battaglia si concluse con le raccomandazioni della Corte Interamericana dei diritti umani (IACHR) contro la stato del Cile.</p>
+                                    </article>
+                                                <article class="highlight news position-5">
+                                            <a title="Per la prima volta un personaggio omosessuale nella saga di Star Trek."
+                           href="http://www.cinemagay.it/news/2016/07/17/la-volta-un-personaggio-omosessuale-nella-saga-star-trek-lattore-gay-george-takei-passato-interpretato-lo-personaggio-si-dichiara-perplesso/">
+                            <img src="http://www.cinemagay.it/wp-content/uploads/2016/06/360717-star-trek-gay2.jpg" alt="Per la prima volta un personaggio omosessuale nella saga di Star Trek. L&#8217;attore gay George Takei, che in passato aveva interpretato lo stesso personaggio, si dichiara perplesso.">
+                        </a>
+                                        <header>
+                        <small><i class="focus news"></i> News</small>, 
+                        <time datetime="2016-07-17 16:11">17/07/2016</time>
+                        <h3>
+
+                            <a title="Per la prima volta un personaggio omosessuale nella saga di Star Trek."
+                               href="http://www.cinemagay.it/news/2016/07/17/la-volta-un-personaggio-omosessuale-nella-saga-star-trek-lattore-gay-george-takei-passato-interpretato-lo-personaggio-si-dichiara-perplesso/">Per la prima volta un personaggio omosessuale nella saga di Star Trek.</a></h3>
+                    </header>
+
+                    <p>L&#8217;attore gay George Takei, che in passato aveva interpretato lo stesso personaggio, si dichiara perplesso, in quanto avrebbe preferito un nuovo personaggio come gay, che invece così  sembra che finora sia stato un velato.</p>
+                                    </article>
+                        </div>
+    </div>
+    <aside>
+        <section id="prime-visioni">
+    <h2>Prime Visioni</h2>
+            
+
+<article class="archive-module film">
+                <a class="cover" title="Star Trek Beyond" href="http://www.cinemagay.it/film/star-trek-beyond/">
+            <img width="640" height="960" alt="Star Trek Beyond" src="http://www.cinemagay.it/wp-content/uploads/2016/07/star-trek-beyond-cover.jpg">
+        </a>
+        <h3>
+        <a title="Star Trek Beyond" href="http://www.cinemagay.it/film/star-trek-beyond/">Star Trek Beyond        </a>              dal <strong>21/07/2016</strong>
+                            <small>di <a title="Justin Lin" href="http://www.cinemagay.it/autori/justin-lin/">Justin Lin</a></small>
+        
+    </h3>
+    <ul class="info">
+                    <li>
+                <a class="tendenza label small" title="Tendenza LGBT: G"  href="http://www.cinemagay.it/film/tendenza/g/">
+                    G                </a>
+            </li>
+            </ul>
+    <ul class="rating stars" title="Voto della redazione: 2.5/5" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+    <meta itemprop="ratingValue" content="2.5">
+    <meta itemprop="bestRating" content="5">
+                        <li><i class="fa fa-star"></i></li>
+                                                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star-half-o"></i></li>
+                                                            <li><i class="fa fa-star-o"></i></li>
+                                <li><i class="fa fa-star-o"></i></li>
+            </ul>    <div class="clearfix"></div>
+</article>
+
+            
+
+<article class="archive-module film">
+                <a class="cover" title="Tom à la ferme" href="http://www.cinemagay.it/film/tom-a-la-ferme/">
+            <img width="640" height="960" alt="Tom à la ferme" src="http://www.cinemagay.it/wp-content/uploads/2014/04/tom-a-la-ferme-cover.jpg">
+        </a>
+        <h3>
+        <a title="Tom à la ferme" href="http://www.cinemagay.it/film/tom-a-la-ferme/">Tom à la ferme        </a>              dal <strong>06/07/2016</strong>
+                            <small>di <a title="Xavier Dolan" href="http://www.cinemagay.it/autori/xavier-dolan/">Xavier Dolan</a></small>
+        
+    </h3>
+    <ul class="info">
+                    <li>
+                <a class="tendenza label small" title="Tendenza LGBT: GGG"  href="http://www.cinemagay.it/film/tendenza/ggg/">
+                    GGG                </a>
+            </li>
+            </ul>
+    <ul class="rating stars" title="Voto della redazione: 2.5/5" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+    <meta itemprop="ratingValue" content="2.5">
+    <meta itemprop="bestRating" content="5">
+                        <li><i class="fa fa-star"></i></li>
+                                                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star-half-o"></i></li>
+                                                            <li><i class="fa fa-star-o"></i></li>
+                                <li><i class="fa fa-star-o"></i></li>
+            </ul>    <div class="clearfix"></div>
+</article>
+
+            
+
+<article class="archive-module film">
+                <a class="cover" title="Porno &#038; Libertà" href="http://www.cinemagay.it/film/porno-liberta/">
+            <img width="640" height="960" alt="Porno &#038; Libertà" src="http://www.cinemagay.it/wp-content/uploads/2016/06/porno-e-liberta-cover.jpg">
+        </a>
+        <h3>
+        <a title="Porno &#038; Libertà" href="http://www.cinemagay.it/film/porno-liberta/">Porno &#038; Libertà        </a>              dal <strong>30/06/2016</strong>
+                            <small>di <a title="Carmine Amoroso" href="http://www.cinemagay.it/autori/carmine-amoroso/">Carmine Amoroso</a></small>
+        
+    </h3>
+    <ul class="info">
+                    <li>
+                <a class="tendenza label small" title="Tendenza LGBT: Q"  href="http://www.cinemagay.it/film/tendenza/q/">
+                    Q                </a>
+            </li>
+            </ul>
+    <ul class="rating stars" title="Voto della redazione: 2/5" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+    <meta itemprop="ratingValue" content="2">
+    <meta itemprop="bestRating" content="5">
+                        <li><i class="fa fa-star"></i></li>
+                                                <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star-o"></i></li>
+                                <li><i class="fa fa-star-o"></i></li>
+                                <li><i class="fa fa-star-o"></i></li>
+            </ul>    <div class="clearfix"></div>
+</article>
+
+            
+
+<article class="archive-module film">
+                <a class="cover" title="Cattivi vicini 2" href="http://www.cinemagay.it/film/cattivi-vicini-2/">
+            <img width="640" height="960" alt="Cattivi vicini 2" src="http://www.cinemagay.it/wp-content/uploads/2016/06/cattivi-vicini2.jpg">
+        </a>
+        <h3>
+        <a title="Cattivi vicini 2" href="http://www.cinemagay.it/film/cattivi-vicini-2/">Cattivi vicini 2        </a>              dal <strong>30/06/2016</strong>
+                            <small>di <a title="Nicholas Stoller" href="http://www.cinemagay.it/autori/nicholas-stoller/">Nicholas Stoller</a></small>
+        
+    </h3>
+    <ul class="info">
+                    <li>
+                <a class="tendenza label small" title="Tendenza LGBT: G"  href="http://www.cinemagay.it/film/tendenza/g/">
+                    G                </a>
+            </li>
+            </ul>
+    <ul class="rating stars" title="Voto della redazione: 1.5/5" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+    <meta itemprop="ratingValue" content="1.5">
+    <meta itemprop="bestRating" content="5">
+                                        <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star-half-o"></i></li>
+                                                            <li><i class="fa fa-star-o"></i></li>
+                                <li><i class="fa fa-star-o"></i></li>
+                                <li><i class="fa fa-star-o"></i></li>
+            </ul>    <div class="clearfix"></div>
+</article>
+
+            
+
+<article class="archive-module film">
+                <a class="cover" title="Laurence Anyways" href="http://www.cinemagay.it/film/laurence-anyways/">
+            <img width="640" height="960" alt="Laurence Anyways" src="http://www.cinemagay.it/wp-content/uploads/2014/04/laurence-anyways-1.jpg">
+        </a>
+        <h3>
+        <a title="Laurence Anyways" href="http://www.cinemagay.it/film/laurence-anyways/">Laurence Anyways        </a>              dal <strong>16/06/2016</strong>
+                            <small>di <a title="Xavier Dolan" href="http://www.cinemagay.it/autori/xavier-dolan/">Xavier Dolan</a></small>
+        
+    </h3>
+    <ul class="info">
+                    <li>
+                <a class="tendenza label small" title="Tendenza LGBT: TTT"  href="http://www.cinemagay.it/film/tendenza/ttt/">
+                    TTT                </a>
+            </li>
+            </ul>
+    <ul class="rating stars" title="Voto della redazione: 2.5/5" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+    <meta itemprop="ratingValue" content="2.5">
+    <meta itemprop="bestRating" content="5">
+                        <li><i class="fa fa-star"></i></li>
+                                                <li><i class="fa fa-star"></i></li>
+                <li><i class="fa fa-star-half-o"></i></li>
+                                                            <li><i class="fa fa-star-o"></i></li>
+                                <li><i class="fa fa-star-o"></i></li>
+            </ul>    <div class="clearfix"></div>
+</article>
+
+    
+</section>
+        
+    </aside>
+</div>
+<div id="footer-banner" class="banner">
+    <!-- CG Before Footer -->
+    <ins class="adsbygoogle"
+         style="display:block"
+         data-ad-client="ca-pub-6105803162053224"
+         data-ad-slot="1979030394"
+         data-ad-format="auto"></ins>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
+
+</div>
+		</section>
+		<div id="footer-container">
+			<footer id="footer">
+				
+					<div class="contacts">
+                        <a href="http://www.cinemagay.it/" class="main-logo">
+                            <img src="http://www.cinemagay.it/wp-content/themes/cgtema/assets/logo/cinemagay-logo.svg">
+                        </a>
+                        <div id="made-with-love" title="Made with love">
+                            <img src="http://www.cinemagay.it/wp-content/themes/cgtema/assets/images/icons/heart_footer.svg">
+                        </div>
+                    
+                </div>
+                <div class="navigation">
+                    <div class="menu-main-menu-container"><ul id="menu-main-menu-1" class="menu"><li class="film menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-121571"><a href="http://www.cinemagay.it/film/">Film</a></li>
+<li class="serie-tv menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-121570"><a href="http://www.cinemagay.it/serie-tv/">Serie TV</a></li>
+<li class="libri menu-item menu-item-type-post_type menu-item-object-page menu-item-126077"><a href="http://www.cinemagay.it/libri/">Libri</a></li>
+<li class="rassegna-stampa menu-item menu-item-type-post_type_archive menu-item-object-rassegna-stampa menu-item-109471"><a href="http://www.cinemagay.it/rassegna-stampa/">Rassegna stampa</a></li>
+<li class="magazine menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-126860"><a href="http://www.cinemagay.it/news/">News</a></li>
+<li class="festival menu-item menu-item-type-post_type menu-item-object-page menu-item-126075"><a href="http://www.cinemagay.it/festival/">Festival</a></li>
+</ul></div>
+                    <article id="text-2" class="widget widget_text">			<div class="textwidget">E' consentita la riproduzione del materiale originale del sito, purchè ne venga citata la fonte e l'autore </div>
+		</article>                    <a href="http://www.cinemagay.it/contattaci/" class="button">Contattaci</a>
+                </div>
+
+							</footer>
+		</div>
+
+		
+		</div><!-- Close off-canvas wrapper inner -->
+	</div><!-- Close off-canvas wrapper -->
+</div><!-- Close off-canvas content wrapper -->
+<div class="reveal" id="ajax-reveal" data-reset-on-close="true" data-reveal data-v-offset="20">
+    <div class="content"></div>
+    <button class="close-button" data-close aria-label="Close modal" type="button">
+        <span aria-hidden="true">&times;</span>
+    </button>
+</div>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var Calls = {"url":"http:\/\/www.cinemagay.it\/ajax\/","theme":"http:\/\/www.cinemagay.it\/wp-content\/themes\/cgtema","site_url":"http:\/\/www.cinemagay.it","ajax_calls_security":"8007dc3d2f"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.cinemagay.it/wp-content/themes/cgtema/assets/javascript/foundation.js?ver=fe292ca1f34c52d7088547635c6213f6'></script>
+
+</body>
+</html>
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced (Requested URI is rejected)
+
+ Served from: www.cinemagay.it @ 2016-07-29 23:23:05 by W3 Total Cache -->

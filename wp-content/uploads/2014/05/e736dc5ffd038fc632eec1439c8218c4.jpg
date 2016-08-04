@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE; IE=9; IE=8; IE=7" />
+
+<meta name="google-site-verification" content="" />
+<meta name="msvalidate.01" content="" />
+<meta name="y_key" content="" />
+<title>Covenant Church Of Naples | PCA - Naples, FL</title>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="shortcut icon" type="image/x-icon" href="/_wss/clients/147/favicon.ico" />
+<link rel="canonical" href="http://www.covenantnaples.com/" /><script type="text/javascript" src="//sswd-cdn-sarasotawebdesig.netdna-ssl.com/js/jquery.1.9.js"></script>
+<!-- Twitter Bootstrap Framework -->
+<script type="text/javascript" src="//sswd-cdn-sarasotawebdesig.netdna-ssl.com/js/bootstrap/js/bootstrap.min.js"></script>
+<link href="//sswd-cdn-sarasotawebdesig.netdna-ssl.com/js/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="//sswd-cdn-sarasotawebdesig.netdna-ssl.com/js/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet" type="text/css" media="screen" />
+
+
+<script type="text/javascript" src="//sswd-cdn-sarasotawebdesig.netdna-ssl.com/js/scripts.js"></script>
+<link href="//sswd-cdn-sarasotawebdesig.netdna-ssl.com/css/common.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/_wss/clients/147/css/style.css?v=12" rel="stylesheet" type="text/css" media="screen" />
+<link href="/_wss/clients/147/css/menu.css?v=12" rel="stylesheet" type="text/css" media="screen" />
+<link href="/_wss/clients/147/css/page_2045.css?v=12" rel="stylesheet" type="text/css" media="screen" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-31653647-38', 'www.covenantnaples.com');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+</script>
+<link href="/_wss/js/jquery-ui/css/smoothness/jquery-ui-1.10.3.custom.css" rel="stylesheet">
+<script src="/_wss/js/jquery-ui/jquery-ui-1.10.3.min.js"></script>
+<!-- Add mousewheel plugin (this is optional) -->
+<script type="text/javascript" src="//sswd-cdn-sarasotawebdesig.netdna-ssl.com/js/fancybox/v2/jquery.mousewheel-3.0.6.pack.js"></script>
+
+<!-- Add fancyBox -->
+<link rel="stylesheet" href="//sswd-cdn-sarasotawebdesig.netdna-ssl.com/js/fancybox/v2/jquery.fancybox.css" type="text/css" media="screen" />
+<script type="text/javascript" src="//sswd-cdn-sarasotawebdesig.netdna-ssl.com/js/fancybox/v2/jquery.fancybox.pack.js"></script>
+
+<!-- Optionally add helpers - button, thumbnail and/or media -->
+<link rel="stylesheet" href="//sswd-cdn-sarasotawebdesig.netdna-ssl.com/js/fancybox/v2/helpers/jquery.fancybox-buttons.css" type="text/css" media="screen" />
+<script type="text/javascript" src="//sswd-cdn-sarasotawebdesig.netdna-ssl.com/js/fancybox/v2/helpers/jquery.fancybox-buttons.js"></script>
+<script type="text/javascript" src="//sswd-cdn-sarasotawebdesig.netdna-ssl.com/js/fancybox/v2/helpers/jquery.fancybox-media.js"></script>
+
+<link rel="stylesheet" href="//sswd-cdn-sarasotawebdesig.netdna-ssl.com/js/fancybox/v2/helpers/jquery.fancybox-thumbs.css" type="text/css" media="screen" />
+<script type="text/javascript" src="//sswd-cdn-sarasotawebdesig.netdna-ssl.com/js/fancybox/v2/helpers/jquery.fancybox-thumbs.js"></script>
+<script type="text/javascript" src="//sswd-cdn-sarasotawebdesig.netdna-ssl.com/js/fancybox/v2/fancyboxinit.js"></script>
+
+
+</head>
+<body class="body">
+	<div id="downBox">
+		<div id="mapDown">
+			<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d57263.30248926104!2d-81.801281!3d26.230606!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88dae1e625d8366d%3A0x1532debe36e851a3!2sCovenant+Presbyterian+Church+of+Naples!5e0!3m2!1sen!2sus!4v1431955897509" width="100%" height="600" frameborder="0" style="border:0"></iframe>
+		</div>
+		<div id="messageDown">messages</div>
+	</div>
+	<div id="contentWrapper">
+		
+		
+		<div id="preheader">
+			<div class="container">
+				<a href="/"><img src="/_wss/clients/147/images/logo_w_addr.png" id="logo"/></a>
+				<!--
+				<div id="cityLink">
+					<a href="#"><img src="/_wss/clients/147/images/logo_the_city.png"/></a>
+				</div>
+				-->
+				<div id="search">
+					<form id="site_search" name="site_search" method="get" action="/site-search/">
+					<input id="searchbar_query" type="text" name="query" value="" placeholder="site search..." />
+					<input type="hidden" name="search" value="1"/> 
+					<a href="javascript:{}" onClick="document.site_search.submit()" id="searchbar_submit"></a>
+					</form>
+				</div>	
+				<div id="messageBtn" class="headerBtn">
+					<p>online sermons</p>
+					<img src="/_wss/clients/147/images/messages.png" id="messageIcon">
+				</div>
+				<div id="mapBtn" class="headerBtn">
+					<p>map &amp; directions</p>
+					<img src="/_wss/clients/147/images/mapIcon.png" id="mapIcon">
+				</div>
+				<a id="mobile-nav-button" href="javascript:{}" onClick="$('#catnav').slideToggle('fast')"></a>
+				<table id="worshipTimes">
+<tbody>
+<tr>
+<td style="text-align: right;">
+<pre><span style="font-family: 'book antiqua', palatino; font-size: 10px;"><small>Sunday Worship Times: 9:00 AM &amp; 11:00 AM</small></span></pre>
+</td>
+</tr>
+</tbody>
+</table>						
+				
+			</div>
+		</div>
+				
+		
+		<div id="header_navigation">
+			<div class="container"> 
+				
+				
+				<div id="catnav">
+					<ul id="nav">
+						
+								            	<li class="sub-menu"><a href="/About">About<span></span></a>
+		                			            		<ul class="submenu">
+		            				            		<li><a  href="/Vision-and-Mission">Vision And Mission</a>
+		            					            		</li>
+		            				            		<li><a  href="/What-We-Believe">What We Believe</a>
+		            					            		</li>
+		            				            		<li><a  href="/Contact-Us">Contact Us</a>
+		            					            		</li>
+		            				            		<li><a  href="/Leadership">Leadership<span>&raquo;</span></a>
+		            						            		<ul class="submenu submenu2">
+			            					            		<li><a href="/Pastors">Pastors</a>
+			            		
+			            		</li>
+			            					            		<li><a href="/Elders">Elders And Deacons</a>
+			            		
+			            		</li>
+			            					            		<li><a href="/Program-Staff">Program Staff</a>
+			            		
+			            		</li>
+			            					            		<li><a href="/Administrative-Staff">Administrative Staff</a>
+			            		
+			            		</li>
+			            					            		</ul>
+			            				            		</li>
+		            				            		</ul>
+		            				            	</li>	
+		            			            	<li class="sub-menu"><a href="/New-To-Covenant">I'm New<span></span></a>
+		                			            		<ul class="submenu">
+		            				            		<li><a  href="/Pastors-Welcome">Pastor's Welcome</a>
+		            					            		</li>
+		            				            		<li><a  href="/Sermon-Series">Sermon Series</a>
+		            					            		</li>
+		            				            		<li><a  href="/im-new/becoming-a-member">Becoming A Member</a>
+		            					            		</li>
+		            				            		</ul>
+		            				            	</li>	
+		            			            	<li class="sub-menu"><a href="/Children-Students">Children/Students<span></span></a>
+		                			            		<ul class="submenu">
+		            				            		<li><a  href="/Children-Ministries">Children<span>&raquo;</span></a>
+		            						            		<ul class="submenu submenu2">
+			            					            		</ul>
+			            				            		</li>
+		            				            		<li><a  href="/Student-Ministries">Students<span>&raquo;</span></a>
+		            						            		<ul class="submenu submenu2">
+			            					            		</ul>
+			            				            		</li>
+		            				            		</ul>
+		            				            	</li>	
+		            			            	<li class="sub-menu"><a href="/Ministries">Adults<span></span></a>
+		                			            		<ul class="submenu">
+		            				            		<li><a  href="/Sunday-Adult-Fellowship-Communities">Adult Fellowship Communities [Sunday]</a>
+		            					            		</li>
+		            				            		<li><a  href="/Care-Ministries">Congregational Care</a>
+		            					            		</li>
+		            				            		<li><a  href="/ESL-Course">English as a Second Language</a>
+		            					            		</li>
+		            				            		<li><a  href="/Midweek-Connection1">Midweek Connection [Dinner & Discipleship]</a>
+		            					            		</li>
+		            				            		<li><a  href="/Mens-Ministries">Men</a>
+		            					            		</li>
+		            				            		<li><a  href="/Women-Ministries">Women</a>
+		            					            		</li>
+		            				            		<li><a  href="/Small-Groups">Small Groups [In the Community]</a>
+		            					            		</li>
+		            				            		<li><a  href="/Worship-and-Music">Worship, Music and Production</a>
+		            					            		</li>
+		            				            		</ul>
+		            				            	</li>	
+		            			            	<li class="sub-menu"><a href="/Missions">Missions<span></span></a>
+		                			            		<ul class="submenu">
+		            				            		<li><a  href="/Missionaries-We-Support">Missionaries We Support</a>
+		            					            		</li>
+		            				            		<li><a  href="/Giving-To-Missions">Give: Faith Promise Pledge</a>
+		            					            		</li>
+		            				            		</ul>
+		            				            	</li>	
+		            			            	<li class="sub-menu"><a href="/Get-Connected">Get Connected<span></span></a>
+		                			            		<ul class="submenu">
+		            				            		<li><a  href="/Upcoming-Events">Event Calendar</a>
+		            					            		</li>
+		            				            		<li><a  href="/Family-Information-Form">Family Information Form</a>
+		            					            		</li>
+		            				            		<li><a  href="/Prayer">Prayer</a>
+		            					            		</li>
+		            				            		<li><a  href="/Join-A-Small-Group">Join a Small Group or Bible Study</a>
+		            					            		</li>
+		            				            		<li><a  href="/Serving-Opportunities">Serving Opportunities</a>
+		            					            		</li>
+		            				            		</ul>
+		            				            	</li>	
+		            						</ul>
+				</div>		
+			</div>	
+		</div>
+				<div id="header_image" style="background-image:url(/_wss/clients/147/assets/2045/building-exterior.jpg);">
+		</div>	
+			
+<div class="container homepage">
+	<div class="row">
+		<div class="span12 homeHeading">
+			<h1>Welcome To Covenant Church Of Naples | PCA</h1>
+			<p>We will develop and deploy fully devoted followers of Jesus Christ to disciple our family, community, and world.</p><hr/>
+			<!--<a id="allEvents" href="/Upcoming-Events"><img src="/_wss/clients/147/images/allEvents.png"></a>-->
+		</div>
+	</div>
+	<!--
+	<div class="row hp_icons">
+		<div class="span3">
+			<a href="#"><img src="/_wss/clients/147/images/missions_icontmp.png"/></a>
+		</div>
+		<div class="span3">
+			<a href="#"><img src="/_wss/clients/147/images/missions_icontmp.png"/></a>
+		</div>
+		<div class="span3">
+			<a href="#"><img src="/_wss/clients/147/images/missions_icontmp.png"/></a>
+		</div>
+		<div class="span3">
+			<a href="#"><img src="/_wss/clients/147/images/missions_icontmp.png"/></a>
+		</div>
+		
+	</div>
+	<hr/>
+	-->
+	
+	<div class="row">
+		<div class="span3 latest_sermon">
+						<a class="latest_cm" href="/_wss/clients/147/news_feed/20160628095743728.pdf" target="_blank">Latest Covenant Monthly</a>
+			<div class="latestWrapper">
+				<a href="/Sermon-Series" class="back" style="background-image:url('/_images/media/4357 churches.png?w=400')">
+					<h3>This Week's Sermon</h3>
+					<h4>PERGAMUM: Compromise</h4>
+				</a>
+			</div>
+		</div>
+		<div class="span6">
+			<div id="hp_sliders">
+												<div id="slider_0" style="background-image:url('/_wss/clients/147/assets/c147_flash_images/20160724185723408.jpg')"></div>
+																				<div id="slider_1" style="background-image:url('/_wss/clients/147/assets/c147_flash_images/20160722205431126.jpg')"></div>
+																				<div id="slider_2" style="background-image:url('/_wss/clients/147/assets/c147_flash_images/20160721141032956.jpg')"></div>
+																				<div id="slider_3" style="background-image:url('/_wss/clients/147/assets/c147_flash_images/20160622174823804.jpg')"></div>
+																				<div id="slider_4" style="background-image:url('/_wss/clients/147/assets/c147_flash_images/20160722205834270.jpg')"></div>
+																				<div id="slider_5" style="background-image:url('/_wss/clients/147/assets/c147_flash_images/20160721141205778.jpg')"></div>
+																				<div id="slider_6" style="background-image:url('/_wss/clients/147/assets/c147_flash_images/20160722204505287.jpg')"></div>
+																				<div id="slider_7" style="background-image:url('/_wss/clients/147/assets/c147_flash_images/20160722205951749.jpg')"></div>
+																<a href="javascript:;" id="scroll_left"></a>
+				<a href="javascript:;" id="scroll_right"></a>
+			</div>		
+		</div>
+		<div class="span3">
+			<div id="hp_events">
+				<h3>Upcoming Events</h3>
+				<table width="100%">
+									<tr>
+						<td valign="top" style="padding:8px 0 "><div class="event_date">Jul 27<span>2016</span></div></td>
+						<td valign="top"><h6><a href="javascript:{loadFancyBox('/_appajax/event_calendar/ajax/eventDetails?event_id=1571')}">English as a Second Language</a></h6><p>English not your first language? Join us on Wednesday nights...</p></td>
+					</tr>
+										<tr>
+						<td colspan="2"><hr/></td>
+					</tr>		
+										<tr>
+						<td valign="top" style="padding:8px 0 "><div class="event_date">Jul 28<span>2016</span></div></td>
+						<td valign="top"><h6><a href="javascript:{loadFancyBox('/_appajax/event_calendar/ajax/eventDetails?event_id=1544')}">Study of the Scripture [Women]</a></h6><p>Women's weekly Bible study led by Mary Ann Lee.</p></td>
+					</tr>
+										<tr>
+						<td colspan="2"><hr/></td>
+					</tr>		
+										<tr>
+						<td valign="top" style="padding:8px 0 "><div class="event_date">Jul 28<span>2016</span></div></td>
+						<td valign="top"><h6><a href="javascript:{loadFancyBox('/_appajax/event_calendar/ajax/eventDetails?event_id=1545')}">Praying Women</a></h6><p>Women meeting for prayer </p></td>
+					</tr>
+										<tr>
+						<td colspan="2"><a class="view_all" href="/Upcoming-Events">View All Events &raquo;</a></td>
+					</tr>	
+				</table>
+			</div>
+		</div>	
+	</div>
+</div>
+<script type="text/javascript">
+<!--
+var currcallout = 0;
+var sctimer = false;
+function switchCallout(idx) {
+	if(sctimer) clearTimeout(sctimer);
+	if(idx>=8) idx = 0;
+	if(idx==-1) idx = 8-1;
+	currcallout = idx;
+	$('#hp_sliders div').fadeOut('fast');
+	$('#slider_'+idx).fadeIn(1200);
+	$('#hp_sliders span').removeClass('vis');
+	$('#title_'+idx).addClass('vis');
+	sctimer = setTimeout("switchCallout("+(currcallout+1)+")",6000);
+}
+$(function() {
+	switchCallout(0);
+	$('#scroll_left').click(function() {
+		switchCallout(currcallout-1);
+	});
+	$('#scroll_right').click(function() {
+		switchCallout(currcallout+1);	
+	});	
+});
+function sm_switchCallout(idx) {
+	if(sctimer) clearTimeout(sctimer);
+	if(idx==0) idx = 0;
+	if(idx==-1) idx = 0-1;
+	currcallout = idx;
+	$('#sm_hp_sliders div').fadeOut('fast');
+	$('#sm_slider_'+idx).fadeIn(1200);
+	$('#sm_hp_sliders span').removeClass('vis');
+	$('#sm_title_'+idx).addClass('vis');
+	sctimer = setTimeout("sm_switchCallout("+(currcallout+1)+")",6000);
+}
+$(function() {
+	sm_switchCallout(0);
+	$('#sm_scroll_left').click(function() {
+		sm_switchCallout(currcallout-1);	
+	});	
+	$('#sm_scroll_right').click(function() {
+		sm_switchCallout(currcallout+1);	
+	});	
+});
+-->
+</script>	
+	<div id="prefooter">
+		<div class="container">
+			<div class="row">
+				<div class="span5">
+					<p id="leftText"><strong>Our Vision</strong>
+					<br/>
+					A loving family, dependent on the Holy Spirit, committed to the Word, growing in grace, reaching out in mercy.
+					<br/><br/>
+					<strong>Our Mission</strong>
+					<br/>
+					We will develop and deploy fully devoted followers of Jesus Christ to disciple our family, community, and world.
+					<br/><br/>
+					<strong><a href="http://www.pcanet.org/" target="_blank">A member of the Presbyterian Church In America</a></strong>
+					</p>
+				</div>
+				<div class="span2">
+					<p style="text-align:center;"><img src="/_wss/clients/147/images/footerLogo.png"></p>
+				</div>
+				<div class="span5">
+					<h4>Join The Covenant Email List</h4>
+					<p><small><i>Enter your email address to subscribe to our newsletter</i></small></p>
+					<!-- BEGIN: Constant Contact Email List Form Button --><div><a class="fancybox fancybox.iframe" href="http://visitor.r20.constantcontact.com/d.jsp?llr=vrxo4soab&p=oi&m=1115180981813&sit=wli7vmgib&f=ae08c473-2bba-477f-bc75-813457559394" class="button" style="border: 1px solid rgb(91, 91, 91); color: rgb(93, 118, 120); display: inline-block; padding: 8px 10px; text-shadow: none; border-radius: 0px; background-color: rgb(232, 232, 232);">Sign Up for Email Updates</a><!-- BEGIN: Email Marketing you can trust --><div id="ctct_button_footer" align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:10px;color:#999999;margin-top: 10px;">For Email Marketing you can trust.</div></div>
+									</div>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		<div class="container">
+			<div class="row" id="footerX4">
+				<div class="span3 linkList">
+					<img src="/_wss/clients/147/images/footerCross.png" class="footerDeco">
+					<h2>Ministry Areas</h2>
+					<div id="global_footer1"><p><a href="/Children-Ministries">Children's Ministry</a></p>
+<p><a href="/Care-Ministries">Congregational Care</a></p>
+<p><a href="/Serving-Opportunities">Serve Opportunities</a></p></div>				</div>
+				<div class="span3 linkList">
+					<img src="/_wss/clients/147/images/footerLink.png" class="footerDeco">
+					<h2>Quick Links</h2>
+					<div id="global_footer2"><p><a href="/Upcoming-Events">Event Calendar</a></p></div>					
+				</div>
+				<div class="span3 linkList">
+					<img src="/_wss/clients/147/images/footerBook.png" class="footerDeco">
+					<h2>Resources</h2>
+					<div id="global_footer3"></div>				</div>
+				<div class="span3">
+					<h2>Stay Connected</h2>
+                    <div id="connect">
+					<a target="_blank" href="http://facebook.com/CovenantChurchOfNaplesPca" class="facebook socialLinks" title="Facebook Link"></a>
+					<a target="_blank" href="http://twitter.com/covenantnaples" class="twitter socialLinks" title="Twitter Link"></a>
+					<a target="_blank" href="http://vimeo.com/covenantnaples" class="vimeo socialLinks" title="Vimeo Link"></a>
+					<a target="_blank" href="javascript:{}" onClick="loadSharePage()" class="shareThis" title="Share this with a friend"></a>
+                    </div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="span12">
+					<hr>
+					<p style="text-align:center;color:#999;font-size:12px;font-family:'Droid Sans';padding:10px 20px 30px 20px">
+						all material &copy;2016 Covenant Church of Naples | PCA, All Rights Reserved. | Site design and hosting by <a style="color:#999" href="http://www.sarasotawebdesign.com" target="_blank">Sarasota Web Design</a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- MOBILE MENU SCRIPTS AND INIT -->
+<script type="text/javascript" src="/_wss/js/responsiveMenu/modernizr.custom.js"></script>
+<script type="text/javascript" src="/_wss/js/responsiveMenu/jquery.dlmenu.js"></script>
+<script>$(function() {$( '#dl-menu' ).dlmenu({animationClasses : { classin : 'dl-animate-in-2', classout : 'dl-animate-out-2' }});});</script>
+<script type="text/javascript">
+	$('#mapBtn').click(function(){
+		location.href="/New-To-Covenant";
+		/*
+		$('#mapDown').toggleClass('showMe');
+		$('#contentWrapper').toggleClass('moveMeMap');
+		$('#contentWrapper').removeClass('moveMeMes');
+		$('#messageDown').removeClass('showMe');
+		*/
+	});
+	$('#messageBtn').click(function(){
+		location.href="/Sermon-Series";
+		/*
+		$('#messageDown').toggleClass('showMe');
+		$('#contentWrapper').toggleClass('moveMeMes');
+		$('#contentWrapper').removeClass('moveMeMap');
+		$('#mapDown').removeClass('showMe');
+		*/
+	});
+	
+	$(function() {
+		$("#main_content img").each(function() {  
+		   var imfl = $(this).css('float');
+		   if(imfl=='right') {
+			   $(this).addClass('fright');
+			   $(this).attr('style','');
+		   }
+		   else if(imfl=='left') {
+			   $(this).addClass('fleft');
+			   $(this).attr('style','');
+		   }
+		  
+		 });	
+	});
+	
+	function nlSubmit() {
+		$.post("/_ajax/handler?dowhat=nl_submit", $('#nl_signup').serializeArray(),
+			function(data) {
+				eval(data);
+			});	
+	}
+</script>
+<div id="ui_dialog" style="display:none"></div>
+</body>
+
+</html>
+<!--home-->
