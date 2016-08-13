@@ -786,7 +786,7 @@ a:active {
 --------------------------------------------------------------*/
 /* Main site navigation */
 .main-navigation {
-	/*border-top: solid #d9d9d9 1px;*/
+	border-top: solid #d9d9d9 1px;
 	clear: both;
 	display: block;
 	font-family: "Open Sans", Arial, sans-serif;
@@ -2611,9 +2611,7 @@ Primarily mobile devices and super-small tablets.
 
 	/* Center-align site branding and logo */
 	.site-branding {
-		/*text-align: center;*/
-		text-align: left;
-   		width: 100%;
+		text-align: center;
 	}
 
 	.site-logo {
