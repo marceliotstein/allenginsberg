@@ -51,19 +51,20 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 .entry-footer a[rel="tag"],
 .entry-footer a[rel="category tag"],
 #infinite-handle span {
-	background: #117bb8;
-	color: #fff;
+	background: #ffffff;
+	color: #000;
 	display: inline-block;
-	font-family: "Open Sans", Arial, sans-serif;
-	font-size: 12px;
-	font-size: 1.2rem;
-	font-weight: 600;
+	font-family: "Bitter", Arial, sans-serif;
+	font-size: 20px;
+	font-size: 2.0rem;
+	font-weight: 400;
 	letter-spacing: 1px;
 	line-height: 1.25;
 	margin: 0 0 1rem 0;
-	padding: 0.5rem 1rem;
+	padding: 0.5rem 0rem;
 	text-decoration: none;
-	text-transform: uppercase;
+        width: 100%;
+        text-align: right;
 }
 
 .entry-meta a,
@@ -72,7 +73,7 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 .entry-footer a[rel="tag"] a,
 .entry-footer a[rel="category tag"] a,
 #infinite-handle span a {
-	color: #fff;
+	color: #000;
 	text-decoration: none;
 }
 
@@ -82,7 +83,7 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 .entry-footer a[rel="tag"] a:hover,
 .entry-footer a[rel="category tag"] a:hover,
 #infinite-handle span a:hover {
-	color: #fff;
+	color: #aaa;
 }
 
 .apostrophe-navigation .menu-item-has-children > a:after,
@@ -102,11 +103,20 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 	font-size: 1.6rem;
 	font-weight: normal;
 	line-height: 1;
-
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.ag-front-excerpt {
+	font-family: Hind Vadodara;
+	font-size: 16px;
+	font-size: 1.6rem;
+	font-weight: 400;
+	line-height: 1.5;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+  
 /*--------------------------------------------------------------
 1.0 Normalize
 --------------------------------------------------------------*/
@@ -2647,11 +2657,12 @@ Primarily mobile devices and super-small tablets.
 	}
 
 	.main-navigation {
-		margin: 10px 0 20px;
+		/*margin: 10px 0 20px;*/
+		margin: 0px;
 	}
 
 	.main-navigation .menu-toggle {
-		border-bottom: solid 1px;
+		border-bottom: solid 0px;
 		border-top: solid 4px transparent;
 		cursor: pointer;
 		display: block;
@@ -2765,7 +2776,8 @@ Primarily mobile devices and super-small tablets.
 		padding-left: 0;
 		padding-right: 5.55556%;
 		padding-right: 0;
-		width: 33.33333%;
+                /*width: 33.33333%;*/
+                width: 45%;
 	}
 
 	.archive article:not(.apostrophe-featured) .entry-header,
@@ -2775,10 +2787,15 @@ Primarily mobile devices and super-small tablets.
 		-webkit-box-sizing: border-box;
 						box-sizing: border-box;
 		float: right;
+                /*
 		padding-left: 5.55556%;
 		padding-right: 5.55556%;
+                */
+		padding-left: 4%;
+		padding-right: 4%;
 		padding-right: 0;
-		width: 66.66667%;
+		width: 55%;
+		/*width: 66.66667%;*/
 	}
 
 	.archive article:not(.apostrophe-featured) .entry-meta,

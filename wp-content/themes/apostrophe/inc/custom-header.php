@@ -39,7 +39,7 @@ if ( ! function_exists( 'apostrophe_header_style' ) ) :
 			background: url('<?php echo esc_url( get_header_image() ); ?>') center center;
 			background-size: 100%;
                         background-repeat: no-repeat;
-			min-height: 200px;
+			min-height: 160px;
                         padding: 0px;
                         margin: 0px;
 		}
