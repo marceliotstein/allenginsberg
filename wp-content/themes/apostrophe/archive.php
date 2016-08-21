@@ -46,6 +46,6 @@ get_header(); ?>
 		<?php apostrophe_paging_nav(); ?>
 
 	</section><!-- #primary -->
+  <?php get_sidebar(); ?>
 
-<?php get_sidebar(); ?>
 <?php get_footer(); ?>

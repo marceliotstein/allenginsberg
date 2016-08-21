@@ -54,9 +54,8 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 	background: #ffffff;
 	color: #000;
 	display: inline-block;
-	font-family: "Bitter", Arial, sans-serif;
-	font-size: 20px;
-	font-size: 2.0rem;
+	font-family: "Karma", serif;
+	font-size: 2.8rem;
 	font-weight: 400;
 	letter-spacing: 1px;
 	line-height: 1.25;
@@ -108,15 +107,15 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 }
 
 .ag-front-excerpt {
-	font-family: Hind Vadodara;
+	font-family: Quattrocento;
 	font-size: 16px;
-	font-size: 1.6rem;
-	font-weight: 400;
+	font-size: 1.7rem;
+	font-weight: 300;
 	line-height: 1.5;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-  
+
 /*--------------------------------------------------------------
 1.0 Normalize
 --------------------------------------------------------------*/
@@ -352,8 +351,8 @@ button,
 input,
 select,
 textarea {
-	color: #404040;
-	font-family: "PT Serif", Georgia, "Times New Roman", serif;
+	color: #000000;
+	font-family: "Quattrocento", serif;
 	font-size: 19px;
 	font-size: 1.9rem;
 	line-height: 1.75;
@@ -804,7 +803,7 @@ a:active {
 }
 
 .main-navigation a {
-	border-top: solid 4px transparent;
+	/*border-top: solid 4px transparent;*/
 	color: #404040;
 	display: block;
 	font-size: 17px;
@@ -1665,6 +1664,7 @@ a:active {
 .search .entry-thumbnail {
 	display: block;
 	line-height: 0;
+	float: right;
 	/* This eradicates any unwanted bottom padding. */
 }
 
@@ -1910,9 +1910,9 @@ article:hover .apostrophe-inline-controls {
 
 /* Specific widget areas */
 .widget-area .sidebar-primary aside {
-	background: #117bb8;
+	background: #ffffff;
 	border-top-color: #362e77;
-	color: #fff;
+	color: #000;
 }
 
 .widget-area .sidebar-primary aside .widgettitle,
@@ -2777,7 +2777,7 @@ Primarily mobile devices and super-small tablets.
 		padding-right: 5.55556%;
 		padding-right: 0;
                 /*width: 33.33333%;*/
-                width: 45%;
+                width: 35%;
 	}
 
 	.archive article:not(.apostrophe-featured) .entry-header,
@@ -2794,7 +2794,7 @@ Primarily mobile devices and super-small tablets.
 		padding-left: 4%;
 		padding-right: 4%;
 		padding-right: 0;
-		width: 55%;
+		width: 65%;
 		/*width: 66.66667%;*/
 	}
 
@@ -3010,11 +3010,12 @@ Primarily tablets and teensy desktops.
 			 -moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 						box-sizing: border-box;
-		float: left;
+		/*float: left;*/
 		margin-bottom: 3.33333%;
 		padding-left: 1.11111%;
 		padding-right: 1.11111%;
-		width: 33.33333%;
+		/* width: 33.33333%;*/
+		width: 100%;
 	}
 
 	.archive article .entry-meta,
@@ -3132,7 +3133,7 @@ Very large tablets in landscape mode and most desktops.
 			 -moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 						box-sizing: border-box;
-		float: left;
+		float: right;
 		width: 68.18182%;
 	}
 
@@ -3150,7 +3151,7 @@ Very large tablets in landscape mode and most desktops.
 			 -moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 						box-sizing: border-box;
-		float: left;
+		float: right;
 		padding-left: 0.75758%;
 		padding-right: 0.75758%;
 		width: 100%;
@@ -3174,7 +3175,7 @@ Very large tablets in landscape mode and most desktops.
 		-webkit-box-sizing: border-box;
 						box-sizing: border-box;
 		clear: none;
-		float: right;
+		float: left;
 		padding-left: 0.75758%;
 		padding-right: 0.75758%;
 		width: 27.27273%;

@@ -180,6 +180,8 @@ function apostrophe_fonts_url() {
                 // added for allenginsberg.org
 		$font_families[] = 'Bitter:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic';
 		$font_families[] = 'Hind Vadodara:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic';
+		$font_families[] = 'Karma:300';
+		$font_families[] = 'Quattrocento:400';
 
 		$query_args = array(
 			'family' => urlencode( implode( '|', $font_families ) ),
