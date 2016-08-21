@@ -1403,7 +1403,7 @@ a:active {
 }
 
 .site-footer .widget-area {
-	border-top: 4px solid #ccc;
+	/*border-top: 4px solid #ccc;*/
 	text-align: center;
 	width: 100%;
 }
@@ -1510,6 +1510,7 @@ a:active {
 .entry-title {
 	margin-top: 0;
 	position: relative;
+	font-family: Quattrocento;
 }
 
 .edit-link,
@@ -1885,7 +1886,7 @@ article:hover .apostrophe-inline-controls {
 .widgettitle,
 .widget-title,
 .widget-title label {
-	color: #a6a6a6;
+	color: #000000;
 	font-size: 18px;
 	font-size: 1.8rem;
 	line-height: 24px;
@@ -1899,9 +1900,9 @@ article:hover .apostrophe-inline-controls {
 }
 
 .widget {
-	border-top: 4px solid #d9d9d9;
+	/*border-top: 4px solid #d9d9d9;*/
 	margin-bottom: 7.57576%;
-	padding: 8.33333% 8.33333%;
+	padding: 10px 0px 10px 0px;
 }
 
 .widget li > ul {
@@ -1911,18 +1912,20 @@ article:hover .apostrophe-inline-controls {
 /* Specific widget areas */
 .widget-area .sidebar-primary aside {
 	background: #ffffff;
-	border-top-color: #362e77;
-	color: #000;
+	/*border-top-color: #362e77;
+	color: #000;*/
 }
 
 .widget-area .sidebar-primary aside .widgettitle,
 .widget-area .sidebar-primary aside .widget-title {
-	color: #fff;
+	color: #000;
+	font-family: josefin sans;
 }
 
 .widget-area .sidebar-primary aside a,
 .widget-area .sidebar-primary aside cite {
-	color: #ceeafa;
+	color: #000000;
+	text-decoration: none;
 }
 
 .widget-area .sidebar-primary aside ul {
@@ -3115,7 +3118,7 @@ Primarily tablets and teensy desktops.
 	#secondary .widget {
 		float: left;
 		margin-right: 1.53846%;
-		width: 49.23077%;
+		width: 49%;
 	}
 
 	#secondary .widget:nth-of-type(even) {
@@ -3176,9 +3179,9 @@ Very large tablets in landscape mode and most desktops.
 						box-sizing: border-box;
 		clear: none;
 		float: left;
-		padding-left: 0.75758%;
-		padding-right: 0.75758%;
-		width: 27.27273%;
+		padding-left: 0px;
+		padding-right: 0px;
+		width: 222px;
 	}
 
 	/* Out-dent emphasized elements */
