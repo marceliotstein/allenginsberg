@@ -45,6 +45,7 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 /*--------------------------------------------------------------
 0.0 Site-wide styles
 --------------------------------------------------------------*/
+
 .entry-meta,
 .edit-link,
 .comment-reply-link,
@@ -798,17 +799,17 @@ a:active {
 	/*border-top: solid #d9d9d9 1px;*/
 	clear: both;
 	display: block;
-	font-family: "Open Sans", Arial, sans-serif;
+	font-family: "Karma", Arial, sans-serif;
+	font-size: 1.5em;
+	font-weight: 600;
 	width: 100%;
+	text-align: right;
 }
 
 .main-navigation a {
 	/*border-top: solid 4px transparent;*/
 	color: #404040;
 	display: block;
-	font-size: 17px;
-	font-size: 1.7rem;
-	font-weight: 600;
 	line-height: 1.5;
 	position: relative;
 	text-decoration: none;
@@ -822,6 +823,7 @@ a:active {
 	list-style: none;
 	margin: 0;
 	padding-left: 0;
+	float: right;
 }
 
 .main-navigation ul li {
@@ -2877,6 +2879,7 @@ Primarily tablets and teensy desktops.
 	/* Site logo */
 	.site-branding {
 		margin-bottom: 0;
+		height: 215px;
 	}
 
 	.site-branding:before,
