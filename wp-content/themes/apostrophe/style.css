@@ -57,7 +57,7 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 	display: inline-block;
 	font-family: "Karma", serif;
 	font-size: 2.8rem;
-	font-weight: 400;
+	font-weight: 600;
 	letter-spacing: 1px;
 	line-height: 1.25;
 	margin: 0 0 1rem 0;
@@ -800,8 +800,8 @@ a:active {
 	clear: both;
 	display: block;
 	font-family: "Karma", Arial, sans-serif;
-	font-size: 1.5em;
-	font-weight: 600;
+	font-size: 1.4em;
+	font-weight: 300;
 	width: 100%;
 	text-align: right;
 }
@@ -821,13 +821,13 @@ a:active {
 
 .main-navigation ul {
 	list-style: none;
-	margin: 0;
+	margin: 16px 0px 0px 0px;
 	padding-left: 0;
 	float: right;
 }
 
 .main-navigation ul li {
-	margin: 0;
+	margin: 0px 12px 0px 12px;
 }
 
 /* Main navigation */
