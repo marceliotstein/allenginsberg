@@ -38,10 +38,10 @@
 
 	?>
 
-	<div class="entry-meta">
-	<?php //apostrophe_posted_on(); ?>
-	<a href="<?php echo esc_url( $apostrophe_permalink ); ?>" rel="bookmark"><?php the_title(); ?></a>
-	</div><!-- .entry-meta -->
+	<h1 class="entry-title">
+	  <a href="<?php echo esc_url( $apostrophe_permalink ); ?>" rel="bookmark"><?php the_title(); ?></a>
+	</h1>
+	<div class="entry-meta"><?php apostrophe_posted_on(); ?></div>
 	<a class="entry-thumbnail <?php echo esc_attr( $apostrophe_has_thumbnail ); ?>" href="<?php echo esc_url( $apostrophe_permalink ); ?>"><?php echo wp_kses_post( $apostrophe_post_thumbnail ); ?></a>
   <header class="entry-header">
 		<?php apostrophe_inline_controls(); ?>
