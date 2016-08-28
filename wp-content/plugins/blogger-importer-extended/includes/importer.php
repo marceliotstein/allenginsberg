@@ -270,6 +270,7 @@
 
                 if(!empty($found_images)) {
                     foreach($found_images[1] as $found_image) {
+
                         $image = $this->download_media($found_image, $post->ID);
 
                         if(!is_wp_error($image)) {

@@ -142,8 +142,8 @@
 
             var running = false;
             var users = <?php echo json_encode($users); ?>;
-            var default_delay = 180;
-            var minimum_delay = 60;
+            var default_delay = 18;
+            var minimum_delay = 6;
 
             var import_completed = true;
             var import_interval = undefined;
@@ -164,7 +164,8 @@
                         data: options + '&action=bie_import&blog_id=' + blog_id,
                         success: function(status) {
                             if(status.running) {
-                                var delay = status.slower_request ? status.slower_request * 2 : default_delay;
+                                //var delay = status.slower_request ? status.slower_request * 2 : default_delay;
+                                var delay = default_delay;
                                 pause_import(blog_id, options, delay);
                             } else {
                                 update_progress(status);
