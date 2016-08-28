@@ -87,7 +87,7 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 }
 
 .entry-meta {
-  padding-right: 10px;
+  text-align: right;
 }
 
 .apostrophe-navigation .menu-item-has-children > a:after,
@@ -395,8 +395,9 @@ h6 {
 	font-family: "Open Sans", Arial, sans-serif;
 	line-height: 1.5;
 	margin: 1.13636% 0 0.50505%;
-			word-wrap: break-word;
+	word-wrap: break-word;
 }
+
 h1 a,
 h2 a,
 .widgettitle a,
@@ -1525,6 +1526,7 @@ a:active {
 	margin-top: 0;
 	position: relative;
 	font-family: Quattrocento;
+        text-align: right;
 }
 
 .edit-link,
