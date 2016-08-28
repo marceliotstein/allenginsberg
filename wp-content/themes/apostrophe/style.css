@@ -209,8 +209,8 @@ dfn {
 }
 
 h1 {
-	font-size: 2em;
-	margin: 0.67em 0;
+  font-size: 1.6em;
+  margin: 0.67em 0;
 }
 
 mark {
@@ -409,15 +409,18 @@ h4 a,
 h5 a,
 h6 a {
 	text-decoration: none;
+        color: #000000;
 }
 
+/*
 h1 {
-	color: black;
-	font-size: 42px;
-	font-size: 4.2rem;
-	font-weight: 300;
-	line-height: 1.25;
+  color: black;
+  font-size: 42px;
+  font-size: 4.2rem;
+  font-weight: 300;
+  line-height: 1.25;
 }
+*/
 
 h2,
 .widgettitle,
@@ -1699,24 +1702,6 @@ a:active {
 	position: relative;
 }
 
-.archive .entry-title,
-.blog .entry-title,
-.search .entry-title {
-	font-family: "PT Serif", Georgia, "Times New Roman", serif;
-	font-size: 21px;
-	font-size: 2.1rem;
-	font-weight: normal;
-	line-height: 1.2;
-	margin: 0;
-	padding: 0;
-}
-
-.archive .entry-title a,
-.blog .entry-title a,
-.search .entry-title a {
-	color: #117bb8;
-}
-
 .archive article:hover .entry-thumbnail img,
 .blog article:hover .entry-thumbnail img,
 .search article:hover .entry-thumbnail img {
@@ -1734,7 +1719,7 @@ a:active {
 .archive article:hover .entry-title a,
 .blog article:hover .entry-title a,
 .search article:hover .entry-title a {
-	color: #a6a6a6;
+	color: #222222;
 }
 
 /* Articles without featured images */
@@ -1772,11 +1757,13 @@ a:active {
 }
 
 /* Featured content */
+/****
 .archive .apostrophe-featured .entry-title,
 .blog .apostrophe-featured .entry-title,
 .search .apostrophe-featured .entry-title {
 	font-size: 3.6rem;
 }
+****/
 
 .archive .apostrophe-featured .apostrophe-nothumb:before,
 .blog .apostrophe-featured .apostrophe-nothumb:before,
@@ -2823,12 +2810,14 @@ Primarily mobile devices and super-small tablets.
 		margin-bottom: 5px;
 	}
 
+/*
 	.archive .apostrophe-featured .entry-meta,
 	.blog .apostrophe-featured .entry-meta,
 	.search .apostrophe-featured .entry-meta {
 		margin-left: -5px;
 		margin-top: -33px;
 	}
+*/
 
 	.archive .apostrophe-featured .apostrophe-nothumb span:before,
 	.blog .apostrophe-featured .apostrophe-nothumb span:before,
@@ -3038,11 +3027,13 @@ Primarily tablets and teensy desktops.
 		width: 100%;
 	}
 
+/*
 	.archive article .entry-meta,
 	.blog article .entry-meta,
 	.search article .entry-meta {
 		margin: -33px 0 15px -5px;
 	}
+*/
 
 	.archive article.clear,
 	.blog article.clear,
