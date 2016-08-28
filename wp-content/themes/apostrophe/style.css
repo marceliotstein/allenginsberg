@@ -53,10 +53,10 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 .entry-footer a[rel="category tag"],
 #infinite-handle span {
 	background: #ffffff;
-	color: #000;
+	color: #666666;
 	display: inline-block;
 	font-family: "Karma", serif;
-	font-size: 2.8rem;
+	font-size: 1.8rem;
 	font-weight: 600;
 	letter-spacing: 1px;
 	line-height: 1.25;
@@ -73,7 +73,7 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 .entry-footer a[rel="tag"] a,
 .entry-footer a[rel="category tag"] a,
 #infinite-handle span a {
-	color: #000;
+	color: #666666;
 	text-decoration: none;
 }
 
@@ -84,6 +84,10 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 .entry-footer a[rel="category tag"] a:hover,
 #infinite-handle span a:hover {
 	color: #aaa;
+}
+
+.entry-meta {
+  text-align: right;
 }
 
 .apostrophe-navigation .menu-item-has-children > a:after,
@@ -129,6 +133,24 @@ html {
 
 body {
 	margin: 0;
+}
+
+@media (min-width: 768px) {
+  article {
+    margin-right: 60px;
+  }
+}
+
+article img {
+  width: 100%;
+}
+
+h4 {
+  text-align: center;
+  font-size: .8em;
+  color: #666666;
+  padding-top: 0px;
+  margin-top: 0px;
 }
 
 article,
@@ -366,7 +388,6 @@ h2,
 .comments-title,
 #reply-title,
 h3,
-h4,
 h5,
 h6 {
 	-ms-word-wrap: break-word;
@@ -374,8 +395,9 @@ h6 {
 	font-family: "Open Sans", Arial, sans-serif;
 	line-height: 1.5;
 	margin: 1.13636% 0 0.50505%;
-			word-wrap: break-word;
+	word-wrap: break-word;
 }
+
 h1 a,
 h2 a,
 .widgettitle a,
@@ -390,7 +412,7 @@ h6 a {
 }
 
 h1 {
-	color: silver;
+	color: black;
 	font-size: 42px;
 	font-size: 4.2rem;
 	font-weight: 300;
@@ -415,15 +437,6 @@ h3 {
 	font-size: 28px;
 	font-size: 2.8rem;
 	font-weight: 300;
-}
-
-h4 {
-	color: gray;
-	font-size: 21px;
-	font-size: 2.1rem;
-	font-weight: 600;
-	letter-spacing: 1px;
-	text-transform: uppercase;
 }
 
 h5 {
@@ -800,7 +813,7 @@ a:active {
 	clear: both;
 	display: block;
 	font-family: "Karma", Arial, sans-serif;
-	font-size: 1.4em;
+	font-size: 1.1em;
 	font-weight: 300;
 	width: 100%;
 	text-align: right;
@@ -821,13 +834,13 @@ a:active {
 
 .main-navigation ul {
 	list-style: none;
-	margin: 16px 0px 0px 0px;
+	margin: 22px 0px 22px 0px;
 	padding-left: 0;
 	float: right;
 }
 
 .main-navigation ul li {
-	margin: 0px 12px 0px 12px;
+  margin: 0px;
 }
 
 /* Main navigation */
@@ -1513,6 +1526,7 @@ a:active {
 	margin-top: 0;
 	position: relative;
 	font-family: Quattrocento;
+        text-align: right;
 }
 
 .edit-link,
