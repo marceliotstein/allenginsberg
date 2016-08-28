@@ -6,13 +6,13 @@
 ?>
 <article id="post-<?php the_ID(); ?>">
 
-	<div class="entry-meta"><?php apostrophe_posted_on(); ?></div>
 	<?php edit_post_link( __( 'Edit', 'apostrophe' ), '<span class="edit-link">', '</span>' ); ?>
 	<h1 class="entry-title">
 		<?php if ( get_post_format() ) : ?>
 		<?php apostrophe_post_format(); ?>
 	<?php endif; ?>
 	<?php the_title(); ?></h1>
+	<div class="entry-meta"><?php apostrophe_posted_on(); ?></div>
 
 	<div class="entry-content">
 		<?php the_content(); ?>
