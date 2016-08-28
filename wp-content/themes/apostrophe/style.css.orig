@@ -45,26 +45,25 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 /*--------------------------------------------------------------
 0.0 Site-wide styles
 --------------------------------------------------------------*/
-
 .entry-meta,
 .edit-link,
 .comment-reply-link,
 .entry-footer a[rel="tag"],
 .entry-footer a[rel="category tag"],
 #infinite-handle span {
-	background: #ffffff;
-	color: #000;
+	background: #117bb8;
+	color: #fff;
 	display: inline-block;
-	font-family: "Karma", serif;
-	font-size: 2.8rem;
+	font-family: "Open Sans", Arial, sans-serif;
+	font-size: 12px;
+	font-size: 1.2rem;
 	font-weight: 600;
 	letter-spacing: 1px;
 	line-height: 1.25;
 	margin: 0 0 1rem 0;
-	padding: 0.5rem 0rem;
+	padding: 0.5rem 1rem;
 	text-decoration: none;
-        width: 100%;
-        text-align: right;
+	text-transform: uppercase;
 }
 
 .entry-meta a,
@@ -73,7 +72,7 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 .entry-footer a[rel="tag"] a,
 .entry-footer a[rel="category tag"] a,
 #infinite-handle span a {
-	color: #000;
+	color: #fff;
 	text-decoration: none;
 }
 
@@ -83,7 +82,7 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 .entry-footer a[rel="tag"] a:hover,
 .entry-footer a[rel="category tag"] a:hover,
 #infinite-handle span a:hover {
-	color: #aaa;
+	color: #fff;
 }
 
 .apostrophe-navigation .menu-item-has-children > a:after,
@@ -103,16 +102,7 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 	font-size: 1.6rem;
 	font-weight: normal;
 	line-height: 1;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-}
 
-.ag-front-excerpt {
-	font-family: Quattrocento;
-	font-size: 16px;
-	font-size: 1.7rem;
-	font-weight: 300;
-	line-height: 1.5;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
@@ -352,8 +342,8 @@ button,
 input,
 select,
 textarea {
-	color: #000000;
-	font-family: "Quattrocento", serif;
+	color: #404040;
+	font-family: "PT Serif", Georgia, "Times New Roman", serif;
 	font-size: 19px;
 	font-size: 1.9rem;
 	line-height: 1.75;
@@ -796,20 +786,20 @@ a:active {
 --------------------------------------------------------------*/
 /* Main site navigation */
 .main-navigation {
-	/*border-top: solid #d9d9d9 1px;*/
+	border-top: solid #d9d9d9 1px;
 	clear: both;
 	display: block;
-	font-family: "Karma", Arial, sans-serif;
-	font-size: 1.4em;
-	font-weight: 300;
+	font-family: "Open Sans", Arial, sans-serif;
 	width: 100%;
-	text-align: right;
 }
 
 .main-navigation a {
-	/*border-top: solid 4px transparent;*/
+	border-top: solid 4px transparent;
 	color: #404040;
 	display: block;
+	font-size: 17px;
+	font-size: 1.7rem;
+	font-weight: 600;
 	line-height: 1.5;
 	position: relative;
 	text-decoration: none;
@@ -821,13 +811,12 @@ a:active {
 
 .main-navigation ul {
 	list-style: none;
-	margin: 16px 0px 0px 0px;
+	margin: 0;
 	padding-left: 0;
-	float: right;
 }
 
 .main-navigation ul li {
-	margin: 0px 12px 0px 12px;
+	margin: 0;
 }
 
 /* Main navigation */
@@ -1405,7 +1394,7 @@ a:active {
 }
 
 .site-footer .widget-area {
-	/*border-top: 4px solid #ccc;*/
+	border-top: 4px solid #ccc;
 	text-align: center;
 	width: 100%;
 }
@@ -1512,7 +1501,6 @@ a:active {
 .entry-title {
 	margin-top: 0;
 	position: relative;
-	font-family: Quattrocento;
 }
 
 .edit-link,
@@ -1667,7 +1655,6 @@ a:active {
 .search .entry-thumbnail {
 	display: block;
 	line-height: 0;
-	float: right;
 	/* This eradicates any unwanted bottom padding. */
 }
 
@@ -1888,7 +1875,7 @@ article:hover .apostrophe-inline-controls {
 .widgettitle,
 .widget-title,
 .widget-title label {
-	color: #000000;
+	color: #a6a6a6;
 	font-size: 18px;
 	font-size: 1.8rem;
 	line-height: 24px;
@@ -1902,9 +1889,9 @@ article:hover .apostrophe-inline-controls {
 }
 
 .widget {
-	/*border-top: 4px solid #d9d9d9;*/
+	border-top: 4px solid #d9d9d9;
 	margin-bottom: 7.57576%;
-	padding: 10px 0px 10px 0px;
+	padding: 8.33333% 8.33333%;
 }
 
 .widget li > ul {
@@ -1913,21 +1900,19 @@ article:hover .apostrophe-inline-controls {
 
 /* Specific widget areas */
 .widget-area .sidebar-primary aside {
-	background: #ffffff;
-	/*border-top-color: #362e77;
-	color: #000;*/
+	background: #117bb8;
+	border-top-color: #362e77;
+	color: #fff;
 }
 
 .widget-area .sidebar-primary aside .widgettitle,
 .widget-area .sidebar-primary aside .widget-title {
-	color: #000;
-	font-family: josefin sans;
+	color: #fff;
 }
 
 .widget-area .sidebar-primary aside a,
 .widget-area .sidebar-primary aside cite {
-	color: #000000;
-	text-decoration: none;
+	color: #ceeafa;
 }
 
 .widget-area .sidebar-primary aside ul {
@@ -2626,9 +2611,7 @@ Primarily mobile devices and super-small tablets.
 
 	/* Center-align site branding and logo */
 	.site-branding {
-		/*text-align: center;*/
-		text-align: left;
-   		width: 100%;
+		text-align: center;
 	}
 
 	.site-logo {
@@ -2662,12 +2645,11 @@ Primarily mobile devices and super-small tablets.
 	}
 
 	.main-navigation {
-		/*margin: 10px 0 20px;*/
-		margin: 0px;
+		margin: 10px 0 20px;
 	}
 
 	.main-navigation .menu-toggle {
-		border-bottom: solid 0px;
+		border-bottom: solid 1px;
 		border-top: solid 4px transparent;
 		cursor: pointer;
 		display: block;
@@ -2781,8 +2763,7 @@ Primarily mobile devices and super-small tablets.
 		padding-left: 0;
 		padding-right: 5.55556%;
 		padding-right: 0;
-                /*width: 33.33333%;*/
-                width: 35%;
+		width: 33.33333%;
 	}
 
 	.archive article:not(.apostrophe-featured) .entry-header,
@@ -2792,15 +2773,10 @@ Primarily mobile devices and super-small tablets.
 		-webkit-box-sizing: border-box;
 						box-sizing: border-box;
 		float: right;
-                /*
 		padding-left: 5.55556%;
 		padding-right: 5.55556%;
-                */
-		padding-left: 4%;
-		padding-right: 4%;
 		padding-right: 0;
-		width: 65%;
-		/*width: 66.66667%;*/
+		width: 66.66667%;
 	}
 
 	.archive article:not(.apostrophe-featured) .entry-meta,
@@ -2879,7 +2855,6 @@ Primarily tablets and teensy desktops.
 	/* Site logo */
 	.site-branding {
 		margin-bottom: 0;
-		height: 215px;
 	}
 
 	.site-branding:before,
@@ -3016,12 +2991,11 @@ Primarily tablets and teensy desktops.
 			 -moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 						box-sizing: border-box;
-		/*float: left;*/
+		float: left;
 		margin-bottom: 3.33333%;
 		padding-left: 1.11111%;
 		padding-right: 1.11111%;
-		/* width: 33.33333%;*/
-		width: 100%;
+		width: 33.33333%;
 	}
 
 	.archive article .entry-meta,
@@ -3121,7 +3095,7 @@ Primarily tablets and teensy desktops.
 	#secondary .widget {
 		float: left;
 		margin-right: 1.53846%;
-		width: 49%;
+		width: 49.23077%;
 	}
 
 	#secondary .widget:nth-of-type(even) {
@@ -3139,7 +3113,7 @@ Very large tablets in landscape mode and most desktops.
 			 -moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 						box-sizing: border-box;
-		float: right;
+		float: left;
 		width: 68.18182%;
 	}
 
@@ -3157,7 +3131,7 @@ Very large tablets in landscape mode and most desktops.
 			 -moz-box-sizing: border-box;
 		-webkit-box-sizing: border-box;
 						box-sizing: border-box;
-		float: right;
+		float: left;
 		padding-left: 0.75758%;
 		padding-right: 0.75758%;
 		width: 100%;
@@ -3181,10 +3155,10 @@ Very large tablets in landscape mode and most desktops.
 		-webkit-box-sizing: border-box;
 						box-sizing: border-box;
 		clear: none;
-		float: left;
-		padding-left: 0px;
-		padding-right: 0px;
-		width: 222px;
+		float: right;
+		padding-left: 0.75758%;
+		padding-right: 0.75758%;
+		width: 27.27273%;
 	}
 
 	/* Out-dent emphasized elements */

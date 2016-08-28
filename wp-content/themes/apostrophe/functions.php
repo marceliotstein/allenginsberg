@@ -177,6 +177,13 @@ function apostrophe_fonts_url() {
 			$font_families[] = 'Open Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic';
 		}
 
+                // added for allenginsberg.org
+		$font_families[] = 'Bitter:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic';
+		$font_families[] = 'Hind Vadodara:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic';
+		$font_families[] = 'Karma:300,400,600';
+		$font_families[] = 'Quattrocento:400';
+		$font_families[] = 'Josefin Sans:400';
+
 		$query_args = array(
 			'family' => urlencode( implode( '|', $font_families ) ),
 			'subset' => urlencode( 'latin,latin-ext,cyrillic' ),

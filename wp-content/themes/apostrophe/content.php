@@ -1,5 +1,5 @@
 <?php
-	/**
+/**
  * @package Apostrophe
  *
  */
@@ -32,15 +32,21 @@
 	else :
 		$apostrophe_permalink = get_permalink();
 	endif;
+
+        $excerpt = get_the_excerpt();
+        $excerpt = ltrim($excerpt,'[');
+
 	?>
 
+	<div class="entry-meta">
+	<?php //apostrophe_posted_on(); ?>
+	<a href="<?php echo esc_url( $apostrophe_permalink ); ?>" rel="bookmark"><?php the_title(); ?></a>
+	</div><!-- .entry-meta -->
 	<a class="entry-thumbnail <?php echo esc_attr( $apostrophe_has_thumbnail ); ?>" href="<?php echo esc_url( $apostrophe_permalink ); ?>"><?php echo wp_kses_post( $apostrophe_post_thumbnail ); ?></a>
   <header class="entry-header">
 		<?php apostrophe_inline_controls(); ?>
-    <div class="entry-meta">
-		<?php apostrophe_posted_on(); ?>
-    </div><!-- .entry-meta -->
-		<h2 class="entry-title"><a href="<?php echo esc_url( $apostrophe_permalink ); ?>" rel="bookmark"><?php the_title(); ?></a></h2>
+		<!--<h2 class="entry-title"><a href="<?php //echo esc_url( $apostrophe_permalink ); ?>" rel="bookmark"><?php //the_title(); ?></a></h2>-->
+		<div class="ag-front-excerpt"><?php echo $excerpt; ?></div>
 	</header><!-- .entry-header -->
 
 </article><!-- #post-## -->

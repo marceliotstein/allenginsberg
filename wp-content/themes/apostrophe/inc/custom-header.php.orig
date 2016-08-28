@@ -37,11 +37,9 @@ if ( ! function_exists( 'apostrophe_header_style' ) ) :
 		?>
 		.site-branding {
 			background: url('<?php echo esc_url( get_header_image() ); ?>') center center;
-			background-size: 100%;
-                        background-repeat: no-repeat;
-			min-height: 160px;
-                        padding: 0px;
-                        margin: 0px;
+			background-size: cover;
+			min-height: 200px;
+			padding: 3em;
 		}
 		<?php
 			endif;

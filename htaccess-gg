@@ -1,0 +1,11 @@
+
+# BEGIN WordPress
+
+# END WordPress
+<<<<<<< HEAD
+AuthName "preview"
+AuthUserFile "/home/betaalle/.htpasswds/public_html/passwd"
+AuthType Basic
+require valid-user
+=======
+>>>>>>> 052d87ed3c65e6934a7ff66716acd0fb53e29a5e
