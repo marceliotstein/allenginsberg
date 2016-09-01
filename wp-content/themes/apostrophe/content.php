@@ -42,7 +42,10 @@
 	  <a href="<?php echo esc_url( $apostrophe_permalink ); ?>" rel="bookmark"><?php the_title(); ?></a>
 	</h1>
 	<div class="entry-meta"><?php apostrophe_posted_on(); ?></div>
-	<a class="entry-thumbnail <?php echo esc_attr( $apostrophe_has_thumbnail ); ?>" href="<?php echo esc_url( $apostrophe_permalink ); ?>"><?php echo wp_kses_post( $apostrophe_post_thumbnail ); ?></a>
+        <div style="border: 1px">
+	  <!-- a class="entry-thumbnail -->
+	  <a class="ag-entry-thumbnail <?php echo esc_attr( $apostrophe_has_thumbnail ); ?>" href="<?php echo esc_url( $apostrophe_permalink ); ?>"><?php echo wp_kses_post( $apostrophe_post_thumbnail ); ?></a>
+        </div>
   <header class="entry-header">
 		<?php apostrophe_inline_controls(); ?>
 		<!--<h2 class="entry-title"><a href="<?php //echo esc_url( $apostrophe_permalink ); ?>" rel="bookmark"><?php //the_title(); ?></a></h2>-->

@@ -141,6 +141,10 @@ body {
   }
 }
 
+article {
+  margin-bottom: 18px;
+}
+
 article img {
   width: 100%;
 }
