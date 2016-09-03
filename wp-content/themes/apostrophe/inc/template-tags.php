@@ -140,12 +140,16 @@ if ( ! function_exists( 'apostrophe_entry_footer' ) ) :
 
 		// Show categories and tags if we're on a post page
 		if ( 'post' === get_post_type() ) {
+                        /*
 			$categories_list = get_the_category_list();
 			if ( $categories_list && apostrophe_categorized_blog() ) {
 				$apostrophe_tags = $categories_list;
 			}
+                        */
+                        $apostrophe_tags = "";
 
-			$tags_list = get_the_tag_list( '<ul class="post-tags"><li>', '</li><li>', '</li></ul>' );
+			$tags_list = get_the_tag_list( '<ul class="post-tags"><li>', ',</li> <li>', '</li></ul>' );
+print $categories_list;
 			if ( $tags_list ) {
 				$apostrophe_tags .= $tags_list;
 			}

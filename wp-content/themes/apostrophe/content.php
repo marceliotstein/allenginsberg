@@ -41,6 +41,7 @@
 	<h1 class="entry-title">
 	  <a href="<?php echo esc_url( $apostrophe_permalink ); ?>" rel="bookmark"><?php the_title(); ?></a>
 	</h1>
+        <div class="entry-footer"><?php apostrophe_entry_footer(); ?></div>
 	<div class="entry-meta"><?php apostrophe_posted_on(); ?></div>
         <div style="border: 1px">
 	  <!-- a class="entry-thumbnail -->
