@@ -410,7 +410,7 @@ h5,
 h6 {
 	-ms-word-wrap: break-word;
 	clear: both;
-	font-family: "Josefin Sans", Arial, sans-serif;
+	font-family: "Quattrocento", serif;
 	line-height: 1.5;
 	margin: 1.13636% 0 0.50505%;
 	word-wrap: break-word;
@@ -722,7 +722,7 @@ input[type="submit"],
 	color: #159ae7;
 	cursor: pointer;
 	display: inline-block;
-	font-family: "Josefin Sans", Arial, sans-serif;
+	font-family: "Quattrocento", serif;
 	font-size: 18px;
 	font-size: 1.8rem;
 	font-weight: 300;
@@ -757,7 +757,7 @@ input[type="submit"]:active {
 
 label {
 	color: silver;
-	font-family: "Josefin Sans", Arial, sans-serif;
+	font-family: "Quattrocento", serif;
 	font-size: 14px;
 	font-size: 1.4rem;
 	font-weight: 600;
@@ -1123,7 +1123,7 @@ a:active {
 .nav-next .meta-nav {
 	color: silver;
 	display: block;
-	font-family: "Josefin Sans", Arial, sans-serif;
+	font-family: "Quattrocento", serif;
 	font-size: 28px;
 	font-size: 2.8rem;
 	font-weight: 100;
@@ -1580,7 +1580,7 @@ a:active {
 
 .page-links {
 	clear: both;
-	font-family: "Josefin Sans", Arial, sans-serif;
+	font-family: "Quattrocento", serif;
 	font-size: 14px;
 	font-size: 1.4rem;
 	font-weight: 600;
@@ -2004,7 +2004,7 @@ article:hover .apostrophe-inline-controls {
 }
 
 .comment-meta {
-	font-family: "Josefin Sans", Arial, sans-serif;
+	font-family: "Quattrocento", serif;
 	padding: 0.25em;
 }
 
@@ -3218,4 +3218,73 @@ Very large tablets in landscape mode and most desktops.
 		left: -46px;
 		right: auto;
 	}
+}
+
+/* old footer from legacy site */
+
+#footer {
+    background: #C2C2C2;
+    border-top: 2px solid #45738a;
+    padding: 2%;
+    margin-top: 10px;
+    font-size: .8em;
+    min-height: 220px;
+    height: auto;
+}
+
+#allen-watermark {
+    height: 220px;
+    width: 35%;
+    background: url(images/allen-watermark.png) no-repeat center top;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: -4px;
+    float: left;
+}
+
+#siteinfo {
+    display: inline-block;
+    width: 60%;
+    vertical-align: top;
+    margin: 1em 0 2em -8px;
+    margin-bottom: 2em;
+}
+
+#footer-sitemap {
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+    margin-left: -4px;
+}
+
+#footer-archive {
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+    margin-left: -4px;
+}
+
+#footer-external-links {
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+    margin-left: -4px;
+}
+
+#footer ul {
+  line-height: .9em;
+}
+
+#footer ul li {
+  list-style-type: none;
+}
+
+#footer li {
+  display: list-item;
+  text-align: -webkit-match-parent;
+  line-height: .9em;
+}
+
+#footer li a {
+  text-decoration: none;
 }
