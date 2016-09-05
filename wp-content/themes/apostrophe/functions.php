@@ -182,7 +182,8 @@ function apostrophe_fonts_url() {
 		$font_families[] = 'Hind Vadodara:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic';
 		$font_families[] = 'Karma:300,400,600';
 		$font_families[] = 'Quattrocento:400';
-		$font_families[] = 'Josefin Sans:400';
+		$font_families[] = 'Josefin Sans:400,700';
+		$font_families[] = 'Josefin Slab:400,700';
 
 		$query_args = array(
 			'family' => urlencode( implode( '|', $font_families ) ),

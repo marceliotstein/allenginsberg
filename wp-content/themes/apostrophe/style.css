@@ -49,8 +49,6 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 .entry-meta,
 .edit-link,
 .comment-reply-link,
-.entry-footer a[rel="tag"],
-.entry-footer a[rel="category tag"],
 #infinite-handle span {
 	background: #ffffff;
 	color: #666666;
@@ -67,13 +65,29 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
         text-align: right;
 }
 
+.entry-footer a[rel="tag"],
+.entry-footer a[rel="category tag"] {
+	background: #ffffff;
+	color: #666666;
+	font-family: "Josefin Sans", serif;
+	font-size: 1.6rem;
+	font-weight: 600;
+	letter-spacing: 1px;
+	line-height: 1;
+	margin: 0 0 1rem 0;
+	padding: 0.5rem 0rem;
+	text-decoration: none;
+        width: 100%;
+        text-align: right;
+}
+
 .entry-meta a,
 .edit-link a,
 .comment-reply-link a,
 .entry-footer a[rel="tag"] a,
 .entry-footer a[rel="category tag"] a,
 #infinite-handle span a {
-	color: #666666;
+	color: #333333;
 	text-decoration: none;
 }
 
@@ -396,7 +410,7 @@ h5,
 h6 {
 	-ms-word-wrap: break-word;
 	clear: both;
-	font-family: "Open Sans", Arial, sans-serif;
+	font-family: "Josefin Sans", Arial, sans-serif;
 	line-height: 1.5;
 	margin: 1.13636% 0 0.50505%;
 	word-wrap: break-word;
@@ -708,7 +722,7 @@ input[type="submit"],
 	color: #159ae7;
 	cursor: pointer;
 	display: inline-block;
-	font-family: "Open Sans", Arial, sans-serif;
+	font-family: "Josefin Sans", Arial, sans-serif;
 	font-size: 18px;
 	font-size: 1.8rem;
 	font-weight: 300;
@@ -743,7 +757,7 @@ input[type="submit"]:active {
 
 label {
 	color: silver;
-	font-family: "Open Sans", Arial, sans-serif;
+	font-family: "Josefin Sans", Arial, sans-serif;
 	font-size: 14px;
 	font-size: 1.4rem;
 	font-weight: 600;
@@ -1109,7 +1123,7 @@ a:active {
 .nav-next .meta-nav {
 	color: silver;
 	display: block;
-	font-family: "Open Sans", Arial, sans-serif;
+	font-family: "Josefin Sans", Arial, sans-serif;
 	font-size: 28px;
 	font-size: 2.8rem;
 	font-weight: 100;
@@ -1528,7 +1542,18 @@ a:active {
 	display: none;
 }
 
-.page-title,
+.page-title {
+	margin-top: 0;
+	position: relative;
+	font-family: "Josefin Sans";
+        font-size: 2.8em;
+        font-weight: 700;
+        color: #aaaaaa;
+        text-align: right;
+        text-transform: lowercase;
+        padding-right: 10px;
+}
+
 .entry-title {
 	margin-top: 0;
 	position: relative;
@@ -1555,7 +1580,7 @@ a:active {
 
 .page-links {
 	clear: both;
-	font-family: "Open Sans", Arial, sans-serif;
+	font-family: "Josefin Sans", Arial, sans-serif;
 	font-size: 14px;
 	font-size: 1.4rem;
 	font-weight: 600;
@@ -1591,17 +1616,19 @@ a:active {
 
 .entry-footer .post-categories,
 .entry-footer .post-tags {
-	float: left;
-	font-size: 0;
-	list-style: none;
-	margin: 0.2rem 0 0;
-	padding: 0;
+  float: left;
+  font-size: 1.5rem;
+  font-family: Josefin Sans;
+  list-style: none;
+  margin: 0.2rem 0 0;
+  padding: 10px 0px 10px 0px;
+  text-align: right;
 }
 
 .entry-footer .post-categories li,
 .entry-footer .post-tags li {
 	display: inline-block;
-	margin: 0 0.4rem 0.4rem 0;
+	margin: 0px 0px 0px 0px;
 }
 
 .entry-footer a[rel="tag"],
@@ -1615,21 +1642,8 @@ a:active {
 	vertical-align: -0.2rem;
 }
 
-.entry-footer a[rel="tag"]:hover,
-.entry-footer a[rel="category tag"]:hover {
-	background-color: #5a5a5a;
-}
-
-.entry-footer a[rel="category tag"] {
-	background: #362e77;
-}
-
-.entry-footer a[rel="category tag"]::before {
-	content: "\f301";
-}
-
-.entry-footer a[rel="tag"]::before {
-	content: "\f302";
+.apostrophe-tags {
+  float: right;
 }
 
 .entry-footer .apostrophe-tags::after {
@@ -1990,7 +2004,7 @@ article:hover .apostrophe-inline-controls {
 }
 
 .comment-meta {
-	font-family: "Open Sans", Arial, sans-serif;
+	font-family: "Josefin Sans", Arial, sans-serif;
 	padding: 0.25em;
 }
 
@@ -2813,15 +2827,6 @@ Primarily mobile devices and super-small tablets.
 	.search article:not(.apostrophe-featured) .entry-meta {
 		margin-bottom: 5px;
 	}
-
-/*
-	.archive .apostrophe-featured .entry-meta,
-	.blog .apostrophe-featured .entry-meta,
-	.search .apostrophe-featured .entry-meta {
-		margin-left: -5px;
-		margin-top: -33px;
-	}
-*/
 
 	.archive .apostrophe-featured .apostrophe-nothumb span:before,
 	.blog .apostrophe-featured .apostrophe-nothumb span:before,

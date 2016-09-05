@@ -41,11 +41,19 @@
 	<h1 class="entry-title">
 	  <a href="<?php echo esc_url( $apostrophe_permalink ); ?>" rel="bookmark"><?php the_title(); ?></a>
 	</h1>
+        <div class="entry-footer"><?php apostrophe_entry_footer(); ?></div>
 	<div class="entry-meta"><?php apostrophe_posted_on(); ?></div>
-        <div style="border: 1px">
-	  <!-- a class="entry-thumbnail -->
-	  <a class="ag-entry-thumbnail <?php echo esc_attr( $apostrophe_has_thumbnail ); ?>" href="<?php echo esc_url( $apostrophe_permalink ); ?>"><?php echo wp_kses_post( $apostrophe_post_thumbnail ); ?></a>
-        </div>
+        <?php //if (!empty(strip_tags($apostrophe_post_thumbnail))): ?>
+        <?php if (!empty($apostrophe_post_thumbnail)): ?>
+          <div style="border: 1px">
+	    <!-- a class="entry-thumbnail -->
+	    <a class="ag-entry-thumbnail <?php echo esc_attr( $apostrophe_has_thumbnail ); ?>" href="<?php echo esc_url( $apostrophe_permalink ); ?>"><?php echo wp_kses_post( $apostrophe_post_thumbnail ); ?></a>
+          </div>
+        <?php else: ?>
+          <div style="border: 1px">
+            <?php print "EXCERPT" . $excerpt; ?>
+          </div>
+        <?php endif; ?>
   <header class="entry-header">
 		<?php apostrophe_inline_controls(); ?>
 		<!--<h2 class="entry-title"><a href="<?php //echo esc_url( $apostrophe_permalink ); ?>" rel="bookmark"><?php //the_title(); ?></a></h2>-->
