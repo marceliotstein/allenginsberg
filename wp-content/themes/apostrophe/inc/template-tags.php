@@ -44,6 +44,7 @@ if ( ! function_exists( 'apostrophe_post_nav' ) ) :
 		?>
 		<nav class="navigation post-navigation" role="navigation">
 		<h1 class="screen-reader-text"><?php esc_html_e( 'Post navigation', 'apostrophe' ); ?></h1>
+                <!--
 		<div class="nav-links">
 			<div class="nav-previous">
 			<?php previous_post_link( '%link', '<span class="meta-nav">'._x( 'Previous', 'Previous post link', 'apostrophe' ).'</span> <span class="apostrophe-post-title">%title</span>' ); ?>
@@ -51,7 +52,8 @@ if ( ! function_exists( 'apostrophe_post_nav' ) ) :
 			<div class="nav-next">
 				<?php next_post_link( '%link', '<span class="meta-nav">'._x( 'Next', 'Next post link', 'apostrophe' ).'</span> <span class="apostrophe-post-title">%title</span>' ); ?>
 			</div>
-		</div><!-- .nav-links -->
+		</div>
+                -->
 	</nav><!-- .navigation -->
 	<?php
 	}

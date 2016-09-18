@@ -719,7 +719,8 @@ input[type="submit"],
 .button-secondary {
 	background: rgba(255, 255, 255, 0.25);
 	border: 2px solid #117bb8;
-	color: #159ae7;
+	/*color: #159ae7;*/
+	color: #5a5a5a;
 	cursor: pointer;
 	display: inline-block;
 	font-family: "Quattrocento", serif;
@@ -738,7 +739,7 @@ input[type="button"]:hover,
 input[type="reset"]:hover,
 input[type="submit"]:hover {
 	background-color: #e5f4fd;
-	border-color: #159ae7;
+	border-color: #5a5a5a;
 }
 
 button:focus,
@@ -790,8 +791,8 @@ input[type="url"]:focus,
 input[type="password"]:focus,
 input[type="search"]:focus,
 textarea:focus {
-	border-color: #159ae7;
-	color: #159ae7;
+	border-color: #5a5a5a;
+	color: #5a5a5a;
 	outline: none;
 }
 
@@ -1124,8 +1125,7 @@ a:active {
 	color: silver;
 	display: block;
 	font-family: "Quattrocento", serif;
-	font-size: 28px;
-	font-size: 2.8rem;
+	font-size: 18px;
 	font-weight: 100;
 	overflow: hidden;
 	position: relative;
@@ -1136,8 +1136,7 @@ a:active {
 	color: silver;
 	content: "\f432";
 	display: block;
-	font-size: 36px;
-	font-size: 3.6rem;
+	font-size: 18px;
 	position: absolute;
 }
 
@@ -2005,15 +2004,18 @@ article:hover .apostrophe-inline-controls {
 
 .comment-meta {
 	font-family: "Quattrocento", serif;
-	padding: 0.25em;
+	/*padding: 0.25em;*/
 }
 
 .comment-meta .comment-author .avatar {
+        display: none;
+        /*
 	border-radius: 50%;
 	float: left;
 	height: 100px;
 	margin: 0 0.5em 0 0;
 	width: 100px;
+        */
 }
 
 .comment-meta .comment-author b {
@@ -2770,7 +2772,7 @@ Primarily mobile devices and super-small tablets.
 	.archive article,
 	.blog article,
 	.search article {
-		margin-bottom: 5.55556%;
+		margin-bottom: 40px;
 	}
 
 	.archive article:not(.apostrophe-featured):before,
@@ -3029,7 +3031,7 @@ Primarily tablets and teensy desktops.
 		-webkit-box-sizing: border-box;
 						box-sizing: border-box;
 		/*float: left;*/
-		margin-bottom: 3.33333%;
+		margin-bottom: 54px;    
 		padding-left: 1.11111%;
 		padding-right: 1.11111%;
 		/* width: 33.33333%;*/
