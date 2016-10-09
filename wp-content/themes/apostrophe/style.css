@@ -46,6 +46,15 @@ Tags: blog, custom-background, custom-colors, custom-header, custom-menu, editor
 0.0 Site-wide styles
 --------------------------------------------------------------*/
 
+span.ag-caption {
+  float: left;
+  font-family: karma;
+  font-size: .8em;
+  line-height: 1em;
+  margin-left: 20px; 
+  margin-top: -58px
+}
+
 .entry-meta,
 .edit-link,
 .comment-reply-link,
